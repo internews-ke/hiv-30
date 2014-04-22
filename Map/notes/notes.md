@@ -1,4 +1,4 @@
-###NOTES
+###NOTES - Map
 
 ####Developers
 Daniel Cheseret (@dancheseret)
