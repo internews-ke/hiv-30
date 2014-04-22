@@ -21,3 +21,10 @@ Some goals include:
 
 ####Resources - content
 * [Dropbox](https://www.dropbox.com/sh/c2h7mwkhdbevs59/Ym_XKrhrMm/Timeline)
+
+####Resources - inspiration
+* [Semantic Analysis/Time](http://www.aftenposten.no/spesial/cablegate/)
+<http://innovativeinteractivity.com/tag/afterposten/>
+* [Interactive Timeline](http://www.tiki-toki.com/timeline/entry/137152/Tower-of-London-3D/)
+(show all three media, history)
+* [Interactive Templated Timeline](http://timeline.knightlab.com/)
