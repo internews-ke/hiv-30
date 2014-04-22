@@ -2,6 +2,7 @@
 
 ####Developers
 Aurelia Moser (@auremoser)
+Daniel Cheseret (@dancheseret)
 
 ####Description
 This sentiment analysis prooject is meant to visualize the lexicon associated with HIV coverage for the past 30 years. To do this, we parsed Daily Nation articles related to HIV/AIDS and extracted tags related to the evolving conversation, did it become more scientific, more positive, more negative, less accusative? The objective in conducting this study is to better understand our historic approach to AIDS in African, understand the entities, institutions, and places of interest relative to that conversation, and understand the general mood and approach to this conversation as it evolved over time.
