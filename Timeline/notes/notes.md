@@ -2,6 +2,7 @@
 
 ####Developers
 Aurelia Moser (@auremoser)
+Daniel Cheseret (@dancheseret)
 
 ####Description
 This timeline is meant to visualize aspects of HIV coverage relative to particular time series. 
