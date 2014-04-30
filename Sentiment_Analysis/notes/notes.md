@@ -15,7 +15,7 @@ Some goals include:
 * node-edge relationships between terms
 
 ####Contents
-* Python script to wrap JSON around txt files for Chambua [(python > wrap_json.py)]()
+* Python script to wrap JSON around txt files for Chambua [(python > wrap_json.py)](https://github.com/internews-ke/hiv-30/tree/master/Sentiment_Analysis/python)
 
 
 ####References
