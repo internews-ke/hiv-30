@@ -14,6 +14,10 @@ Some goals include:
 * content analysis with chambua/tag-wave
 * node-edge relationships between terms
 
+####Contents
+* Python script to wrap JSON around txt files for Chambua [(python > wrap_json.py)]()
+
+
 ####References
 * [Overview](https://www.overviewproject.org/)
 * [Chambua](https://github.com/ushahidi/Chambua)
