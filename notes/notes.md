@@ -11,6 +11,8 @@ Some goals include:
 * timeline purely based on media review
 * ability to scrub accross a narrative timeline
 * 3 tracks: research + media track + factoids (intl)
+* [Code Here](https://github.com/internews-ke/hiv-30/tree/master/Timeline)
+* [Demo Here](http://internews-ke.github.io/hiv-30/)
 
 ####References
 * [TimelineJS](http://timeline.knightlab.com/)
@@ -22,6 +24,7 @@ Some goals include:
 
 ####Resources - content
 * [Dropbox](https://www.dropbox.com/sh/c2h7mwkhdbevs59/Ym_XKrhrMm/Timeline)
+* [TikiToki Acct](http://www.tiki-toki.com/timeline/entry/282003/30-YEARS-OF-HIV/#vars!date=1981-01-01_04:09:04!)
 
 ####Resources - inspiration
 * [Semantic Analysis/Time](http://www.aftenposten.no/spesial/cablegate/)
