@@ -1,27 +1,18 @@
-/* JS FOR TIMELINE
+/* JS STUB FILE FOR TIMELINE
 * Internews-KE
 * @auremoser
 */
-(function () {
-	'use strict';
-
-<script type="text/javascript">
-	if (window.postMessage) {
-		var tlMouseupFunc = function() {
-			var tlFrame = document.getElementById("tl-timeline-iframe");
-			if (tlFrame.contentWindow && tlFrame.contentWindow.postMessage) {
-				tlFrame.contentWindow.postMessage("mouseup","*");
-			}
-		}
-		if (typeof window.addEventListener != "undefined") {
-			window.addEventListener("mouseup", tlMouseupFunc, false);
-		}
-		else if (typeof window.attachEvent != "undefined") {
-			window.attachEvent("onmouseup", tlMouseupFunc);
+if (window.postMessage) {
+	var tlMouseupFunc = function() {
+	var tlFrame = document.getElementById("tl-timeline-iframe");
+		if (tlFrame.contentWindow && tlFrame.contentWindow.postMessage) {
+			tlFrame.contentWindow.postMessage("mouseup","*");
 		}
 	}
-</script>
-
-
-
-})();
+	if (typeof window.addEventListener != "undefined") {
+		window.addEventListener("mouseup", tlMouseupFunc, false);
+	}
+	else if (typeof window.attachEvent != "undefined") {
+		window.attachEvent("onmouseup", tlMouseupFunc);
+	}
+}
