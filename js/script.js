@@ -11,8 +11,9 @@ if (window.postMessage) {
 	}
 	if (typeof window.addEventListener != "undefined") {
 		window.addEventListener("mouseup", tlMouseupFunc, false);
-	}
+	}	
 	else if (typeof window.attachEvent != "undefined") {
 		window.attachEvent("onmouseup", tlMouseupFunc);
 	}
 }
+
