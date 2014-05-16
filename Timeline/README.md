@@ -2,6 +2,8 @@ TIMELINE
 ========
 content for this readme migrates from the notes>notes.md file found in this repository
 
+Demo [here](http://internews-ke.github.io/hiv-30/).
+
 ####Developers
 Aurelia Moser (@auremoser)
 
