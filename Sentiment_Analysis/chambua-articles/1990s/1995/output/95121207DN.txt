@@ -1,0 +1,1 @@
+{"organizations":["Mwangi Kagilnda Nairobi","PTA","Lady Justice Owuor"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kendu Bay","latitude":-0.35892,"longitude":34.64924,"place_type":"City"}]}

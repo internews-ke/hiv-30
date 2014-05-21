@@ -1,0 +1,1 @@
+{"people":["Morrison","Frank Tate","Tommy Morrison"],"organizations":["Reuters"],"places":[{"name":"NEW YORK","latitude":43.00035,"longitude":-75.4999,"place_type":"Adm"}]}

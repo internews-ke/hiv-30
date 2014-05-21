@@ -1,0 +1,1 @@
+{"people":["KIPKOECH TANUI"],"organizations":["Pearl Omega"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"America","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

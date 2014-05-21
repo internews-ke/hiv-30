@@ -1,0 +1,1 @@
+{"people":["Mariam Mesaret","Mesaret"],"organizations":["Egypt Air"],"places":[{"name":"Egypt","latitude":27.0,"longitude":30.0,"place_type":"Country"},{"name":"CAIRO","latitude":30.06263,"longitude":31.24967,"place_type":"City"}]}

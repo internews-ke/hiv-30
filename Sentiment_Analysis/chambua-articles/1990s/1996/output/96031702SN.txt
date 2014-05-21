@@ -1,0 +1,1 @@
+{"people":["Joe Muriuki","Arthur Obel","Mr Muriuki","Obel","Prof Obel"],"organizations":["Government","SUNDAY NATION","Kenya Aids Society","Prof Obel"],"places":[]}

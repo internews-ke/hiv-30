@@ -1,0 +1,1 @@
+{"people":["Mr Stephen Machoka","Hesborne","Ingrid","Mr Machoka"],"organizations":["Lake Basin Development Authority","Authority","Belgian Government","Ministry of Health","Kisumu District Medical Officer"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

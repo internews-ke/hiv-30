@@ -1,0 +1,1 @@
+{"people":["Sheldon Handesman"],"organizations":["State","Reuters","University of New York Health Science Centre"],"places":[{"name":"Brooklyn","latitude":40.6501,"longitude":-73.94958,"place_type":"CitySubdivision"},{"name":"Europe","latitude":43.5333,"longitude":3.9833,"place_type":"Hotel"}]}

@@ -1,0 +1,1 @@
+{"people":["Johnson","Greg Louganis","FRED WAGA","Louganis"],"organizations":["Amateur Boxing Association of Kenya","Seoul Olympics"],"places":[{"name":"Seoul","latitude":37.56826,"longitude":126.97783,"place_type":"City"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

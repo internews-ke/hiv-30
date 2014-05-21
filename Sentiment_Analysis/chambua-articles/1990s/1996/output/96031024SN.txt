@@ -1,0 +1,1 @@
+{"people":["Wahren","Britta Wahren"],"organizations":["Karolinska Institute","Soder Hospital","Swedish Institute for Infectious Disease Control","The Karolinska Institute","Reuter"],"places":[{"name":"Stockholm","latitude":59.5,"longitude":18.0,"place_type":"Adm"},{"name":"Sweden","latitude":62.0,"longitude":15.0,"place_type":"Country"}]}

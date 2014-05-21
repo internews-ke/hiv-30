@@ -1,0 +1,1 @@
+{"people":["Mr Ngugi  Muthotho","Muthotho"],"organizations":["16th AfrIcan Health Sciences Congress","World Health Organization","Kenya Medical  Research Institute","Global Strategy for Health","Muthotho     Nairobi","Kenyatta  National"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

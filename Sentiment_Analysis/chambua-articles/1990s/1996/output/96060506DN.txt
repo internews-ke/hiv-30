@@ -1,0 +1,1 @@
+{"people":["Arthur Obel","G.G. Kariuki","Obel","Prof Obel"],"organizations":["Government","Pearl Omega","Kenyatta University","Omega"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Mungai","Prof Mungai","Koech","W.F.O. Marasas","J.M. Mungai","Davy Koech"],"organizations":["Nairobi University Vice-Chancellor","Commission for Higher Education","NATION Reporter Researchers","African Forum for Health Sciences"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

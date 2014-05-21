@@ -1,0 +1,1 @@
+{"people":["Felder","Prof Ssali","Prof Wolff Geisler","Jack Felder","John Roktock"],"organizations":["Western Media"],"places":[{"name":"Ebola","latitude":3.45,"longitude":14.06667,"place_type":"Stream"},{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

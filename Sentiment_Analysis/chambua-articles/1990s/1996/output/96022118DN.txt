@@ -1,0 +1,1 @@
+{"people":["Awino","Jacinta Awino","Ms Awino","Joseph Kaguthi"],"organizations":["United States-funded Population Services International","Nyamasaria Market","Catholic Church"],"places":[{"name":"Western Kenya","latitude":0.5,"longitude":34.58333,"place_type":"Adm"},{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Elizabeth Taylor","Mau Mau"],"organizations":["Head of State"],"places":[{"name":"West","latitude":30.86017,"longitude":72.31976,"place_type":"Adm"}]}

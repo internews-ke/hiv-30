@@ -1,0 +1,1 @@
+{"people":["Elizabeth Reid","Reid","Ms Reid","Nancy Asanga"],"organizations":["Inter","World Bank","Unesco","UN   Development","UNAids","Unicef","UNDP","UN Programme","Continental Hotel"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

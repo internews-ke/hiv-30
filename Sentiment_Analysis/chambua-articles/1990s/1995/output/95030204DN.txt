@@ -1,0 +1,1 @@
+{"people":["Samson Omiyo","Henry Otiende","Joshua Okungu Otieno"],"organizations":["Kisumu Principal Magistrate Charles Oyoo"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"},{"name":"KISUMU","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

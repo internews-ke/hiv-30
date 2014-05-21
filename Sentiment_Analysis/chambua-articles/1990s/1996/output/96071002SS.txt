@@ -1,0 +1,1 @@
+{"people":["MAGGIE FOX","Roche","Hoff","Brian Gazzard"],"organizations":["Merck and Co","Chelsea","Reuters","Glaxo Welicome Plc","Westminster Hospital","Bio  Çhem Pharma Inc","Reuter","Glaxo"],"places":[{"name":"Vancouver","latitude":49.24966,"longitude":-123.11934,"place_type":"City"},{"name":"London","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

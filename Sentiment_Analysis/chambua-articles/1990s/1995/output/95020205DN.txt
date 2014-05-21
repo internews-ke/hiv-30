@@ -1,0 +1,1 @@
+{"people":["PATRICK NGUGI","Norman Olembo","Mr Masahiko Horie","Musyimi Ogana"],"organizations":["NGOs","Christian Health Association of Kenya","CHAK"],"places":[{"name":"Japan","latitude":35.68536,"longitude":139.7531,"place_type":"Country"}]}

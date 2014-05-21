@@ -1,0 +1,1 @@
+{"people":["Hassan Dahiya"],"organizations":["Safariland Club"],"places":[{"name":"Naivasha","latitude":-0.71667,"longitude":36.43591,"place_type":"City"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

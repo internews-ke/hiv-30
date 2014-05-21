@@ -1,0 +1,1 @@
+{"people":["Arthur Obel","Obel","Prof Obel","Davy Koech"],"organizations":["Pearl Omega","University of Nairobi ' s Medical School"],"places":[]}

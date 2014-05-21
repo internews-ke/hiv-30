@@ -1,0 +1,1 @@
+{"people":["ZEPHANIA UBWANI","Panos"],"organizations":["Pamos Institute"],"places":[{"name":"United States","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"London","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Mr Tonje","Mr Tuiyot","William Tuiyot","Mr Harun Kipruto Tonje"],"organizations":["Rift Valley Provincial Hospital"],"places":[{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"}]}

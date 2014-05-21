@@ -1,0 +1,1 @@
+{"people":["Oduol"],"organizations":["Nation Correspondent   Women","Kenya Aids Non  Governmental Organisation Consortium","Advisory Committee","Eastern Province"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Embu","latitude":-23.64664,"longitude":-46.85386,"place_type":"Adm"}]}

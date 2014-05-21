@@ -1,0 +1,1 @@
+{"people":["Edwin Saka","Angela Wanjira","Samson Kaunga","ANTHONY NJAGI","Erastus Owuor","Peter Mwangi","Bambo","Esther Mpaka","George Otieno"],"organizations":["Parots Theatre Group"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

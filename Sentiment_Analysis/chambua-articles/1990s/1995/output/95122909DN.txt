@@ -1,0 +1,1 @@
+{"people":["Mr Chihuri","Augustine Ghihuri"],"organizations":["NACP","National Aids Coordination Programme","Herald","ISO"],"places":[{"name":"HARARE","latitude":-17.82935,"longitude":31.05389,"place_type":"City"},{"name":"Zimbabwe","latitude":-19.0,"longitude":29.0,"place_type":"Country"}]}

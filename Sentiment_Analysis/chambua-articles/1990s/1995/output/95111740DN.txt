@@ -1,0 +1,1 @@
+{"people":["James Mwanzáa","Dr Muita","Mwanzia","James Gesami","Augustine Muita"],"organizations":["Pan-Africa Hotel","OCHIENG SINO  Fifty","Government","Kenyatta National Hospital","Director of Medical Services"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

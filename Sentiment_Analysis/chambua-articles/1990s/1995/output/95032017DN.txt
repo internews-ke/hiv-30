@@ -1,0 +1,1 @@
+{"people":["Kasuja"],"organizations":["Nashon 'Nash"],"places":[{"name":"Florence","latitude":43.83333,"longitude":11.33333,"place_type":"Adm"}]}

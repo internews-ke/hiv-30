@@ -1,0 +1,1 @@
+{"organizations":["KBC","Kenya Medical Research Institute","University of Nairobi","Kenya Broadcasting Corporation","Nairobi University"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

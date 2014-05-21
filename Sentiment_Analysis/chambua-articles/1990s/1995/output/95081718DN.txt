@@ -1,0 +1,1 @@
+{"people":["Steve Deeks"],"organizations":["University of California","US Food and Drug Administration","Food and Drug Administration","US Government"],"places":[{"name":"San Francisco","latitude":37.77668,"longitude":-122.42031,"place_type":"GisFeature"},{"name":"WASHINGTON","latitude":47.50012,"longitude":-120.50147,"place_type":"Adm"}]}

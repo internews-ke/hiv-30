@@ -1,0 +1,1 @@
+{"people":["Mellors","John Mellors"],"organizations":["University of Pittsburgh Medical Centre","Reuter"],"places":[{"name":"Washington","latitude":47.50012,"longitude":-120.50147,"place_type":"Adm"},{"name":"WASHINGTON","latitude":47.50012,"longitude":-120.50147,"place_type":"Adm"}]}

@@ -1,0 +1,1 @@
+{"people":["Michael Wilding","John Paul Getty","Christopher Wilding","Getty","Miss Getty","J. Paul Getty","Elizabeth Taylor","Aileen Getty"],"organizations":["Princess Diana"],"places":[{"name":"London","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

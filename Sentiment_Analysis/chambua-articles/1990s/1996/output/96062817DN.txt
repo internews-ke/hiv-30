@@ -1,0 +1,1 @@
+{"people":["A. Mwasela","Mr Chelang","Francis Kagwima"],"organizations":["Tharakai Nithi District","Government","Tharaka South Division","Eastern Provincial Commissioner Ishmael Chelang"],"places":[{"name":"Tharaka","latitude":-0.3,"longitude":38.01667,"place_type":"Hospital"},{"name":"Eastern Province","latitude":2.5,"longitude":27.0,"place_type":"Adm"}]}

@@ -1,0 +1,1 @@
+{"organizations":["Royal College of  Psychiatry","Department of Psychiatry","Reuter","San Carlos University Hospital"],"places":[{"name":"Madrid","latitude":40.40225,"longitude":-3.71029,"place_type":"Adm"}]}

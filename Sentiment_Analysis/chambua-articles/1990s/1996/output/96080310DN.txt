@@ -1,0 +1,1 @@
+{"people":["Luc Montagnier","Montagnier","Prof Montagnier"],"organizations":["Acquired Immune Deficiency Syndrome","Reuters Television","United Nations","Reuter","CJD"],"places":[{"name":"PARIS","latitude":48.85339,"longitude":2.34864,"place_type":"Adm"}]}

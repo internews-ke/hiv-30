@@ -1,0 +1,1 @@
+{"people":["Veena Howry"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Leicestershire","latitude":52.66667,"longitude":-1.0,"place_type":"Adm"},{"name":"England","latitude":54.0,"longitude":-4.0,"place_type":"Country"}]}

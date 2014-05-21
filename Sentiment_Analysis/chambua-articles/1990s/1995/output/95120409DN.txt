@@ -1,0 +1,1 @@
+{"people":["Bakili Muluzi","Muluzi"],"organizations":["Reuter"],"places":[{"name":"Parliament","latitude":53.06667,"longitude":-0.81667,"place_type":"City"},{"name":"LILONGWE","latitude":-13.96692,"longitude":33.78725,"place_type":"City"},{"name":"Malawi","latitude":-13.5,"longitude":34.0,"place_type":"Country"}]}

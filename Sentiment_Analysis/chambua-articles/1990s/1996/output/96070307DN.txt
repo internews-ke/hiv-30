@@ -1,0 +1,1 @@
+{"people":["Harrison Murbi","Arthur Obel","Obel","Prof Obel"],"organizations":["Dentistry Department","Pearl Omega","Nairobi University"],"places":[{"name":"Third World","latitude":40.34927,"longitude":-74.65099,"place_type":"Pond"},{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"}]}

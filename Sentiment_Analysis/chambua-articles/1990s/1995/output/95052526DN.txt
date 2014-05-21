@@ -1,0 +1,1 @@
+{"places":[{"name":"Ebola","latitude":3.45,"longitude":14.06667,"place_type":"Stream"},{"name":"Zaire","latitude":0.0,"longitude":25.0,"place_type":"Country"},{"name":"Kikwit","latitude":-5.04098,"longitude":18.81619,"place_type":"City"}]}
