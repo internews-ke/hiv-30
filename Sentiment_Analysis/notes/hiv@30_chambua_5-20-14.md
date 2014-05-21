@@ -20,7 +20,7 @@
 * for the 1980s the files were already .txt
 * had some issues with name -> made `special ` folder  
 
-![Date sort]()
+![Date sort](https://raw.githubusercontent.com/internews-ke/hiv-30/master/Sentiment_Analysis/notes/1980s-txt.png)
 
 * ran this to rename files by date: `ls *.txt | sed -e 's/\(....\)\(..\)\(..\)\(..\)/mv \1\2\3\4.txt \4\3\2\1/' | sh`
 
