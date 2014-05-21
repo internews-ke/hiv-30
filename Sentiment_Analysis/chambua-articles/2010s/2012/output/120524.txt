@@ -1,0 +1,1 @@
+{"people":["Rejean Thomas","Mark Wainberg","Guy-Charles Pelletier","Pelletier"],"organizations":["Scientific Committee"],"places":[{"name":"Montreal","latitude":45.50884,"longitude":-73.58781,"place_type":"City"},{"name":"Canada","latitude":60.0,"longitude":-96.0,"place_type":"Country"},{"name":"Quebec","latitude":52.00017,"longitude":-71.99907,"place_type":"Adm"}]}

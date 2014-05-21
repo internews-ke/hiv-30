@@ -1,0 +1,1 @@
+{"people":["Sidibe","Mr Michel Sidibe"],"organizations":["International News","UNAids","United Nations","Manila Health Department"],"places":[{"name":"Berlin","latitude":52.5233,"longitude":13.41377,"place_type":"Adm"},{"name":"Namibia","latitude":-22.0,"longitude":17.0,"place_type":"Country"}]}

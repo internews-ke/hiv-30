@@ -1,0 +1,1 @@
+{"people":["ARTHUR OKWEMBA","Surendra Patel"],"organizations":["University of Nairobi College of Biological and Physical Sciences","Unicef"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

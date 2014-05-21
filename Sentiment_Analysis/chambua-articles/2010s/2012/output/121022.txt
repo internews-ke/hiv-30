@@ -1,0 +1,1 @@
+{"people":["PHILIP KITOTO Dear Kitoto","Deborah L. Shelton","Dan Hi","Dahleen Glanton"],"organizations":["Chicago Tribune","Holy Spirit"],"places":[{"name":"Kisii","latitude":-0.68174,"longitude":34.76666,"place_type":"City"}]}

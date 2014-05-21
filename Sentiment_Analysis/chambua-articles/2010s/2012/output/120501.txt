@@ -1,0 +1,1 @@
+{"people":["ANTHONY GITTENS","DAVID SONYE"],"organizations":["DPP","National Housing Corporation","Rome Statute","ICC"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kilifi","latitude":-3.63045,"longitude":39.84992,"place_type":"City"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

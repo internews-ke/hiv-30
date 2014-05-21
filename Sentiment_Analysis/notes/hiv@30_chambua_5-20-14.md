@@ -52,9 +52,13 @@ NOTES:
 * structure of the files is different sot the typical renaming files sed script 
 * made "special" directory for longer files in each year
 * made "output" directory for chambua arrays
-* converted .docx to text: `textutil -convert txt /Users/aurelia/Desktop/2010s/2011/*.docx`
+* converted .docx to text: `textutil -convert txt /Users/aurelia/Desktop/2010s/2012/*.docx`
 * removed all .docx files `rm *.docx`
 * place .py scripts (wrap_json and send_json) in directory with files
 * renamed files: `ls *.txt | sed -e 's/\(..\)\(..\)\(..\)/mv \1\2\3.txt \3\2\1/' | sh`
 * wrapped objects: `python wrap_json.py`
 * ran chambua: `python send_json.py -o output`
+
+NOTES: 
+2012 dates are crazy, lots of "special files"
+

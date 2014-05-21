@@ -1,0 +1,1 @@
+{"people":["Prof Makau","J. HARRISON KINYANJUI Prof Makau Mutua","Mr Kinyanjui"],"organizations":["Western","Bill of Rights"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Western Europe","latitude":48.57479,"longitude":8.9209,"place_type":"GisFeature"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

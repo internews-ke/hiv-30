@@ -1,0 +1,1 @@
+{"people":["Bernard Rivers","Mr Rivers","Peter Cherntich","Mr Seth Faison"],"organizations":["Division of Malaria Control"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

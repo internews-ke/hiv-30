@@ -1,0 +1,1 @@
+{"organizations":["NewYork Presbyterian/Weill Cornell Medical Center","Cancer Prevention Research"],"places":[{"name":"Haiti","latitude":19.0,"longitude":-70.66667,"place_type":"Country"},{"name":"Qatar","latitude":25.5,"longitude":51.25,"place_type":"Country"}]}
