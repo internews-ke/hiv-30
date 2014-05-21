@@ -1,0 +1,1 @@
+{"people":["Miss Bergalis","Sunday Kimberly Bergalis","George Berltalis","Mr Montgomery","Bergalis","Mr Robert Montgomery","Kimberly Bergalis"],"organizations":["US Centres for Disease Control"],"places":[{"name":"MIAMI","latitude":26.00002,"longitude":-80.1947,"place_type":"GisFeature"}]}

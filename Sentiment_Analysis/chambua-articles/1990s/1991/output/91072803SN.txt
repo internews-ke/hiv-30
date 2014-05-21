@@ -1,0 +1,1 @@
+{"people":["Mrs Onsando","Mrs Wilkista Onsando","FRANCIS RAYMOND  The Kanu Maendeleo"],"organizations":["Coast and Eastern","Ministry of Health","Wanawake Organisation National Chairman"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

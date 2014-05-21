@@ -1,0 +1,1 @@
+{"places":[{"name":"Australia","latitude":-25.0,"longitude":135.0,"place_type":"Country"},{"name":"Sydney","latitude":-33.86785,"longitude":151.20732,"place_type":"City"}]}

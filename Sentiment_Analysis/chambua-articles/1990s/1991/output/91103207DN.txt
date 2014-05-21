@@ -1,0 +1,1 @@
+{"people":["Chira","Richo Kelo Chira","Sammie Hillary Ngwalla","Paul Mboya"],"organizations":["Chira"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

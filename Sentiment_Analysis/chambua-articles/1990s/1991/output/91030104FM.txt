@@ -1,0 +1,1 @@
+{"organizations":["Shanghai Medical University","Hepatitis B Hepatitis B","International Clinical Epidemiology Network"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"Asia","latitude":9.56667,"longitude":122.6,"place_type":"Adm"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}
