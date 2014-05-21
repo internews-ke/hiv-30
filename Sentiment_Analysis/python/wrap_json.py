@@ -14,12 +14,11 @@ def main():
     parser.add_argument('-p', '--pattern', default='./*.txt', help='foo')
     args = parser.parse_args()
 
-    fix_encoding = lambda s: s.encode('ascii', 'ignore')
+    fix_encoding = lambda s: s.decode('utf-8', 'replace')
 
     for file in glob.glob(args.pattern):
         with open(file, "r+") as f:
-            # content = fix_encoding(f.read())
-            content = f.read()
+            content = fix_encoding(f.read())
             content = content.rstrip('\r\n')
             content = json.dumps({'text': content}, ensure_ascii=True)
             f.seek(0)
