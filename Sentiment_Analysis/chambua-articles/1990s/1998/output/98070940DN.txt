@@ -1,0 +1,1 @@
+{"people":["Mr. Mugavana","CATHERINE MGENDI  Barclays Bank","Mr Ben Mugayana","Mr Mugavana"],"organizations":["NGO","Ms Angeline  Tenah","Barclays","Family Health International","Health International","Barclays Bank"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

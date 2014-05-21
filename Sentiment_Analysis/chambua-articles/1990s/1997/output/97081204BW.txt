@@ -1,0 +1,1 @@
+{"organizations":["Shl","Free Life Cover","Group Life Assurance","Ng'aru & Associates","Risk Management and Insurance Management Consultant"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

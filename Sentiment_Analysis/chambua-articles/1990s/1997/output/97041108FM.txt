@@ -1,0 +1,1 @@
+{"people":["Johnson","Elisa","Laura Randolph","WANJA NJUGUNA"],"organizations":["Michigan State","Ebony Magazine","West Angeles Church of God","Ebony","Magic","Earvin 'Magic"],"places":[{"name":"Johnson","latitude":38.86667,"longitude":-94.86691,"place_type":"Adm"},{"name":"Black America","latitude":42.46665,"longitude":-92.31685,"place_type":"Adm"}]}

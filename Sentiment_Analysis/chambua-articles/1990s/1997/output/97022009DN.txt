@@ -1,0 +1,1 @@
+{"people":["Patrick Bouie","Mr R. W. Liebenberg","CHRIS ERASMUS","Prof Bouic"],"organizations":["Department of Microbiology","University of Pretoria","Virodene","Department","Stellenbosch University's Faculty of Medicine","SA Press Association"],"places":[{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

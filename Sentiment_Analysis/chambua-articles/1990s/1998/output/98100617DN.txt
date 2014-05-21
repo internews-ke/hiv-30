@@ -1,0 +1,1 @@
+{"people":["Richard Muga","Makueni"],"organizations":["Meru Central District","Kenya Institute of Education","National Aids","Unicef","Meru Central","Meru South Embu","Meru North","STD Control Programme"],"places":[{"name":"Isiolo","latitude":0.35462,"longitude":37.58218,"place_type":"City"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

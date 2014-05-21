@@ -1,0 +1,1 @@
+{"people":["Savion"],"organizations":["Eastern","Johnson & Johnson","Aids Relief Programme","Nairobi Eastern Deanery CBI-IC","Archdiocese of Nairobi Eastern Deanery CBHC Aids  Relief Programme","Ltd."],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

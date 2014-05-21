@@ -1,0 +1,1 @@
+{"people":["JACINTA SEKOH"],"organizations":["Government","State","United Nations High Commissioner","National Aids  Council"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Parliament","latitude":53.06667,"longitude":-0.81667,"place_type":"City"}]}

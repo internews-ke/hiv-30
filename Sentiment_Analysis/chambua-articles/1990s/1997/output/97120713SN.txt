@@ -1,0 +1,1 @@
+{"people":["Chirac","Henri Konan Bedie","Jacques Chirac"],"organizations":["10th International Conference"],"places":[{"name":"France","latitude":46.0,"longitude":2.0,"place_type":"Country"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"ABIDJAN","latitude":5.30943,"longitude":-4.01972,"place_type":"City"}]}

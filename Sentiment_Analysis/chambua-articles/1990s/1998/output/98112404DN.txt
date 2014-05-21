@@ -1,0 +1,1 @@
+{"organizations":["Futures Group International UK","Care Project","Family Health International","Culture Programme","Lakeside Community Development Group","British Council"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

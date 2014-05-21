@@ -1,0 +1,1 @@
+{"people":["Mr Ndolo","Mr Meshack Ndolo"],"organizations":["Ministry","Government","Children's Department","'Ministry of Health","NATION Correspondent  The Government"],"places":[{"name":"Machakos","latitude":-1.51667,"longitude":37.26667,"place_type":"City"}]}

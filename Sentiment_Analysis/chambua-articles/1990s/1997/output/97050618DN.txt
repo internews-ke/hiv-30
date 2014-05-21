@@ -1,0 +1,1 @@
+{"people":["Ruth Evans"],"organizations":["BBC","The BBC World Service"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"LONDON","latitude":51.50853,"longitude":-0.12574,"place_type":"City"},{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

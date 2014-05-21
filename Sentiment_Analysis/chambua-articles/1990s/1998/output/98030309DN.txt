@@ -1,0 +1,1 @@
+{"people":["Selby Baqwa","Nelson Mandela","Nkosazana Zuma","CHRIS ERASMUS"],"organizations":["African National Congress","Pretoria University","South African Medicines Control Council","ANC","Virodene","Democratic Party"],"places":[{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

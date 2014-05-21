@@ -1,0 +1,1 @@
+{"organizations":["NATION Reporter The Family Planning Association of Kenya","CDC","Nairobi  Claims","Education Programme"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

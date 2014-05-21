@@ -1,0 +1,1 @@
+{"people":["Sheldon Handesman"],"organizations":["State University of New York Health Science Centre"],"places":[{"name":"Brooklyn","latitude":40.6501,"longitude":-73.94958,"place_type":"CitySubdivision"},{"name":"New England","latitude":54.9,"longitude":-1.51667,"place_type":"City"}]}

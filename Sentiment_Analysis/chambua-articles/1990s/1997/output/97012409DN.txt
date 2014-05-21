@@ -1,0 +1,1 @@
+{"organizations":["Pretoria University","Virodene"],"places":[{"name":"Pretoria","latitude":-26.08333,"longitude":28.25,"place_type":"Adm"},{"name":"JOHANNESBURG","latitude":-26.20227,"longitude":28.04363,"place_type":"City"}]}

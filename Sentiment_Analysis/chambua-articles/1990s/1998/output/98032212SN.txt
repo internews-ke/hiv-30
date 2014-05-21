@@ -1,0 +1,1 @@
+{"people":["Nils Daulaire","Daulaire"],"organizations":["USAID","U.S. Agency for International Development","AZT","U.N Programme","Glaxo Wellcome"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Geneva","latitude":46.16667,"longitude":6.16667,"place_type":"Adm"}]}

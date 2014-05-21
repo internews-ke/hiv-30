@@ -1,0 +1,1 @@
+{"people":["Abu Obaidul Huque"],"places":[{"name":"Dhaka","latitude":23.7104,"longitude":90.40744,"place_type":"City"},{"name":"London","latitude":51.50853,"longitude":-0.12574,"place_type":"City"},{"name":"Bangladesh","latitude":24.0,"longitude":90.0,"place_type":"Country"}]}

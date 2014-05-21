@@ -1,0 +1,1 @@
+{"people":["D.A. Kokonya"],"organizations":["World Health Organization","Sexually Transmitted Diseases Control Programme"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"East Africa","latitude":-18.25,"longitude":35.0,"place_type":"Country"},{"name":"Eastern Africa","latitude":-32.0,"longitude":26.0,"place_type":"Adm"}]}

@@ -1,0 +1,1 @@
+{"people":["Paul Chuke","Jackson Mulinge"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"}]}

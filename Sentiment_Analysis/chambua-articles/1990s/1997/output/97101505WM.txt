@@ -1,0 +1,1 @@
+{"places":[{"name":"Amani","latitude":-3.76667,"longitude":119.48417,"place_type":"City"}]}

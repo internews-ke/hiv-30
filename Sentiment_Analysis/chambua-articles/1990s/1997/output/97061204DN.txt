@@ -1,0 +1,1 @@
+{"people":["Michael Kwena","Kwena"],"organizations":["District Hospital"],"places":[{"name":"ISIOLO","latitude":0.35462,"longitude":37.58218,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Mr Ndolo","Mr Sammy oie Kwallah","Mr Meshack Ndolo"],"organizations":["NGOs","NATION Reporter  The Ministry of Health","Government","Unicef","Children’s Department","United Nations","Local Government"],"places":[{"name":"New York","latitude":43.00035,"longitude":-75.4999,"place_type":"Adm"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

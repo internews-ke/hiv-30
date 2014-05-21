@@ -1,0 +1,1 @@
+{"organizations":["Health Ministry","Reuter"],"places":[{"name":"LUSAKA","latitude":-15.40669,"longitude":28.28713,"place_type":"City"},{"name":"Zambia","latitude":-15.0,"longitude":30.0,"place_type":"Country"},{"name":"Friday Zambia","latitude":-15.08333,"longitude":29.43333,"place_type":"City"}]}

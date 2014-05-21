@@ -1,0 +1,1 @@
+{"people":["Awino","Jacinta Awino","Mr Kenneth Muriuki","Kajulu","Mr Neto","Agostino Neto"],"organizations":["Trust Condoms Soccer Tournament","PSI","NATION Correspondent Poverty","Ms Mukami Mugo","Riwo Youth Group","Obwolo Grounds","'Population Services International"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

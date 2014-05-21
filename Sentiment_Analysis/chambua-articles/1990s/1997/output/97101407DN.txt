@@ -1,0 +1,1 @@
+{"people":["Anderson Omoto","William Chepkwony"],"places":[{"name":"Bumala","latitude":0.38333,"longitude":34.35,"place_type":"School"},{"name":"Busia","latitude":0.45444,"longitude":34.07583,"place_type":"City"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

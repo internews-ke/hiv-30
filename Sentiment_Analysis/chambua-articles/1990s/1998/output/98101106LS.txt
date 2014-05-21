@@ -1,0 +1,1 @@
+{"people":["Clinton","Donna Shalala","Sandra Thurman","Zingale"],"organizations":["Human Services","Health Statistics","Congress","Office of National Aids","Reuters","National Centre"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"US Washington","latitude":47.50012,"longitude":-120.50147,"place_type":"Adm"}]}

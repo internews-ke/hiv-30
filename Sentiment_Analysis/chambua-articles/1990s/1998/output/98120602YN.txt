@@ -1,0 +1,1 @@
+{"people":["Sheila Khomola","Mrs  T M Agengo","Esther M.Karimi"],"organizations":["Nelson Ndutive Gcwndu","NGOs","USA"],"places":[{"name":"Maua","latitude":-23.66364,"longitude":-46.44656,"place_type":"Adm"},{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"},{"name":"Nyeri","latitude":-0.42013,"longitude":36.94759,"place_type":"City"}]}
