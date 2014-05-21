@@ -1,0 +1,1 @@
+{"people":["Mzee Daudi","Joyce Sh10","Otieno","Chris","Joyce"],"organizations":["Mumias Sugar Company","AWC Features"],"places":[{"name":"Busia","latitude":0.45444,"longitude":34.07583,"place_type":"City"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

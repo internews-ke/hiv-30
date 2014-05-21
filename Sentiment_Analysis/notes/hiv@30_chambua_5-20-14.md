@@ -36,7 +36,7 @@
 * convert files to docx from doc
 * made "special" directory for longer files in each year
 * made "output" directory for chambua arrays
-* converted .docx to text: `textutil -convert txt /Users/aurelia/Desktop/1990s/1997/*.docx`
+* converted .docx to text: `textutil -convert txt /Users/aurelia/Desktop/1990s/1999/*.docx`
 * removed all .docx files `rm *.docx`
 * place .py scripts (wrap_json and send_json) in directory with files
 * deleted .docx files

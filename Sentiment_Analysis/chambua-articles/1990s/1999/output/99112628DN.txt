@@ -1,0 +1,1 @@
+{"people":["Amukowa Anangwe","Mr Livingstone"],"organizations":["National Industrial Credit Bank","Afya House","Minister  for Medical Services"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

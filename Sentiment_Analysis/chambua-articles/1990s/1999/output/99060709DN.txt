@@ -1,0 +1,1 @@
+{"places":[{"name":"Iran","latitude":32.0,"longitude":53.0,"place_type":"Country"},{"name":"TEHRAN","latitude":35.69439,"longitude":51.42151,"place_type":"City"}]}

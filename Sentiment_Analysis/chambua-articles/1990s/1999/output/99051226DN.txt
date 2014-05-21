@@ -1,0 +1,1 @@
+{"people":["George Orwell","Nkoua   zuna Zaina","Nelson Mandela"],"organizations":["Garden   City Clinic","Rosubank Vaccination Station","Rescue International"]}

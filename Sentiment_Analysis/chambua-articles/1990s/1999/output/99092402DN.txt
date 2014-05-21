@@ -1,0 +1,1 @@
+{"people":["Allergic Rhinitis"],"organizations":["Diabetes& Stomach Ulcer","Tradition Treatment  Fibroids"],"places":[{"name":"Paralysis","latitude":56.86472,"longitude":-134.38083,"place_type":"GisFeature"}]}

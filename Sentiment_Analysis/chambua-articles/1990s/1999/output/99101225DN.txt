@@ -1,0 +1,1 @@
+{"organizations":["Female Genital Mutilation","ICPD"],"places":[{"name":"Cairo","latitude":30.06263,"longitude":31.24967,"place_type":"City"},{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"}]}

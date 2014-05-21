@@ -1,0 +1,1 @@
+{"people":["Mary","Stella Wanjiru","Charlene"],"organizations":["Federation of Women Lawyers","Kenya Navy"],"places":[{"name":"Port","latitude":-29.8579,"longitude":31.0292,"place_type":"City"}]}

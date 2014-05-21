@@ -1,0 +1,1 @@
+{"people":["Moi","Kirima","Niccodemus Kirima"],"organizations":["Consolata Mission  Hospital","Nyeri Catholic  Archdiocese","Health  Ministry"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Mathari","latitude":-0.41741,"longitude":36.91847,"place_type":"City"}]}

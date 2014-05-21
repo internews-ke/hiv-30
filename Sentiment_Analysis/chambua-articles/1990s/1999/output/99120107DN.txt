@@ -1,0 +1,1 @@
+{"people":["Frances Kissling","John Njue"],"organizations":["Vatican","Free Choice","Johns Hopkins University"]}

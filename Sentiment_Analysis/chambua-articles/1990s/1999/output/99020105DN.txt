@@ -1,0 +1,1 @@
+{"people":["Mr James Ayuyo"],"organizations":["World Health Organisation","Unicef","Homa Bay Farmers Training Centre"],"places":[{"name":"Homa Bay","latitude":-0.52731,"longitude":34.45714,"place_type":"City"}]}

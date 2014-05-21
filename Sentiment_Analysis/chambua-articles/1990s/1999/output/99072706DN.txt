@@ -1,0 +1,1 @@
+{"organizations":["Acquired Immune Deficiency Syndrome"],"places":[{"name":"Western Province","latitude":-34.0,"longitude":20.0,"place_type":"Adm"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Central Province","latitude":-13.5,"longitude":34.0,"place_type":"Adm"}]}

@@ -1,0 +1,1 @@
+{"people":["Mr Raphael Tuju","Mr Dickerson","Mrs Anne Gakuria","Mrs Gakuria","Peter Raburu","Mr Donald W. Dickerson"],"organizations":["Ace Communications","Ace Communication Limited","SUNDAY NATION Correspondent The UK","Swahili"],"places":[{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

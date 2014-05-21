@@ -1,0 +1,1 @@
+{"people":["Museveni"],"organizations":["Defence Force","UPDF"],"places":[{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"},{"name":"KAMPALA","latitude":0.31628,"longitude":32.58219,"place_type":"City"}]}

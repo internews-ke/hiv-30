@@ -1,0 +1,1 @@
+{"people":["Stephen K.Karanja","Richard Gordon"],"organizations":["UK"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Birmingham","latitude":52.48142,"longitude":-1.89983,"place_type":"City"}]}

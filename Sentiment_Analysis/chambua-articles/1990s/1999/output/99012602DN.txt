@@ -1,0 +1,1 @@
+{"people":["Seth Berkley","Kenyawill","Meme"],"organizations":["IAVI"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Europe","latitude":43.5333,"longitude":3.9833,"place_type":"Hotel"}]}

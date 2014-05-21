@@ -1,0 +1,1 @@
+{"people":["Mr Ibrahim","Stephen Chombo"],"organizations":["Mavueni Primary School","Kikambala DO Elmi Shafti Ibrahim"],"places":[{"name":"Kilifi","latitude":-3.63045,"longitude":39.84992,"place_type":"City"}]}

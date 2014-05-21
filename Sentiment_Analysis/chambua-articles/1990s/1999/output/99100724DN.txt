@@ -1,0 +1,1 @@
+{"people":["Ndambuki Mboloi","JOSEPH GICHURU","Dr Mboloi","Mboloi"],"organizations":["Kenyatta National Hospital","World Health Organisation","Mbagathi District Hospital"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"City","latitude":19.42847,"longitude":-99.12766,"place_type":"City"}]}

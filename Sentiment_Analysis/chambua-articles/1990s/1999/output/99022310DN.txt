@@ -1,0 +1,1 @@
+{"places":[{"name":"JERUSALEM","latitude":31.77902,"longitude":35.2253,"place_type":"City"}]}

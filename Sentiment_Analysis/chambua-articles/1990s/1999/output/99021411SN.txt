@@ -1,0 +1,1 @@
+{"people":["Nafis Sadik"],"organizations":["Conference on Population and Development","United Nations Population Fund","United Nations General Assembly","Cairo Program of Action"],"places":[{"name":"Egypt","latitude":27.0,"longitude":30.0,"place_type":"Country"},{"name":"Cairo","latitude":30.06263,"longitude":31.24967,"place_type":"City"}]}

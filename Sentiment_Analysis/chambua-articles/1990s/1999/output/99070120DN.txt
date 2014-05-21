@@ -1,0 +1,1 @@
+{"people":["Crispin Wilson","Mr Wilson","Mr Peter Raburu","Mr Donald W. Dickerson"],"organizations":["NGOs","Unicef","Nyanza Provincial Aids","Unicef Country","Imperial Hotel"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

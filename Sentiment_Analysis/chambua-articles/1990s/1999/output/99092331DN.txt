@@ -1,0 +1,1 @@
+{"organizations":["Proramme of Action","International Conference on Population  and Development","UNFPA"],"places":[{"name":"Denmark","latitude":56.0,"longitude":10.0,"place_type":"Country"},{"name":"Norway","latitude":62.0,"longitude":10.0,"place_type":"Country"},{"name":"Sweden","latitude":62.0,"longitude":15.0,"place_type":"Country"}]}

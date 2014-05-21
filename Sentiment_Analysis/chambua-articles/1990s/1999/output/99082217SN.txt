@@ -1,0 +1,1 @@
+{"organizations":["SUNDAY NATION Correspondent Kisumu Catholic Archbishop Zacheaus Okoth","St Teresa's Church"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

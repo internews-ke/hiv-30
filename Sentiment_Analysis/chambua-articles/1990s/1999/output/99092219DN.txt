@@ -1,0 +1,1 @@
+{"organizations":["STD","Health Survey"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

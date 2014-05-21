@@ -1,0 +1,1 @@
+{"people":["Mr. Crispin  Wilson","Mr Wilson","Peter Raburu","Mr Donald W.  Dickerson"],"organizations":["NATION Correspondent  Unicef","UNAids","Unicef","Ministry of Health","Church"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

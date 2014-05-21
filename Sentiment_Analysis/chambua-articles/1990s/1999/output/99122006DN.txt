@@ -1,0 +1,1 @@
+{"organizations":["Unicef","Eastern","Ministry of Education"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

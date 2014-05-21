@@ -1,0 +1,1 @@
+{"people":["Crixia","Charlene Smith","Mrs smith"],"organizations":["Parkview"],"places":[{"name":"Argentina","latitude":-34.0,"longitude":-64.0,"place_type":"Country"},{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

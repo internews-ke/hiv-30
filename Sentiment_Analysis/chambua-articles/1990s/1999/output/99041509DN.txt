@@ -1,0 +1,1 @@
+{"organizations":["FDA of America Range of Treatment"],"places":[{"name":"V.D.","latitude":50.2265,"longitude":8.61197,"place_type":"Adm"}]}
