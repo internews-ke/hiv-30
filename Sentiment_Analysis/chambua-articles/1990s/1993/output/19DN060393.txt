@@ -1,0 +1,1 @@
+{"people":["George Rwamushana","Andrew Nunn","Rashid Likwago","Charles Ssali"],"organizations":["Uganda Aids Control Programme","World Aids Conference","Uganda Aids Commission","Masaka Hospital"],"places":[{"name":"Berlin","latitude":52.5233,"longitude":13.41377,"place_type":"Adm"},{"name":"Western Uganda","latitude":1.15,"longitude":31.1,"place_type":"GisFeature"}]}

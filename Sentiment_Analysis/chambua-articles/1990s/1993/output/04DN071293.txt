@@ -1,0 +1,1 @@
+{"people":["Mr Angugo","OLOO JANAK","Mr Bernard Okeno Adoma","Mr Walter Ombok","Mr Nashon Angugo"],"organizations":["The Migori Kenya National Union of Teachers","Nation"],"places":[{"name":"Migori","latitude":-1.06344,"longitude":34.47313,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"organizations":["French Association","Benetton"],"places":[{"name":"Paris","latitude":48.85339,"longitude":2.34864,"place_type":"Adm"}]}

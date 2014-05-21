@@ -1,0 +1,1 @@
+{"people":["Michael Merson"],"organizations":["World Health Organisation","GPA","Qf Global Programme","Nigeria International Congress of Virology","World Health I Organisation"],"places":[{"name":"Britain","latitude":54.0,"longitude":-4.0,"place_type":"Country"},{"name":"Glasgow","latitude":55.86515,"longitude":-4.25763,"place_type":"City"}]}

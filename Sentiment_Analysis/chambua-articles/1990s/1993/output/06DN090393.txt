@@ -1,0 +1,1 @@
+{"people":["Mr O’Reilly","Mr   Vincent O’Reilly"],"organizations":["Ministry","Ministry   of Health","Government","Unicef","Parliament","National Aida Control Programme"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

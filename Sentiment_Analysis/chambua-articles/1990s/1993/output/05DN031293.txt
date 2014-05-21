@@ -1,0 +1,1 @@
+{"people":["Bheikh Mongo","Sheikb Mongo","Koech","Mr Nich   olas Mberis","Meo Philomeon   Koenh"],"organizations":["Western Province","Robert   During"],"places":[{"name":"Kericho","latitude":-0.36774,"longitude":35.28314,"place_type":"City"}]}

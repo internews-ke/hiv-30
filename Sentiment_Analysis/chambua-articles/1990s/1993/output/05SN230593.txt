@@ -1,0 +1,1 @@
+{"people":["Mr Chepchim","MWANGI GEITA","Mr David","Mr Syenge","Mr Charles Chepchim","Mr Francis Syenge"],"organizations":["Government","Nation Centre","Kamiti Maximum Security Prison"],"places":[{"name":"Mareka","latitude":-5.50228,"longitude":148.61064,"place_type":"City"},{"name":"Kamiti","latitude":-1.21667,"longitude":37.03333,"place_type":"Stream"}]}

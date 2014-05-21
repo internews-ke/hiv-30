@@ -1,0 +1,1 @@
+{"people":["Hanif Zizimawalas"],"organizations":["Coast General Hospital","Mohamed Ali of Hola"],"places":[{"name":"Mailbox","latitude":54.36634,"longitude":-128.57011,"place_type":"GisFeature"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

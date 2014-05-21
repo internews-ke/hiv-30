@@ -1,0 +1,1 @@
+{"people":["Mr Sammie  Machans","Mr Kiratu","Mr Harrison","Ronald Gilbert","Mr Peter Mwai","CHEGE","Mr  Mwai","Mr Rodney Harrison","Mr Mwai"],"organizations":["Music  Composers Association","Music Copyright Society"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"New Zealand","latitude":-42.0,"longitude":174.0,"place_type":"Country"}]}

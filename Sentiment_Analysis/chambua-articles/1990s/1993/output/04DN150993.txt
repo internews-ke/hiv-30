@@ -1,0 +1,1 @@
+{"people":["A. M. Maahm","Maga","Mr   Mohammed Basana","Mr John Gobno","Mrs Olang","Mrs   Grace Olang","Kuria","Mage","J. G. Kibeea","Mr   John Nandnoaha","Mr   Mwaai"],"organizations":["A. R Taime","Nyamiro DC"],"places":[{"name":"Aida","latitude":31.71946,"longitude":35.19864,"place_type":"Camp"},{"name":"Kisii","latitude":-0.68174,"longitude":34.76666,"place_type":"City"}]}

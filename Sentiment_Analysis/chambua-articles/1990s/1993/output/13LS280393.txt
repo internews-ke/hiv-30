@@ -1,0 +1,1 @@
+{"people":["Kaunda","Glen Williams"],"organizations":["ActionAid","Chikankata Salvation Army Hospital"],"places":[{"name":"Zambia","latitude":-15.0,"longitude":30.0,"place_type":"Country"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"U.K.","latitude":54.0,"longitude":-4.0,"place_type":"Country"}]}

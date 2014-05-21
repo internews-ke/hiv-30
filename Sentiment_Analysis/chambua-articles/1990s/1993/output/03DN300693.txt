@@ -1,0 +1,1 @@
+{"people":["Frederick  Remulo","Jack Omondi","Mr Avérno","Mr. Avérno","Omondi","Mr R. Ochola Averno","Mrs Nereah  AkinyiOdina"],"organizations":["Secondary School","Siaya District Hospital","Siaya District Medical"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

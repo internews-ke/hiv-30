@@ -1,0 +1,1 @@
+{"people":["Sylvester Faya","Faya"],"organizations":["Aga Khan Hospital","Acquired Immuno Deficiency Syndrome"],"places":[{"name":"America","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

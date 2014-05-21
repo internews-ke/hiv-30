@@ -1,0 +1,1 @@
+{"organizations":["National Aids Council","Benetton","Agency Against Acquired Immune Deficiency Syndrome"],"places":[{"name":"France","latitude":46.0,"longitude":2.0,"place_type":"Country"},{"name":"Paris","latitude":48.85339,"longitude":2.34864,"place_type":"Adm"}]}

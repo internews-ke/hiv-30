@@ -1,0 +1,1 @@
+{"people":["Johnson"],"organizations":["Magic Johnson","Los Angeles Lakers","National Basketball Association"]}

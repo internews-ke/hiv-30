@@ -1,0 +1,1 @@
+{"people":["Wangai"],"organizations":["Dr Wangai"],"places":[{"name":"Aida","latitude":31.71946,"longitude":35.19864,"place_type":"Camp"}]}

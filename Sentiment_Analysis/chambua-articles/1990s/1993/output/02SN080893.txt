@@ -1,0 +1,1 @@
+{"people":["Joshua Angatia","Mr Angatia","Mr"],"organizations":["Kakamega Medical Training","Government","KNA"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Europe","latitude":43.5333,"longitude":3.9833,"place_type":"Hotel"}]}

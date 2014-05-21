@@ -1,0 +1,1 @@
+{"organizations":["Kalinabiri Primary  School","ELS HOOVER  Unicef","Unicef"],"places":[{"name":"Aida","latitude":31.71946,"longitude":35.19864,"place_type":"Camp"},{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"},{"name":"Kampala","latitude":0.31628,"longitude":32.58219,"place_type":"City"}]}

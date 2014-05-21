@@ -1,0 +1,1 @@
+{"people":["Ngugi","Elizabeth Ngugi","Mrs Nyiva Mwendwa"],"organizations":["Society for Women","Social Services","SUNDAY NATION Reporter Women","University of Nairobi's Community Health Department"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

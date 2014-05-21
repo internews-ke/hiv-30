@@ -1,0 +1,1 @@
+{"people":["Mr Ken Nyaudi","Mr Justice Daniel  Aganyanya","Victor","Mr Musse  Kirui","Mr Tom  Mutei","Mr Nyagaya","Mr Adal Noor","Mr Kirua"],"organizations":["Government","Uasin Gisha  District Children’s Advisory  Committee","Eldoret Distil  Hospital","Moi University"],"places":[{"name":"Eldoret","latitude":0.52036,"longitude":35.26992,"place_type":"City"}]}

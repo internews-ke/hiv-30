@@ -1,0 +1,1 @@
+{"people":["Mr Owtior","Mr George Githae","Mr Owuor","Mr Mulli","Mr Munyao"],"organizations":["National Hospital","Ministry","Government","Sixth National Development Plan","Ministry of Health","National Hospital Insurance Corporation"]}

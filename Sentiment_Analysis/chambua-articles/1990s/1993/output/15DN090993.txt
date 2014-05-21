@@ -1,0 +1,1 @@
+{"people":["Joshua Angatia","Mr Angatia","William Jimbo"],"organizations":["Health Ministry","Ministry","Government","Ministry of Health","National Aids Control Programme","District Commissioners"],"places":[{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

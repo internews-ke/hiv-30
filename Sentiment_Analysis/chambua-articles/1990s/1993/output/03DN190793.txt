@@ -1,0 +1,1 @@
+{"organizations":["St Thomas Church"],"places":[{"name":"Magadi","latitude":12.96667,"longitude":77.23333,"place_type":"City"}]}
