@@ -1,0 +1,1 @@
+{"people":["Mark Bor","Mr John Parsons"],"organizations":["NACC","National Aids Control Council","National Aids","Division of Malaria Control","Ministerial Procurement Committees","Public Health and Sanitation","STD Control Programme"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

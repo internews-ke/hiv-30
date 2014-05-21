@@ -1,0 +1,1 @@
+{"people":["Dr Maina","Maina","William Maina","LUCAS BARASA"],"organizations":["National Aids and Sexually Transmitted Infection Control Programme","Nascop","Panafric Hotel"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

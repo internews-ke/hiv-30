@@ -1,0 +1,1 @@
+{"people":["Lazarus"],"organizations":["Reinhard Bonnke","Kenya Network of Women"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"},{"name":"Germany","latitude":51.5,"longitude":10.5,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Maai Mahiu","Joseph Lenai"],"organizations":["NATION CORRESPONDENT Nakuru Residents of Naivasha","North Star Alliance"],"places":[{"name":"Naivasha","latitude":-0.71667,"longitude":36.43591,"place_type":"City"}]}

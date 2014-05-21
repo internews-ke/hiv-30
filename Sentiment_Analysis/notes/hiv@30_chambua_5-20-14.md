@@ -60,5 +60,5 @@ NOTES:
 * ran chambua: `python send_json.py -o output`
 
 NOTES: 
-2012 dates are crazy, lots of "special files"
+2012-2013 dates are crazy, lots of "special files"
 

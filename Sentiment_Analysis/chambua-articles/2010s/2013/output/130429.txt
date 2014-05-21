@@ -1,0 +1,1 @@
+{"people":["JAMES NGUNJIRI","Peter Kairo","Kairo"],"organizations":["Sunday Nation","The Catholic Church","Catholic Church","Catholic Archdiocese of Nyeri"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

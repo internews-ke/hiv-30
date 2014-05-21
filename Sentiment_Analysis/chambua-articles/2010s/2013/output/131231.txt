@@ -1,0 +1,1 @@
+{"people":["Sirengo","Martin Sirengo"],"organizations":["Nascop","National Aids","USaid","Nation","STI Control Programme","Nation Public"],"places":[{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

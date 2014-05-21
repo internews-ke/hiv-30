@@ -1,0 +1,1 @@
+{"people":["Julius Koome"],"organizations":["National Aids Control Council","Coast","Pumwani Maternity"],"places":[{"name":"Kilifi","latitude":-3.63045,"longitude":39.84992,"place_type":"City"},{"name":"Machakos","latitude":-1.51667,"longitude":37.26667,"place_type":"City"}]}

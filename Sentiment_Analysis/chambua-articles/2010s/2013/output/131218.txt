@@ -1,0 +1,1 @@
+{"people":["MAGDALENE WANJA","Julius Nyambega"],"organizations":["Regional Health Workers Union","ARV","Nation","Comprehensive Care Clinic","CCC"],"places":[{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Kivutha Kibwana","Makueni","Mutava Mulwa","LILLIAN MUTAVI","Mutava","Kibwana"],"places":[{"name":"Emali","latitude":-2.08196,"longitude":37.47305,"place_type":"City"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

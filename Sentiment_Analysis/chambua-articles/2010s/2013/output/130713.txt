@@ -1,0 +1,1 @@
+{"people":["Kenyatta","Goodluck Jonathan"],"organizations":["African Union"],"places":[{"name":"Nigeria","latitude":10.0,"longitude":8.0,"place_type":"Country"},{"name":"Abuja","latitude":8.83333,"longitude":7.16667,"place_type":"Adm"}]}

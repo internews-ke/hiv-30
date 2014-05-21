@@ -1,0 +1,1 @@
+{"people":["Prof Orago","Wambua","SAMUEL SIRINGI","Robert Monda","Alloys Orago","Jennifer Wambua"],"organizations":["NACC","National Aids Control Council","Parliament","Kenya National Aids Commission Bill","Health Survey","Kenya National Aids Commission","Former Health Committee"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}
