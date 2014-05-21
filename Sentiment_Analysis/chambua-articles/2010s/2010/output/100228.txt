@@ -1,0 +1,1 @@
+{"people":["SAMMY CHEBOI"],"organizations":["National Blood Transfusion Services","Prof Nyong","Centre for Disease Control","Sarova Stanley Hotel","Medical Services"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Anyang","latitude":36.09944,"longitude":114.32889,"place_type":"City"}]}

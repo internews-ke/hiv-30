@@ -1,0 +1,1 @@
+{"people":["Ciku Kimeria","William Easterly","Laurie Garrett"],"organizations":["Council on Foreign","Senior Fellow for Global Health","KfW","NACC","NASCOP","Nascop","National Aids Control Council","Sexually Transmitted Infection Programme","Ministry of Finance","Kenya Red Cross"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

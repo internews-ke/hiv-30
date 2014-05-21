@@ -1,0 +1,1 @@
+{"people":["DOMINIC WAMUGUNDA","Benedict","Benedict XVI","John XXIII"],"organizations":["Second Vatican Council","University of Nairobi","Catholic Church"]}

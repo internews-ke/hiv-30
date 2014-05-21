@@ -1,0 +1,1 @@
+{"people":["Jacob","King Hezekiah","Hezekiah","Chinua Achebe","Asunta Wagura"],"organizations":["Kenya Network of Women"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Bible","latitude":42.46778,"longitude":19.10028,"place_type":"GisFeature"},{"name":"Israel","latitude":31.5,"longitude":34.75,"place_type":"Country"}]}

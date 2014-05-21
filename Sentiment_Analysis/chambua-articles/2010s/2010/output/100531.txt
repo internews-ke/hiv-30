@@ -1,0 +1,1 @@
+{"organizations":["Infotrak Research and Consulting","National Aids","Unicef","STD Control Programme","Male Circumcision Consortium"],"places":[{"name":"Nyanza Province","latitude":-0.5,"longitude":34.5,"place_type":"Adm"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

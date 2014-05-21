@@ -1,0 +1,1 @@
+{"people":["Peter","Asunta Wagura","Oprah Winfrey"],"organizations":["Kenya Network of Women"],"places":[{"name":"Naivasha","latitude":-0.71667,"longitude":36.43591,"place_type":"City"}]}

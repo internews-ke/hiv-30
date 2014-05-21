@@ -1,0 +1,1 @@
+{"people":["Walter Jaoko","Kavi"],"organizations":["Kenyatta National Hospital"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

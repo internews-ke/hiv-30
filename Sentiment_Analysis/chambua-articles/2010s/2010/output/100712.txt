@@ -1,0 +1,1 @@
+{"people":["Gary Nabel","Anthony Fauci","John Mascola","Nabel"],"organizations":["NIAID","US National Institute of Allergy"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

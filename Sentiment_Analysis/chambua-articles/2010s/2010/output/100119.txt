@@ -1,0 +1,1 @@
+{"people":["Agnes Binagwaho","Seth Kalichman"],"organizations":["Public Library of Science","Connecticut University"],"places":[{"name":"U.S.","latitude":32.75042,"longitude":-83.50018,"place_type":"Adm"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"Rwanda","latitude":-2.0,"longitude":30.0,"place_type":"Country"}]}

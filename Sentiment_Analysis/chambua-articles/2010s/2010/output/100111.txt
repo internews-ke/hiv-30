@@ -1,0 +1,1 @@
+{"people":["Bush","Obama"],"places":[{"name":"America","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Kisii","latitude":-0.68174,"longitude":34.76666,"place_type":"City"}]}

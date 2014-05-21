@@ -1,0 +1,1 @@
+{"people":["Mr George Kichamu","Mr Kichamu"],"organizations":["SATURDAY NATION Correspondent Nyanza Province","National Coordinating Agency for Population and Development"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

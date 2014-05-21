@@ -1,0 +1,1 @@
+{"people":["Dr. Ibrahim Mohammed","Inwani","Kamau","Mike Mwaniki   Kenya","Dr. Irene Inwani","James Kamau"],"organizations":["Kenya Treatment Access Movement","CEPA","Abuja Declaration","Clinton Foundation"],"places":[{"name":"KENYA","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

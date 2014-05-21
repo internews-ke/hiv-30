@@ -1,0 +1,1 @@
+{"organizations":["NGOS","National Aids Control Council","NGO","Meru"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Geneva","latitude":46.16667,"longitude":6.16667,"place_type":"Adm"}]}

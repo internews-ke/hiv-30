@@ -1,0 +1,1 @@
+{"people":["Joe Muriuki","Rowlands Lenya","Asunta Wagura"],"organizations":["ASUNTA WAGURA The International Aids Candlelight Memorial","Tapwak","The Association of People","Kenya Network of Women"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Lenya","latitude":11.46667,"longitude":99.0,"place_type":"City"}]}

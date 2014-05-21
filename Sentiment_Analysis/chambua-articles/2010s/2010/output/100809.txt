@@ -1,0 +1,1 @@
+{"people":["Patrick Wangamati","John Muragura","Mr Wangamati","ERICK NGOBILO"],"organizations":["Luhya Elders Forum"],"places":[{"name":"Sikata","latitude":14.6145,"longitude":-8.9513,"place_type":"City"},{"name":"Bungoma","latitude":0.5635,"longitude":34.56055,"place_type":"City"}]}

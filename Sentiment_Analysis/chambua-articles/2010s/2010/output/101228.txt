@@ -1,0 +1,1 @@
+{"organizations":["Kenya Network of Women"],"places":[{"name":"Southern Sudan","latitude":11.15,"longitude":25.25,"place_type":"Adm"},{"name":"Israel","latitude":31.5,"longitude":34.75,"place_type":"Country"}]}

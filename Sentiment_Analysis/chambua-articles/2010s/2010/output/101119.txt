@@ -1,0 +1,1 @@
+{"people":["Aymeric Peguillan","Peguillan"],"organizations":["MSF","Southern Africa","United Nations"],"places":[{"name":"Swaziland","latitude":-26.5,"longitude":31.5,"place_type":"Country"}]}
