@@ -1,0 +1,1 @@
+{"people":["Kawira","ANTHONY NYONGESA","Jane Kamau","Ms Kawira","Dorcas Kawira"],"organizations":["ARV","Unesco","Serena Hotel","Moi University"],"places":[{"name":"Eldoret","latitude":0.52036,"longitude":35.26992,"place_type":"City"},{"name":"Nanyuki","latitude":0.01667,"longitude":37.07283,"place_type":"City"}]}

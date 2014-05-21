@@ -1,0 +1,1 @@
+{"people":["Steve Jobs"],"organizations":["Apple","Stanford University","Kenya Network of Women"]}

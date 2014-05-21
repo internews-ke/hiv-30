@@ -1,0 +1,1 @@
+{"people":["Carol*","Carol"],"organizations":["Community Health Workers","CHW","Kenya Network of Women"],"places":[{"name":"Nyeri","latitude":-0.42013,"longitude":36.94759,"place_type":"City"}]}

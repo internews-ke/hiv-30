@@ -1,0 +1,1 @@
+{"people":["Cherutich","Peter Cherutich","Dr Cherutich","Mr George Omulo","LORRAINE ANYANGO","Mr Omulo"],"organizations":["VCT","Kenyatta Hospital","NASCOP","VCTs"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

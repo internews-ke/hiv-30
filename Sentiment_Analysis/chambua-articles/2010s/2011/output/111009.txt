@@ -1,0 +1,1 @@
+{"people":["Beth Mugo"],"organizations":["Public Health","World Health Organisation"],"places":[{"name":"Britain","latitude":54.0,"longitude":-4.0,"place_type":"Country"},{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

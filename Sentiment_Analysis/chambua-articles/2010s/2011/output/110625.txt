@@ -1,0 +1,1 @@
+{"people":["Jackton Barna Ojwang","Amos Wako","Mr Justice Ojwang"],"organizations":["Judicial Service Commission USC","National Commission on Human Rights","University of Cambridge","JSC","Court of Appeal","Supreme Court"],"places":[{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

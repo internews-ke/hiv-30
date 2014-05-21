@@ -1,0 +1,1 @@
+{"people":["Donatien Beguy"],"organizations":["African Population and Health Research Centre","Health Research Centre","Associate Research Scientist"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Jericho","latitude":31.86667,"longitude":35.45,"place_type":"City"}]}

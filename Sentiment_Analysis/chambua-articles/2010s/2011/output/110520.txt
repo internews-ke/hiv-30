@@ -1,0 +1,1 @@
+{"people":["ELISHA OTIENO","Mr Murungi","David Okuta","Samuel Anampiu","Joseph Ojijo","ABIUD OCHIENG","Mr Anampiu","Mr Ojijo"],"organizations":["Lidha Academy","Nyatike District","Nkatha Murungi","Kenya National Union of Teachers","Teachers Service Commission"],"places":[]}

@@ -1,0 +1,1 @@
+{"organizations":["Kenya Network of Women"],"places":[{"name":"Bible","latitude":42.46778,"longitude":19.10028,"place_type":"GisFeature"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Timothy","Jacinta Wasike","Mr Bhavesh Shah","Hetero"],"organizations":["Poisons Board","Hetero Drugs Limited of India","MSF","Humanitarian Medical & Pharmaceuticals Purchasing Centre","Nation","National Quality Control Labs","Doctors Without Borders"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

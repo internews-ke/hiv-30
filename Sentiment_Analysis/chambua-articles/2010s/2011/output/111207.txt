@@ -1,0 +1,1 @@
+{"people":["Mary","Joshua","Peter"],"organizations":["Kenya Network of Women"],"places":[{"name":"Milan","latitude":45.5,"longitude":9.5,"place_type":"Adm"},{"name":"Italy","latitude":42.83333,"longitude":12.83333,"place_type":"Country"}]}

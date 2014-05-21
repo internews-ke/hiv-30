@@ -1,0 +1,1 @@
+{"people":["Asunta Wagura"],"organizations":["Kenya Network of Women"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

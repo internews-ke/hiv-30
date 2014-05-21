@@ -1,0 +1,1 @@
+{"people":["Asunta Wagura"],"organizations":["Heartbreak Hotel","Kenya Network of Women"],"places":[{"name":"Berlin","latitude":52.5233,"longitude":13.41377,"place_type":"Adm"},{"name":"Loliondo","latitude":-1.10625,"longitude":34.6686,"place_type":"Hill"}]}

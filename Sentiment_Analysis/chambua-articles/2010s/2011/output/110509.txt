@@ -1,0 +1,1 @@
+{"people":["Mr. Onyiso","Mr. Justice Daniel Musinga","Mr. Omwanza"],"organizations":["Minister for Special Programs","Chief Justice","High Court","Director of Public Prosecutions"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Beth Mugo","Mr Mohammed Hersi","Mrs Mugo","Mr Hersi"],"organizations":["Kenya Airways","Public Health and Sanitation","Coast Tourism Association"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

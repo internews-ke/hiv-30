@@ -1,0 +1,1 @@
+{"people":["Kipkerich Koskei"],"organizations":["National Quality Control Laboratory","Poisons Board","MSF","World Health Organisation","NQCL"],"places":[{"name":"Homa Bay","latitude":-0.52731,"longitude":34.45714,"place_type":"City"}]}

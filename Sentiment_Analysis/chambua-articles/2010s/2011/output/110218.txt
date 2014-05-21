@@ -1,0 +1,1 @@
+{"people":["Fidelis Ndungu","George Ngatiri"],"organizations":["USAID","Central Provincial Director Of Public Health And Sanitation","Ministry Of Public Health"],"places":[{"name":"Central Kenya","latitude":-0.75,"longitude":37.0,"place_type":"Adm"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Peter","ASUNTA WAGURA","Asunta Wagura","Oprah Winfrey"],"places":[{"name":"Naivasha","latitude":-0.71667,"longitude":36.43591,"place_type":"City"}]}

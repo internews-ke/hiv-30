@@ -1,0 +1,1 @@
+{"people":["Energiser"],"places":[{"name":"Bible","latitude":42.46778,"longitude":19.10028,"place_type":"GisFeature"}]}

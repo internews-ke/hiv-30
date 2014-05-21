@@ -1,0 +1,1 @@
+{"people":["Chinnery","Esther Murugi","Patrick Chinnery"],"organizations":["World Health Organisation","University of Newcastle"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}
