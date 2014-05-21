@@ -1,0 +1,1 @@
+{"people":["Mann","Jonathan Mann"],"organizations":["World Health Organisation"],"places":[{"name":"GENEVA","latitude":46.16667,"longitude":6.16667,"place_type":"Adm"}]}

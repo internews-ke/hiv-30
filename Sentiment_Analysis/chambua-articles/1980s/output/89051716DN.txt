@@ -1,0 +1,1 @@
+{"people":["Mary"],"organizations":["Rejoice"],"places":[{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"}]}

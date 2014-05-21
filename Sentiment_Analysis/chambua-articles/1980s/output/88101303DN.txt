@@ -1,0 +1,1 @@
+{"people":["Mr G. Akhaabi","Mr Musumba","Mr.  Andrew Musumba"],"organizations":["Kenyatta National Hospital","High Court"],"places":[{"name":"Kenyatta","latitude":-1.1,"longitude":36.98333,"place_type":"Road"}]}

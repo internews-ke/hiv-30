@@ -1,0 +1,1 @@
+{"people":["IRWIN ARIEFF"],"organizations":["Wellcome PLC","Congress"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"}]}

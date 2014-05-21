@@ -1,0 +1,1 @@
+{"people":["Mr Allan Gachiri Ragi"],"organizations":["Pumwani Maternity Hospial","Cres cent Medical Aid Kenya","Kenya Red Cross Society","Human Immuno"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

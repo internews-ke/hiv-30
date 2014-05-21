@@ -1,0 +1,1 @@
+{"people":["Elisa"],"places":[{"name":"Elisa","latitude":-25.36667,"longitude":-57.61667,"place_type":"City"}]}
