@@ -1,0 +1,1 @@
+{"people":["Higgins","Mr Nick Partridge","PAUL REDFERN"],"organizations":["Public Health Laboratory Service","Wednesday Britain","Wellcome","Department of Health"],"places":[{"name":"LONDON","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

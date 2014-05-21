@@ -1,0 +1,1 @@
+{"people":["Angelo Agostino","Mrs. Alice Campaign"],"organizations":["Nyumbani   Children"],"places":[{"name":"Washington","latitude":47.50012,"longitude":-120.50147,"place_type":"Adm"}]}

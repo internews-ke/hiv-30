@@ -1,0 +1,1 @@
+{"organizations":["Ministry","Ministry of Health"],"places":[{"name":"Kagera Region","latitude":-2.0,"longitude":31.5,"place_type":"Adm"},{"name":"Tanzania","latitude":-6.0,"longitude":35.0,"place_type":"Country"},{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"},{"name":"Mbeya","latitude":-8.9,"longitude":33.45,"place_type":"City"}]}

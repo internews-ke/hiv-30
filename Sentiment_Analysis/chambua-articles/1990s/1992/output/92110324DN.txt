@@ -1,0 +1,1 @@
+{"people":["Angelo Agostino","Mrs. Alice Campaigne"],"organizations":["Nyumbani   Children"],"places":[{"name":"Westlands","latitude":18.27328,"longitude":-78.36502,"place_type":"City"},{"name":"Washington","latitude":47.50012,"longitude":-120.50147,"place_type":"Adm"}]}

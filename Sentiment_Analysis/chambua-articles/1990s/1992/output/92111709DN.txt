@@ -1,0 +1,1 @@
+{"people":["Kyoko Koizumi"],"places":[{"name":"Tokyo","latitude":35.6895,"longitude":139.69171,"place_type":"Adm"}]}

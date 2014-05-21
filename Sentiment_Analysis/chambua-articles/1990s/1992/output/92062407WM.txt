@@ -1,0 +1,1 @@
+{"places":[{"name":"NAIROBI","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Western Kenya","latitude":0.5,"longitude":34.58333,"place_type":"Adm"},{"name":"P.O.","latitude":39.66472,"longitude":106.81222,"place_type":"City"}]}

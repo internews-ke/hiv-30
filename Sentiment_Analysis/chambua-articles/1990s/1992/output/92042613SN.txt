@@ -1,0 +1,1 @@
+{"organizations":["Reserve Bank","Ministry of Health","United States Embassy"],"places":[{"name":"United States","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Malawi","latitude":-13.5,"longitude":34.0,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"organizations":["US Government"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"WASHINGTON","latitude":47.50012,"longitude":-120.50147,"place_type":"Adm"}]}

@@ -1,0 +1,1 @@
+{"people":["Earvin","Johnson","Richard Pryror","Elizabeth Taylor","Burt Reynolds","Bob Merlis","Taylor"],"organizations":["Aids Research","ABC News","AMFAR","Warner","American Foundation","Warner Bras Records","Hollywood"],"places":[]}

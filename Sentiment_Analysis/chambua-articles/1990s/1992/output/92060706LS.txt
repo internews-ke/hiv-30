@@ -1,0 +1,1 @@
+{"people":["Jay S. Duker"],"places":[{"name":"BOSTON","latitude":42.35347,"longitude":-71.06094,"place_type":"GisFeature"}]}
