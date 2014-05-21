@@ -24,7 +24,7 @@
 
 * ran this to rename files by date: `ls *.txt | sed -e 's/\(....\)\(..\)\(..\)\(..\)/mv \1\2\3\4.txt \4\3\2\1/' | sh`
 
-![Date sorted]()
+![Date sorted](https://raw.githubusercontent.com/internews-ke/hiv-30/master/Sentiment_Analysis/notes/1980s-sorted.png)
 
 * had trouble (sed illegal byte sequence error) removing hyphens so skipped it
 
