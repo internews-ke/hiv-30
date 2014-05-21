@@ -1,0 +1,1 @@
+{"people":["DAVID ADUDA"],"organizations":["Ministry of Education and  Culture","Aids Action Programme"],"places":[{"name":"Zimbabwe","latitude":-19.0,"longitude":29.0,"place_type":"Country"}]}

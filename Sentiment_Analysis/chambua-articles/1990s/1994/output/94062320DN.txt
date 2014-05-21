@@ -1,0 +1,1 @@
+{"people":["Koech","Robert Koech"],"organizations":["Kericho District Hospital","Central Medical Stores"],"places":[{"name":"Kericho District","latitude":-0.5,"longitude":35.25,"place_type":"GisFeature"},{"name":"Kericho","latitude":-0.36774,"longitude":35.28314,"place_type":"City"}]}

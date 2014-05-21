@@ -1,0 +1,1 @@
+{"organizations":["Aids Research Foundation"],"places":[{"name":"Madras","latitude":11.0,"longitude":78.0,"place_type":"Adm"},{"name":"India","latitude":20.0,"longitude":77.0,"place_type":"Country"}]}

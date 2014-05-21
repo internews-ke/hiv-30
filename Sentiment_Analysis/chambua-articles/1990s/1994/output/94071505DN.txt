@@ -1,0 +1,1 @@
+{"organizations":["Government","District Development Plan"],"places":[{"name":"Laikipia District","latitude":0.41667,"longitude":36.75,"place_type":"Adm"},{"name":"Laikipia","latitude":0.41667,"longitude":36.75,"place_type":"Adm"}]}

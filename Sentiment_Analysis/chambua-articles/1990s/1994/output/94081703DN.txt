@@ -1,0 +1,1 @@
+{"people":["JOHN OYWA","Misore","Ambrose Misore"],"organizations":["New Nyanza General Hospital","Kenyatta National Hospital","National Laboratory Services","Homa Bay District Hospital"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

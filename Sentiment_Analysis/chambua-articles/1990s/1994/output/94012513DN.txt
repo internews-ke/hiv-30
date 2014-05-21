@@ -1,0 +1,1 @@
+{"people":["Shariff"],"organizations":["International Family Planning Perspectives","Coast Provincial Medical Officer","Coast  By Nation Reporter"],"places":[{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

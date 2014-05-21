@@ -1,0 +1,1 @@
+{"people":["Mary Wanjiru Mwangi"],"organizations":["Chester House","SUNDAY NATION Correspondent Kinangop"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Nyeri","latitude":-0.42013,"longitude":36.94759,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Joshua Angatia","Mr Angatia"],"organizations":["Ecumenical Conference"],"places":[{"name":"NAIROBI","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"organizations":["Xinmin Evening News"],"places":[{"name":"Beijing","latitude":40.25,"longitude":116.5,"place_type":"Adm"},{"name":"BEIJING","latitude":40.25,"longitude":116.5,"place_type":"Adm"},{"name":"China","latitude":35.0,"longitude":105.0,"place_type":"Country"}]}
