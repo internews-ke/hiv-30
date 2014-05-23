@@ -1,8 +1,6 @@
 ##SENTIMENT ANALYSIS (5/23/14)
 ------
 ###Some ideas
-Difference segments, 
-
 
 centralization quality based on the rate calculation
 
@@ -15,11 +13,18 @@ Possibly using poderpedia, miguel sent me notes, will check on this more and pur
 
 ###Questions
 what should i do about the bum articles?
+
 - process (aggrey will tell me patterns)
 
 should i rectify with eva's findings or build an independant visualization?
 
 what would you like to do about counts? there should be a way to show the difference in article density over time?
+
+- keep in mind, but don't obsess about it (include counts) -> word count + number of articles
+
+- test visualization (try with poderapedia - mid next week)
+
+
 
 we should go over any issues in my [hiv@30_chambua_5_20_14 notes](https://github.com/internews-ke/hiv-30/blob/master/Sentiment_Analysis/notes/hiv%4030_chambua_5-20-14.md).
 
@@ -36,3 +41,4 @@ we should go over any issues in my [hiv@30_chambua_5_20_14 notes](https://github
 * there's a resurgnce of foreign institution involvement but a comparative growth in African doctors' mentioned too
 * might be interesting to show how the conversation grows, literally, since the number of entities referenced relative to HIV expands greatly in the 1990s
 * we might also want to weight the graphs to illustrate this increased density of articles and information.
+
