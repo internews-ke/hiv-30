@@ -1,6 +1,9 @@
 ##SENTIMENT ANALYSIS (5/23/14)
 ------
 ###Some ideas
+Difference segments, 
+
+
 centralization quality based on the rate calculation
 
 not really significant to show relationships but it might be significant to tag them as positive or negative.
@@ -12,8 +15,9 @@ Possibly using poderpedia, miguel sent me notes, will check on this more and pur
 
 ###Questions
 what should i do about the bum articles?
+- process (aggrey will tell me patterns)
 
-should i rectify with eva's findings or build an indepentant visualization?
+should i rectify with eva's findings or build an independant visualization?
 
 what would you like to do about counts? there should be a way to show the difference in article density over time?
 
