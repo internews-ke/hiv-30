@@ -144,8 +144,6 @@ Run script to go over each file in the directory and output files
 
 What results is a list of extracted people/places/institions from each of the articles in each of the directories (or in this case, decades) analyzed.
 
-###Observations
-
 
 
 
