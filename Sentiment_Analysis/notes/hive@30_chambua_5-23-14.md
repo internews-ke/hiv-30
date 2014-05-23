@@ -27,3 +27,8 @@ we should go over any issues in my [hiv@30_chambua_5_20_14 notes](https://github
 * Later (late 80s) news coverage addresses more "family planning" and "women's" associations as aids is viewed more in the context of prevention as opposed to hysteria and accusation
 
 ###1990s
+* 1990s (1992) we see use of medical terms (acquired immuno-deficiency institutions) and a greater diversity of african countries (uganda, zambia) as well as kenya
+* observations similar to 1980s but MANY more articles per year
+* there's a resurgnce of foreign institution involvement but a comparative growth in African doctors' mentioned too
+* might be interesting to show how the conversation grows, literally, since the number of entities referenced relative to HIV expands greatly in the 1990s
+* we might also want to weight the graphs to illustrate this increased density of articles and information.
