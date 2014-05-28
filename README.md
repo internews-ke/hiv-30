@@ -17,7 +17,7 @@ Each folder references a visualization type for the HIV@30 project, all resource
 * **notes** - any ancillary notes or .md, not covering in README
 
 ####Available Links
-* [Map File](https://www.dropbox.com/sh/c2h7mwkhdbevs59/t6ZAXF4iW1/Data%20analysed/HIV%20prevalence%20in%202011%20by%20County%20fact%20sheets.xlsx)
+* [Map File](https://www.dropbox.com/sh/c2h7mwkhdbevs59/AAC08xKIo3wsSOG5Hqplwqora/Timeline/map)
 * [Timeline File](https://www.dropbox.com/sh/c2h7mwkhdbevs59/Ym_XKrhrMm/Timeline)
 * [Master File](https://docs.google.com/a/ushahidi.com/spreadsheet/ccc?key=0AhKopyqjewendENSLU5OckdDZUVKeWdxbnRkSkVjY3c&usp=drive_web#gid=0)
 * [Chambua Sentiment Analysis](https://github.com/auremoser/fellowship/blob/master/projects/%5BIN%5DHIV/sed-cleaning-notes.md)
