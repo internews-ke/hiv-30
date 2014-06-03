@@ -6,6 +6,7 @@
 # -o which is the filename of the output json file.
 # run in Terminal : python python make_cfl_struct.py -p './1980/*.txt' -o 'tree_structure.json'
 # internews KE HIV@30 project
+# visual model after: http://www.broadinstitute.org/annotation/viral/HIVPublic/
 import sys
 import traceback
 import argparse
