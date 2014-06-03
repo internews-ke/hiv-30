@@ -23,6 +23,10 @@ Some goals include:
 * [Overview](https://www.overviewproject.org/)
 * [Chambua](https://github.com/ushahidi/Chambua)
 * [Lithium Labs Sentiment Wave](https://github.com/lithiumtech/li-visualizations)
+* [Bubble Timeline](http://bost.ocks.org/mike/nations/)
+* [D3 Force collapse tree](http://mbostock.github.io/d3/talk/20111116/force-collapsible.html)
+* [Code Flower](http://redotheweb.com/CodeFlower/)
+* [HIV Virus Shapes](https://www.google.com/search?q=hiv+virus+molecule+structure&es_sm=91&tbm=isch&tbo=u&source=univ&sa=X&ei=kdiLU7eYLYijsQTz_oH4DA&ved=0CDYQsAQ&biw=1440&bih=743)
 
 ####Resources - content
 * [sed Data Cleaning Notes](https://github.com/auremoser/fellowship/blob/master/projects/%5BIN%5DHIV/sed-cleaning-notes.md)

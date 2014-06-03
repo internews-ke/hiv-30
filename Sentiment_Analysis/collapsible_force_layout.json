@@ -1,0 +1,56 @@
+{
+   "name":"aids",
+   "children":[
+      {
+         "name":"years",
+         "children":[
+            {
+               "name":"85",
+               "children":[
+                  {
+                     "name":"people",
+                     "children":[
+                        {
+                           "name":"Rock Hudson",
+                           "size":3938
+                        },
+                        {
+                           "name":"Mr Hudson",
+                           "size":3812
+                        },
+                        {
+                           "name":"Robin Weiss",
+                           "size":6714
+                        },
+                        {
+                           "name":"Anna Bayley",
+                           "size":743
+                        }
+                     ]
+                  },
+                  {
+                     "name":"organizations",
+                     "children":[
+                        {"name": "World Health Organisation"},
+                        {"name":"Acquired Immune Deficiency Syndrome"},
+                        {"name":"Kaposi  Sarcoma"},
+                        {"name":"French Health Ministry"},
+                        {"name":"Tel Aviv Medical Centre"},
+                        {"name":"Denmnark�s Institute of Cancer Research"},
+                        {"name":"Centre for Disease Control"},
+                        {"name":"CDC"}
+                     ]
+                  },
+                  {
+                     "name":"places",
+                     "children":[
+                        {"name":"Paris","place_type":"Adm"},
+                        {"name":"Los Angeles","place_type":"GisFeature"}
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
