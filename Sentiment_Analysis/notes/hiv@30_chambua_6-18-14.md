@@ -12,3 +12,15 @@ Thanks for your patience, sorry about the delays.
 ###Visual Refererences:
 * [Poderopedia](http://poderopedia.github.io/panama-network/docs/)
 * [HIV visualization ideas](http://www.broadinstitute.org/annotation/viral/HIVPublic/)
+* 
+
+###6/18/14 Update
+Went through and converted all 'special files' based on aggrey's date formats
+* reordered dates
+* converted files to txt
+* droped send_json.py and wrap_json.py in the folder, created an "output" directory
+* ran scripts (`python wrap_json.py` | `python send_json.py -o output`)
+* copied the converted files to the parent directory for that decade
+
+####1980s
+Wrote script to parse through files in a directory and make
