@@ -1,0 +1,1 @@
+{"people":["Mr. Matiba","Kanu","Kiswahili","Thomas Ogada","Mr. Kenneth Matiba"],"organizations":["Ministry","Minister for Health","Acquired Immune Deficiency Syndrome","Director of Medical Services"],"places":[{"name":"Kakamega","latitude":0.28422,"longitude":34.75228,"place_type":"City"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

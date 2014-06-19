@@ -12,9 +12,13 @@ Thanks for your patience, sorry about the delays.
 ###Visual Refererences:
 * [Poderopedia](http://poderopedia.github.io/panama-network/docs/)
 * [HIV visualization ideas](http://www.broadinstitute.org/annotation/viral/HIVPublic/)
-* 
+* [Force Layout](http://bl.ocks.org/mbostock/1062288)
+* [Pack Layout]()
+* [Cytoscape tutorial](http://cytoscapeweb.cytoscape.org/tutorial)
 
-###6/18/14 Update
+
+------
+##6/18/14 Update
 Went through and converted all 'special files' based on aggrey's date formats
 * reordered dates
 * converted files to txt
@@ -23,4 +27,21 @@ Went through and converted all 'special files' based on aggrey's date formats
 * copied the converted files to the parent directory for that decade
 
 ####1980s
-Wrote script to parse through files in a directory and make
+Wrote script to parse through files in a directory and make the json for a [force directed graph](http://bl.ocks.org/mbostock/1062288):
+`make_cfl_struct.py`
+[located here](https://github.com/internews-ke/hiv-30/blob/master/Sentiment_Analysis/python/make_cfl_struct.py)
+
+run this command with script in the output directory:
+`python make_cfl_struct.py -p './1980/*.txt' -o 'tree_structure.json'`
+
+####Demo Cluster
+Palette [here](http://www.degraeve.com/color-palette/index.php?q=http://forcollegeandcommunity.files.wordpress.com/2012/08/hiv-virus.jpg,1A0B207547A19F5F819F63D3CD82B5,1E012B761ACEBF3F83A32CFFF25DC2)
+Image of HIV here [here](http://forcollegeandcommunity.files.wordpress.com/2012/08/hiv-virus.jpg)
+
+When I alter the size of the central nodes, each peripheral node will be a term/entity, with the center being the year. 
+
+This will be interesting as it will show a few small clusters (for years without many articles - 1980s) and then larger monster clusters as the conversation grows. 
+
+See the [repo here](https://github.com/auremoser/hiv-30_cluster) for more readme details. 
+
+Demo [here](http://auremoser.github.io/hiv-30_cluster/) without labels.
