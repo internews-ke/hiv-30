@@ -1,1 +1,3855 @@
-{"name": "Aids", "children": [{"name": "Years", "children": []}]}
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Dr. James Curran",
+                                "Dr. Curran"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "California",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "New York",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kaposi\ufffds\ufffd Sarcoma"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "81070814DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr Roger Barilliet",
+                                "Juhan Likola",
+                                "Mr Frank Schnabel",
+                                "Hagen"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "North America",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Western Europe",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Geneva",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "United Slates",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Spain",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "PARIS",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Latin America",
+                                    "place_type": "Religious"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Zurich",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "France",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Montreal",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "America",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Canada",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Paris",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Asia",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Middle East",
+                                    "place_type": "GisFeature"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Institute Pasteur Production",
+                                "Association of French Hemophiliacs",
+                                "Inter",
+                                "Shl",
+                                "Bayer",
+                                "Revlon",
+                                "Red Cross",
+                                "World Federation  of Hemophilia",
+                                "International Federation of Pharmaceutical Manufactures Associations",
+                                "World Health Organisation Geneva",
+                                "Opec",
+                                "Administration",
+                                "Food and Drug Administration",
+                                "League of Red Cross Societies",
+                                "US Food",
+                                "French Government"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "83080906DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Ebbesen",
+                                "Dowdle",
+                                "Peter Ehijesen",
+                                "Walter Dowdle",
+                                "Michael"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mali",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Caribbean",
+                                    "place_type": "PoliticalEntity"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Israel",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Eastern Europe",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Switzerland",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Haiti",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "San Francisco",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Australia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "LONDON",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Western Africa",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "North America",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Americas",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "United State",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Western Europe",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Geneva",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Atlanta",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Gabon",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Rwanda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Czechoslovakia",
+                                    "place_type": "Cemetery"
+                                },
+                                {
+                                    "name": "New York",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Canada",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Congo",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Japan",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Los Angeles",
+                                    "place_type": "GisFeature"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organisation",
+                                "Acquired Immune Deficiency Syndrome",
+                                "Kaposi  Sarcoma",
+                                "French Health Ministry",
+                                "Tel Aviv Medical Centre",
+                                "Denmnark\ufffds Institute of Cancer Research",
+                                "Centre for Disease Control",
+                                "CDC"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "83121206DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "S. I. Okware"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Rakai",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Uganda  KAMPALA",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Masaka",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Health Ministry",
+                                "Machine",
+                                "Deputy Director of Medical Services"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "85071224DNSA.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Rock Hudson",
+                                "Mr Hudson"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Paris",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Los Angeles",
+                                    "place_type": "GisFeature"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Air France Boeing"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "85073102DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Robin Weiss",
+                                "Anne Bayley"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zambia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "England",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "NEW YORK",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "London",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Lusaka",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kaposi",
+                                "Institute of Cancer Research",
+                                "University Hospital"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "85103102DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Okware"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "KAMPALA",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Immuno Deficiency Syndrome",
+                                "Reuters"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "85122034DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "EDWARD KITAIA",
+                                "Andrew Kakimpe",
+                                "Dr Ruhakana Rugunda"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Mulago",
+                                    "place_type": "CitySubdivision"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Rukungiri",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Rakai",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kampala",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Lake Edward",
+                                    "place_type": "Lake"
+                                },
+                                {
+                                    "name": "Rwanda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Masaka",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "The Health Education Division",
+                                "Nyakibaje Mission Hospital",
+                                "Ministry of Health"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "86050407SN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Siongok",
+                                "Dr. Siongok",
+                                "Dr. T. K. amp Swangok",
+                                "Dr. M. Owili"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Americas",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Western Europe",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Impala Hotel",
+                                "Ministry of Health"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "86100220DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Ogondo",
+                                "Dr. Ogondo",
+                                "Dr M. O. Ogondo"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kakamega",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Western Kenya",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organisation",
+                                "Western Provincial Medical Officer of Health",
+                                "Acquired Immune Deficiency Syndrome",
+                                "Coast",
+                                "Kakemega Division",
+                                "Kakamega Provincial General Hospital"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "86122204DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "J. O. Ndinya Achola",
+                                "N. N. Agata",
+                                "W. Cameron"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kenya Medical Research",
+                                "Kenyatta National HospitaI",
+                                "University of Nairobi"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87020517DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mann",
+                                "Jonathan Mann"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "GENEVA",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organisation"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87030508DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mann",
+                                "Jonathan Mann",
+                                "Mr. Koinange",
+                                "Koinange",
+                                "KOINANGE",
+                                "Dr Mann",
+                                "Karuga Koinange"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "France",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "West Germany",
+                                    "place_type": "CitySubdivision"
+                                },
+                                {
+                                    "name": "Brazil",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "India",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organization",
+                                "OTULA OWUOR Nations",
+                                "Acquired Immune Deficiency Syndrome",
+                                "Director of Medical Services"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87031224DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organization",
+                                "National",
+                                "Kaposi\ufffds Sarcoma"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87041309DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Clavel",
+                                "Francois Clavel"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "West Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Paris",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Cape Verde",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Central Africa",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Pasteur Institute",
+                                "Pasteur \ufffdInstitute"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87050808DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mann",
+                                "Jonathan Mann",
+                                "Mr. Pearce Wright"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "West Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Central Africa",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Asia",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "London",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organisation"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87052505DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Dr Sekeramayi"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zambia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "HARARE",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Harare",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Zimbabwe",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "African Union Against Venereal Diseases",
+                                "World Health Organisation",
+                                "Minister of Health Sydney Sekerameyi"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87060302DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Dr. Okware",
+                                "Mann",
+                                "Davis",
+                                "James Cunan",
+                                "Okware",
+                                "Jonathan Mann",
+                                "DANIEL O. HANEY",
+                                "Dr. Sunita Jam"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "California",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "San Francisco",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "WASHINGTON",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Central Africa",
+                                    "place_type": "GisFeature"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "United State",
+                                "World Health Organisation",
+                                "Acquired Immune Deficiency Syndrome",
+                                "Centre Disease Control"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87060409DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "C. Everett Koop",
+                                "IRWIN ARIEFF"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "California",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Washington",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Canada",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "WASHINGTON",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Connecticut",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "San Anselmo",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Acquired Immune Deficiency Syndrome",
+                                "Reuters",
+                                "National Organisation of Circumcision Information"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87060609DNSA.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "J. O. Ndinya-Acbola",
+                                "J. D. Costa",
+                                "F. A. Plummer",
+                                "E. N. Ngugi"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "STD"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87061916DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr.  Ayah",
+                                "Japheth Mati",
+                                "M. Mugambi",
+                                "Mati",
+                                "Mr Ayaiu"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Ngeria",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Cameroun",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Ethiopia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zambia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Senegal",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Botswana",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Zimbabwe",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Department of Obstetrics",
+                                "Kenya National Committee",
+                                "Research",
+                                "University of Nairobi"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87111121DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Geneva",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Switzerland",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Council of Churches",
+                                "Christian Medical Commission",
+                                "Ferney"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87112813DNSA.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mann",
+                                "Jonathan Mann"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Americas",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Oceania",
+                                    "place_type": "PoliticalEntity"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Australia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Asia",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "New Zealand",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "87122920DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "National AIDS Committee",
+                                "Government of Kenya Ministry of Health"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88011219DN(1).txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr. Maitha",
+                                "Mr G.M. Maitha"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zambia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Ndola",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Lusaka",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kenya Medical Research Institute"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88020405DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Dr Cameron",
+                                "William Cameron",
+                                "Datta",
+                                "Kemri",
+                                "P. Datta",
+                                "Mrs Anne M. Pertet",
+                                "Mr E. Itotia"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Nyeri District",
+                                    "place_type": "Mountain"
+                                },
+                                {
+                                    "name": "Pumwani",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kemri",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Upjohn",
+                                "University of Nairobi"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88020512DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Solomon",
+                                "Mann",
+                                "Jonathan Mann",
+                                "Dr. James Chin",
+                                "Marshall",
+                                "THOMAS W. NETTER"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Americas",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Geneva",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Central Africa",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Tonga",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Rwanda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "France",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Ethiopia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Belgium",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Oceania",
+                                    "place_type": "PoliticalEntity"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "New Zealand South Pacific",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Denmark",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Australia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Asia",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "US Public Health Service",
+                                "World Health Assembly",
+                                "World Health Organization",
+                                "French Polynesia",
+                                "General Assembly",
+                                "Compass News Features",
+                                "SPA",
+                                "Special Programme",
+                                "United Nations"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88021006DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Peter .1",
+                                "Fischinger",
+                                "Tom Brandt",
+                                "PAUL RECE",
+                                "Fiachinger",
+                                "Dr Duesberg",
+                                "Duesberg",
+                                "Peter Duesberg",
+                                "Duesbeg"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "New York",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Berkeley",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "WASHINGTON",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "University of California",
+                                "Federal centre for Disease Control",
+                                "National Institutes of Health",
+                                "Federal Government",
+                                "Presidential Commission",
+                                "Duesberg",
+                                "HIV",
+                                "Cawer Research"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88022906DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr. Matiba",
+                                "Kanu",
+                                "Kiswahili",
+                                "Thomas Ogada",
+                                "Mr. Kenneth Matiba"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kakamega",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Ministry",
+                                "Minister for Health",
+                                "Acquired Immune Deficiency Syndrome",
+                                "Director of Medical Services"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88031303DNSA.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Ahmed Shari",
+                                "Mobutu"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Egypt",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "KINSHASA",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kinshasa",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Azap",
+                                "MMI",
+                                "University of Cairo",
+                                "Kinshasa University Clinic"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88042428SN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Hans WigzelL",
+                                "Daniel Zagury"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "France",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Stockholm",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "STOCKHOLM",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Sao Paulo Foundation",
+                                "Wayta Menezes Dalla Pria",
+                                "World Health Organisation",
+                                "Acquired Immune Deficiency Syndrome"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88061324DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mead",
+                                "ALVER CARLSON",
+                                "Mr Over"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Haiti",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Aida",
+                                    "place_type": "Camp"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Brazil",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Latin America",
+                                    "place_type": "Religious"
+                                },
+                                {
+                                    "name": "WASHINGTON",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Burundi",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Bank",
+                                "Reuters"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88061609DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Ahmed Shafik",
+                                "Kalengayi",
+                                "Prof Kalengayi",
+                                "Mbowa M. Kalengayi"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Egypt",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Stockholm",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Congo",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "MMI",
+                                "University of Kinshasa",
+                                "African Organisation for Research",
+                                "Faculty of Medicine"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88062303DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "FRANK BARTON",
+                                "Benjamin Nkowane"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "California",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "France",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "South America",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "America",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Western Europe",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Austria",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Asia",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "London",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Bank",
+                                "Palo Alto Medical",
+                                "World Health Organisation",
+                                "Acquired Immune Deficiency Syndrome",
+                                "University of Zambia"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88062817DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "B. K. Kariuki",
+                                "Kariuki"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Iten",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Nakuru",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Egeyo Marakwet District",
+                                "Menengal Social Hall",
+                                "Nakuru General Hospital"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88072204DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Nelson Mandela"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Angola",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zambia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Cape Town",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Soviet Union",
+                                    "place_type": "Pond"
+                                },
+                                {
+                                    "name": "South Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "JOHANNESBURG",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "African National Congress",
+                                "South African Prisons Service",
+                                "Acquired Immune Deficiency Syndrome",
+                                "ANC",
+                                "Sunday Times",
+                                "Department of Prisons"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88080802DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr. Kibaki",
+                                "Mr Kibaki"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Ministry"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88083101DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr Kibaki"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Ministry",
+                                "Ministry of Health",
+                                "Director of Medical Services",
+                                "Ministry of Education and Family Planning Association"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88083132DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "JUDITH MARIASY",
+                                "Kenneth Kaunda"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Aida",
+                                    "place_type": "Camp"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "St Louis",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "St. Louis",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Kinshasa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Vietnam",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "France",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Haiti",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "New York City",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Zambia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Belgium",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Denmark",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kaposi",
+                                "World Health Organisation",
+                                "Kaposi\ufffds Sarcoma",
+                                "Defense Department"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88090714DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Ministry of Health"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88090807DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Robert C. Gallo",
+                                "J. P. Horwitz",
+                                "Glen BrubakeT",
+                                "Mbowa M. Kalengayi",
+                                "A. Shafik"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Musoma",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Egypt",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Brazza",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "StockhoLm",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Michigan",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Congo",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Japan",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "China",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Arusha",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Sweden",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Shfrati Hospital",
+                                "World Health Organisation",
+                                "MMI",
+                                "Third International"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88100612DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr G. Akhaabi",
+                                "Mr Musumba",
+                                "Mr.  Andrew Musumba"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kenyatta",
+                                    "place_type": "Road"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kenyatta National Hospital",
+                                "High Court"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88101303DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "West Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Paris",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Institute Pasteur",
+                                "HIV",
+                                "National Cancer Institute",
+                                "Immuno Deficiency Virus"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88101423DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Elisa"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Elisa",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88102823DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Lutai",
+                                    "place_type": "Stream"
+                                },
+                                {
+                                    "name": "North America",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Third World",
+                                    "place_type": "Pond"
+                                },
+                                {
+                                    "name": "Burundi",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Rwanda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Haiti",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "America",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mexico",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Canada",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zambia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Brazil",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Malawi",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Congo",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organisation",
+                                "Global Programme"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88120117DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "West",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organisation",
+                                "HTV",
+                                "Wellcome",
+                                "Members of Parliament"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88120118DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "M. Owili"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "HLV",
+                                "Expanded Programme",
+                                "Kenya Expanded Programme"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88120119DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Ndinya Achola",
+                                "Dr.  Mueke",
+                                "P. Mueke",
+                                "Achola",
+                                "Mueke"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Nakuru",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kisumu",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "University of Nairobi Medical School",
+                                "Nation",
+                                "National Aids committee"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88120201DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr. Sam Friedman",
+                                "CAREN BOSS"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "California",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "San Francisco",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "America",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "New York",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Florida",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Pentagon",
+                                "Aida",
+                                "World Health Organisation",
+                                "Reuters",
+                                "United Nations",
+                                "Reuter",
+                                "New York City Health Department",
+                                "Aids Epidemiology"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88120214DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr Mwai Kibaki",
+                                "Marcela Daspies",
+                                "Paul Kwambo",
+                                "Davies"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "World Health Organisation",
+                                "ICC",
+                                "OOO National Aid Control Programme"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88120236DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "R. C. SABATIER"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "California",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "New York",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Johannes",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "South Africa",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "88120719DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [],
+                            "name": "places"
+                        },
+                        {
+                            "children": [],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89013007DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Bert"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "France",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "West Germany",
+                                    "place_type": "CitySubdivision"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Netherlands",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Committee",
+                                "National Committee",
+                                "Dutch Educational Television",
+                                "NCAB",
+                                "FPA",
+                                "Correspondent Information"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89022214DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr. Lesetedi",
+                                "Mr Lesetedi"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Botswana",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Principal Health Officer",
+                                "Ministry of Health",
+                                "Household"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89032003DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Kinuthia",
+                                "Dr. Kinuthia"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kwale",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kenyatta International Conference Centre",
+                                "BCG",
+                                "Kenya Extended Programme of Immunization",
+                                "University of Nairobi Dr. Dorothy Kinuthia",
+                                "Coast",
+                                "College of Health Sciences told a Kenya Medical Women Association Scientific Conference"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89040304DNSA.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Cecilia Pypsr",
+                                "Dr. Owili",
+                                "Dr. Mulindi",
+                                "Dr. Sobbje Mulindi",
+                                "Dorothy Munyakho",
+                                "Pyper",
+                                "Mrs Margaret Gatei",
+                                "Joseph Oliech"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Oxford",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "England",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "OMS",
+                                "NACP",
+                                "Ada",
+                                "NACP\ufffdS Information, Education and Communication sub-committee",
+                                "Director of Medical Services",
+                                "Nations Aids Control Programmes",
+                                "Medical Services"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89050917DN(1).txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mary"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Rejoice"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89051716DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mann",
+                                "Dr.  Daniel Kibuga",
+                                "Dr. Jonathan Mann",
+                                "Dr. Mulandi"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nigeria",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kenya National Aids Control Committee",
+                                "National Aida Control",
+                                "World Health Organisations Global"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89061104SN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr Allan Gachiri Ragi"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Pumwani Maternity Hospial",
+                                "Cres cent Medical Aid Kenya",
+                                "Kenya Red Cross Society",
+                                "Human Immuno"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89061804SN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr.  Mung",
+                                "Mr Mung",
+                                "Mr. Mung",
+                                "Mr. Simeon Mung"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "NACP",
+                                "Government",
+                                "Coast Province",
+                                "Kenya National Aids Control Programme",
+                                "Coast PC",
+                                "PC"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89062803DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Janet Anderson",
+                                "Kenyatta",
+                                "EVA NDAVU Theatre Spiask \ufffd89"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Cholera",
+                                    "place_type": "Cemetery"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Dance Continues",
+                                "BBC",
+                                "Government",
+                                "Aida",
+                                "TWK",
+                                "Healthy Body",
+                                "Kenyatta University",
+                                "Big Wheel Theatre Company of Oxford"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89080919DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "IRWIN ARIEFF"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Wellcome PLC",
+                                "Congress"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89083115DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Oliech",
+                                "Dr Mulindi",
+                                "Dr. Owili",
+                                "Mrs Margaret Gatel",
+                                "Joseph Oliech"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "England",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "OMS",
+                                "NACP",
+                                "FIDELITY",
+                                "National Aids Control Programmes",
+                                "Director of Medical Services",
+                                "Medical Services"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89090513DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Dr. Joseph Oliech"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zaire",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Canada",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Chamakanga",
+                                    "place_type": "Stream"
+                                },
+                                {
+                                    "name": "Manitoba",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Institute of Tropical Medicine",
+                                "Government",
+                                "Ministry of Health",
+                                "Director of Medical Services",
+                                "University of Nairobi",
+                                "University"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89091107DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr. John",
+                                "Dr Edison Mworozi",
+                                "Mrs Kaleeba",
+                                "Mrs. Kaleba",
+                                "Dr Katabira",
+                                "Dr. Elly Katabira"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Canada",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Ottawa",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kampala",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Mulago Hospital",
+                                "Uganda ACP",
+                                "United States Agency for International Development",
+                                "TASO",
+                                "Ministry of Health",
+                                "University School of Journalism"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89091118DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Lucille Levasseur",
+                                "Ms Levasseur",
+                                "Dr. Raphael Wanjohi",
+                                "Mulandi",
+                                "Therese Mulandi",
+                                "Dr. Theresa M.",
+                                "Adotevi",
+                                "Dr Mulandi",
+                                "Wanjohi",
+                                "Dorothy Munyakho",
+                                "Feljcjen Amani Adotevi",
+                                "Dr Wanjohi",
+                                "Joseph Oliech"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Dakar",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Senegal",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Papua New Guinea",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "London",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Catholic Higher Institute for Eastern",
+                                "NACP",
+                                "International Federation for Family Life Promotion",
+                                "Aida",
+                                "AAP",
+                                "World Health Organisation",
+                                "National Aids",
+                                "Appropriate Health Resources and Technologies Action Group",
+                                "Global Programme",
+                                "Sierra Leone",
+                                "Director of Medical Services",
+                                "National Aids Control Programme",
+                                "Association of Medical Students University of Nairobi"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89091217DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Dr. Waweru",
+                                "H. W. Waweru",
+                                "Waweru"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Coast General Hospital",
+                                "Coast Province",
+                                "Lotus Hotel",
+                                "Coast"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89091503DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Ms. Amito"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Eastern Uganda",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Kampala",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Alago Nurses Training School",
+                                "TASO",
+                                "Institute of Public Administration L Kampala",
+                                "Control Programme"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89091520DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Kwadi",
+                                "Dr Iba",
+                                "BUNMI MAKINWA",
+                                "Friel",
+                                "Dr Friel",
+                                "Samuei Okware",
+                                "Patrick Friel",
+                                "Diop",
+                                "Mr Gottlieb Monekosso"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "United States",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Dakar",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "North Amer",
+                                    "place_type": "Stream"
+                                },
+                                {
+                                    "name": "Harare",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Europe",
+                                    "place_type": "Hotel"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Niamey",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Niger",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "DAKAR",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Cairo",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Montreal",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Canada",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Senegal",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Aida",
+                                "World Health Organisation",
+                                "Afn",
+                                "Kinsha&s",
+                                "Internationai Devel",
+                                "Cheikh Anta Diop University"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89092106DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Jameson Kimong"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "HJV"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89100114SN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr Franklin Volvovitz"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Washington",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Microgenesys INC"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89101808DN(1).txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Mr. Franklin Volvovitz"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "US",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Washington",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Microgenesys INC"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89101808DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "J. Oliech",
+                                "Dr. Sobbie Mulindi",
+                                "OTULA OWUOR",
+                                "J.R. Were",
+                                "Mr. Mwai Kibaki"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Garissa",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kisumu",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Embu",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Nyeri",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Mombasa",
+                                    "place_type": "City"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Ministry",
+                                "Science Editor  Tomorrow",
+                                "Association of Medical Studies",
+                                "NAC",
+                                "Parliament",
+                                "The Ministry",
+                                "National Aids Committee",
+                                "Ministry of Health",
+                                "University of Nairobi",
+                                "The Director of Medical Services"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89112519DNSA.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Kenyatta National Hospital",
+                                "NAC",
+                                "National Aids Committee",
+                                "Ministry of Health",
+                                "Kenya National Aids Control",
+                                "Kenya National AIDS Control Programme"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89120126DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Frank Mueke",
+                                "Dr. Acheta",
+                                "Mr Mwai Kibaki",
+                                "Jonathan Mann",
+                                "Theresa Mulandi",
+                                "J. B. Were",
+                                "Dr D. M. Owii",
+                                "Kemri",
+                                "Mr. Mugambi",
+                                "Mrs Margaret Gatei"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Mulindi",
+                                    "place_type": "Stream"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Minister for Health",
+                                "Kenya National Aids Control Programme",
+                                "University of Nairobi Medical School",
+                                "NAC",
+                                "Acquired Immune Deficiency Syndrome",
+                                "Dr Sobbie A. Z",
+                                "APS",
+                                "Global Programme",
+                                "Kenya Medical Research Institute",
+                                "Ministry of Health"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89120127DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nyanza",
+                                    "place_type": "Adm"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89120128DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Dr. Clumeck",
+                                "Nathan Clumecka",
+                                "Clumeck"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Antwerp",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Brussels",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Belgium",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Central Africa",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Boston",
+                                    "place_type": "GisFeature"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "New England Journal of Medicine",
+                                "St Pierre University"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89120310SN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "Koech",
+                                "Kemri",
+                                "Davy Koech"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Nairobi-based Kenya Medical Research Institute",
+                                "Government",
+                                "Aida",
+                                "Ministry of Health",
+                                "Kemri"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89120906DNSA.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [],
+                            "name": "people"
+                        },
+                        {
+                            "children": [],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Service Gilgil Drama Club",
+                                "National"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89121014SN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "DOROTHY MUNYAKHO",
+                                "Dr. Ruth Nduati",
+                                "Dr. Ngugi",
+                                "Dr. Florence Mangyu",
+                                "Mrs Lydia Nyalwal",
+                                "Dr.  Manguyu",
+                                "Dr Kinuthia",
+                                "Mrs Nyalwal",
+                                "Martin",
+                                "Elizabeth Ngugi",
+                                "Ngugi",
+                                "Doris Kinuthia",
+                                "Gladys Martin",
+                                "Kinuthia"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Africa",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zimbabwe",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Rwanda",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "University of Nairobi\ufffds College of Health Sciences",
+                                "Internation al Medical Women\ufffds Association",
+                                "Kenya Medical Women\ufffds Association",
+                                "Unicef",
+                                "Eastern",
+                                "United Nations\ufffd Children",
+                                "Primary Health Care",
+                                "College of Health Sciences",
+                                "University of Nairobi",
+                                "Health Sciences\ufffd Department of Community Health",
+                                "Southern Africa Region",
+                                "College"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89121215DN.txt"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                "John Njue"
+                            ],
+                            "name": "people"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "Lesotho",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Nairobi",
+                                    "place_type": "City"
+                                },
+                                {
+                                    "name": "Tanzania",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Ethiopia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Kenya",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zambia",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Mozambique",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Southern Africa",
+                                    "place_type": "GisFeature"
+                                },
+                                {
+                                    "name": "Uganda",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Malawi",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Embu",
+                                    "place_type": "Adm"
+                                },
+                                {
+                                    "name": "Sudan",
+                                    "place_type": "Country"
+                                },
+                                {
+                                    "name": "Zimbabwe",
+                                    "place_type": "Country"
+                                }
+                            ],
+                            "name": "places"
+                        },
+                        {
+                            "children": [
+                                "Association of Member Episcopal Conferences of Eastern Africa",
+                                "Eastern",
+                                "NATION Correspondent Young",
+                                "Catholic Higher Institute for Eastern Africa"
+                            ],
+                            "name": "organizations"
+                        }
+                    ],
+                    "name": "89122703DN.txt"
+                }
+            ],
+            "name": "Years"
+        }
+    ],
+    "name": "Aids"
+}

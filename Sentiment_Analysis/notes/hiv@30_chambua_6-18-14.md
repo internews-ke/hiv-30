@@ -13,7 +13,7 @@ Thanks for your patience, sorry about the delays.
 * [Poderopedia](http://poderopedia.github.io/panama-network/docs/)
 * [HIV visualization ideas](http://www.broadinstitute.org/annotation/viral/HIVPublic/)
 * [Force Layout](http://bl.ocks.org/mbostock/1062288)
-* [Pack Layout]()
+* [Pack Layout](http://bl.ocks.org/mbostock/7607535)
 * [Cytoscape tutorial](http://cytoscapeweb.cytoscape.org/tutorial)
 
 
@@ -45,3 +45,11 @@ This will be interesting as it will show a few small clusters (for years without
 See the [repo here](https://github.com/auremoser/hiv-30_cluster) for more readme details. 
 
 Demo [here](http://auremoser.github.io/hiv-30_cluster/) without labels.
+
+####NOTES
+Year by year cluster
+Analysis
+Direct labeling first 
+circle around them)
+They like super-pack structure
+Red direction
