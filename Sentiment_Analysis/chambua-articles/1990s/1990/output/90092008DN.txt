@@ -1,0 +1,1 @@
+{"organizations":["NACP","Muhimbili Medical Centre","Shihata","National Aids Control Programme"],"places":[{"name":"Tanzania","latitude":-6.0,"longitude":35.0,"place_type":"Country"}]}

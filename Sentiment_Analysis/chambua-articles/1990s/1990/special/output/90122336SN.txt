@@ -1,0 +1,1 @@
+{"organizations":["Aida","Centre of  Applied Microbiology and Research","National  Institute for Biological Standards  and Control","Reuters"],"places":[{"name":"United States","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"LONDON","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

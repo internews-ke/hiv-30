@@ -1,0 +1,1 @@
+{"people":["Davy Koech"],"organizations":["Kenya Medical Research Institute"],"places":[{"name":"Europe","latitude":43.5333,"longitude":3.9833,"place_type":"Hotel"}]}

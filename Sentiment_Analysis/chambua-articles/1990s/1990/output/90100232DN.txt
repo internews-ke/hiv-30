@@ -1,0 +1,1 @@
+{"people":["Peter Doherty","Joseph Fletcher","Jack","Mrs Barbara  Wilike"],"organizations":["Nairobi Terminal Care Centre","University of Nairobi"],"places":[{"name":"Aida","latitude":31.71946,"longitude":35.19864,"place_type":"Camp"}]}

@@ -1,0 +1,1 @@
+{"places":[{"name":"Thailand","latitude":15.0,"longitude":100.0,"place_type":"Country"},{"name":"Canberra","latitude":-35.5,"longitude":149.0,"place_type":"Adm"}]}

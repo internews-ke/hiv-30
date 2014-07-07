@@ -1,0 +1,1 @@
+{"people":["Hiroshi Nakajima"],"organizations":["World Health Organisation","World Health Assembly Resolution"],"places":[{"name":"United States","latitude":39.76,"longitude":-98.5,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Keith McCullagh","Mr McCullagh"],"organizations":["Medical Research Council"],"places":[{"name":"LONDON","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

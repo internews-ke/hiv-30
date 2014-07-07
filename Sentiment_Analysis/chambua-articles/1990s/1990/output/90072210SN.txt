@@ -1,0 +1,1 @@
+{"people":["Robert Benjamin","Kean","Greenberg","Linda Kean","Donald Greenberg"],"organizations":["Newsweek","District Attorney's Office","Alameda' County Deputy District Attorney James Casey"],"places":[{"name":"California","latitude":37.25022,"longitude":-119.75126,"place_type":"Adm"}]}
