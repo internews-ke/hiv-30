@@ -1,0 +1,1045 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column value using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "value",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column value using expression value.trim()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "value",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "value",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "USAID",
+          "USAid",
+          "USaid",
+          "Usaid"
+        ],
+        "to": "USAID"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "World Health Organisation",
+          "'World Health Organisation",
+          "World Health' Organisation"
+        ],
+        "to": "World Health Organisation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UNAids",
+          "UNAIDS",
+          "Unaids"
+        ],
+        "to": "UNAids"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kampala",
+          "KAMPALA",
+          "' Kampala"
+        ],
+        "to": "Kampala"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "North America",
+          "' North America",
+          "north America"
+        ],
+        "to": "North America"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sunday Nation",
+          "SUNDAY NATION"
+        ],
+        "to": "Sunday Nation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Boston",
+          "BOSTON"
+        ],
+        "to": "Boston"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "London",
+          "LONDON"
+        ],
+        "to": "London"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National AIDS Council",
+          "National Aids Council"
+        ],
+        "to": "National AIDS Council"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ARTHUR OKWEMBA",
+          "Arthur Okwemba"
+        ],
+        "to": "Arthur Okwemba"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tokyo",
+          "TOKYO"
+        ],
+        "to": "Tokyo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Carol",
+          "Carol*"
+        ],
+        "to": "Carol"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "'Population Services International",
+          "Population Services International"
+        ],
+        "to": "'Population Services International"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Panos",
+          "PANOS"
+        ],
+        "to": "Panos"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mrs Muloki",
+          "Mrs. Muloki"
+        ],
+        "to": "Mrs Muloki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "IRA",
+          "Ira"
+        ],
+        "to": "IRA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Wang-oi Njau",
+          "Wangoi Njau"
+        ],
+        "to": "Wang-oi Njau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Angatia",
+          "Mr. Angatia"
+        ],
+        "to": "Mr Angatia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "IGAD",
+          "Igad"
+        ],
+        "to": "IGAD"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "International Conference On Population and Development",
+          "International Conference on Population and Development"
+        ],
+        "to": "International Conference On Population and Development"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cairo",
+          "CAIRO"
+        ],
+        "to": "Cairo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "San Francisco",
+          "SAN FRANCISCO"
+        ],
+        "to": "San Francisco"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "STD Control Programme",
+          "Std Control Programme"
+        ],
+        "to": "STD Control Programme"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Washington",
+          "WASHINGTON"
+        ],
+        "to": "Washington"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Beijing",
+          "BEIJING"
+        ],
+        "to": "Beijing"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hepatitis B",
+          "Hepatitis B Hepatitis B"
+        ],
+        "to": "Hepatitis B"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Africa",
+          "Africa Africa"
+        ],
+        "to": "Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kisumu",
+          "KISUMU"
+        ],
+        "to": "Kisumu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "OCHIENG",
+          "Ochieng"
+        ],
+        "to": "OCHIENG"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nascop",
+          "NASCOP"
+        ],
+        "to": "Nascop"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Paris",
+          "PARIS"
+        ],
+        "to": "Paris"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "USA",
+          "U.S.A."
+        ],
+        "to": "USA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ibrahim Mohamed",
+          "Mohamed Ibrahim"
+        ],
+        "to": "Ibrahim Mohamed"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NGOs",
+          "NGOS"
+        ],
+        "to": "NGOs"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CHEGE",
+          "Chege"
+        ],
+        "to": "CHEGE"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "WINDHOEK",
+          "Windhoek"
+        ],
+        "to": "Windhoek"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Arusha",
+          "ARUSHA"
+        ],
+        "to": "Arusha"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Unicef",
+          "UNICEF"
+        ],
+        "to": "Unicef"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Geneva",
+          "GENEVA"
+        ],
+        "to": "Geneva"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Johannesburg",
+          "JOHANNESBURG"
+        ],
+        "to": "Johannesburg"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DAVID KURIA",
+          "David Kuria"
+        ],
+        "to": "David Kuria"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "University of Nairobi",
+          "University Of Nairobi"
+        ],
+        "to": "University of Nairobi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "John",
+          "John*"
+        ],
+        "to": "John"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UN Programme",
+          "U.N Programme"
+        ],
+        "to": "UN Programme"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MIKE MWANIKI",
+          "Mike Mwaniki"
+        ],
+        "to": "Mike Mwaniki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Blantyre",
+          "BLANTYRE"
+        ],
+        "to": "Blantyre"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya",
+          "KENYA"
+        ],
+        "to": "Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nairobi",
+          "NAIROBI"
+        ],
+        "to": "Nairobi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LUCAS BARASA",
+          "Lucas Barasa"
+        ],
+        "to": "Lucas Barasa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Zambia",
+          "ZambIa"
+        ],
+        "to": "Zambia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Florence",
+          "FLORENCE"
+        ],
+        "to": "Florence"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Crispin Wilson",
+          "Mr. Crispin Wilson"
+        ],
+        "to": "Mr Crispin Wilson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ministry of Public Health",
+          "Ministry Of Public Health"
+        ],
+        "to": "Ministry of Public Health"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Johnson",
+          "Johnson & Johnson"
+        ],
+        "to": "Johnson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "United States Food and Drug Administration",
+          "United States' Food and Drug Administration"
+        ],
+        "to": "United States Food and Drug Administration"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "VANCOUVER",
+          "Vancouver"
+        ],
+        "to": "Vancouver"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Michel Sidibe",
+          "Mr. Michel Sidibe"
+        ],
+        "to": "Mr Michel Sidibe"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NATION Correspondent Aids",
+          "Nation Correspondent Aids"
+        ],
+        "to": "Nation Correspondent Aids"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MIAMI",
+          "Miami"
+        ],
+        "to": "Miami"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CAPE TOWN",
+          "Cape Town"
+        ],
+        "to": "Cape Town"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "U.S. Census Bureau",
+          "US Census Bureau"
+        ],
+        "to": "U.S. Census Bureau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AMFAR",
+          "amfAR"
+        ],
+        "to": "AMFAR"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CHRIS ERASMUS",
+          "Chris Erasmus"
+        ],
+        "to": "Chris Erasmus"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Av√©rno",
+          "Mr. Av√©rno"
+        ],
+        "to": "Mr Av√©rno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Derrick",
+          "Derrick*"
+        ],
+        "to": "Derrick"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "New York",
+          "NEW YORK"
+        ],
+        "to": "New York"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pepfar",
+          "PEPFAR"
+        ],
+        "to": "Pepfar"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Chris",
+          "Chris*"
+        ],
+        "to": "Chris"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Mugavana",
+          "Mr. Mugavana"
+        ],
+        "to": "Mr Mugavana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "IDAHO",
+          "Idaho"
+        ],
+        "to": "Idaho"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Uganda",
+          "uganda"
+        ],
+        "to": "Uganda"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LUANDA",
+          "Luanda"
+        ],
+        "to": "Luanda"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Virodene",
+          "Virodene Virodene"
+        ],
+        "to": "Virodene"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mrs Clinton",
+          "Mrs. Clinton"
+        ],
+        "to": "Mrs Clinton"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Aidscap",
+          "AIDSCAP"
+        ],
+        "to": "Aidscap"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Asunta Wagura",
+          "ASUNTA WAGURA"
+        ],
+        "to": "Asunta Wagura"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NACC",
+          "Nacc"
+        ],
+        "to": "NACC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "East Africa",
+          "Africa EAST AFRICA"
+        ],
+        "to": "East Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Paul Chuke",
+          "Paul' Chuke"
+        ],
+        "to": "Paul Chuke"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tom Curtis",
+          "tom Curtis"
+        ],
+        "to": "Tom Curtis"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Aids/STD Control Programme",
+          "National AIDS/STD Control Programme"
+        ],
+        "to": "National Aids/STD Control Programme"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "International AIDS Conference",
+          "International Aids Conference"
+        ],
+        "to": "International AIDS Conference"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mulindi",
+          "MULINDI"
+        ],
+        "to": "Mulindi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "HARARE",
+          "Harare"
+        ],
+        "to": "Harare"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "US",
+          "U.S."
+        ],
+        "to": "US"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Providence",
+          "PROVIDENCE"
+        ],
+        "to": "Providence"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Los Angeles",
+          "LOS ANGELES"
+        ],
+        "to": "Los Angeles"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DARMSTADT",
+          "Darmstadt"
+        ],
+        "to": "DARMSTADT"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Institute of Education",
+          "Kenya Institute Of Education"
+        ],
+        "to": "Kenya Institute of Education"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UK",
+          "U.K."
+        ],
+        "to": "UK"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Eastern Africa",
+          "eastern Africa"
+        ],
+        "to": "Eastern Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JOHN OYWA",
+          "John Oywa"
+        ],
+        "to": "John Oywa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Otieno",
+          "Mr. Otieno"
+        ],
+        "to": "Mr Otieno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CFC",
+          "CfC"
+        ],
+        "to": "CFC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Henry Kosgey",
+          "Mr. Henry Kosgey"
+        ],
+        "to": "Mr Henry Kosgey"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "GABORONE",
+          "Gaborone"
+        ],
+        "to": "Gaborone"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Isiolo",
+          "ISIOLO"
+        ],
+        "to": "Isiolo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JERUSALEM",
+          "Jerusalem"
+        ],
+        "to": "Jerusalem"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PanAfric Hotel",
+          "Panafric Hotel"
+        ],
+        "to": "PanAfric Hotel"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kari",
+          "KARI"
+        ],
+        "to": "Kari"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MWINGI",
+          "Mwingi"
+        ],
+        "to": "MWINGI"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Lusaka",
+          "LUSAKA"
+        ],
+        "to": "Lusaka"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Aids Control Council",
+          "National AIDs Control Council"
+        ],
+        "to": "National Aids Control Council"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ngugi",
+          "NGUGI"
+        ],
+        "to": "Ngugi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CHICAGO",
+          "Chicago"
+        ],
+        "to": "Chicago"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Amref",
+          "AMREF"
+        ],
+        "to": "Amref"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Uganda Aids Commission",
+          "Uganda AIDS Commission"
+        ],
+        "to": "Uganda Aids Commission"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LAGOS",
+          "Lagos"
+        ],
+        "to": "Lagos"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "US Agency for International Development",
+          "U.S. Agency for International Development"
+        ],
+        "to": "US Agency for International Development"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gatonye Gathura",
+          "GATONYE GATHURA"
+        ],
+        "to": "Gatonye Gathura"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ministry of Health",
+          "'Ministry of Health"
+        ],
+        "to": "Ministry of Health"
+      }
+    ]
+  }
+]

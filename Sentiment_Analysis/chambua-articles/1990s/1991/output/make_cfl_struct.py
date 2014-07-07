@@ -27,7 +27,7 @@ def people(content):
     out['name'] = 'people'
     childs = []
     for person in content.get('people', []):
-        childs.append(person)
+        childs.append({ 'name': person })
 
     out['children'] = childs
     return out
@@ -38,10 +38,21 @@ def organizations(content):
     out['name'] = 'organizations'
     childs = []
     for org in content.get('organizations', []):
-        childs.append(org)
+        childs.append({ 'name': org })
 
     out['children'] = childs
     return out
+
+def childify(name, content):
+    out = {}
+    out['name'] = name
+    childs = []
+    for org in content.get(name, []):
+        childs.append({ 'name': org })
+
+    out['children'] = childs
+    if len(out) > 0:
+        return out
 
 
 def main():
@@ -63,11 +74,14 @@ def main():
             content = json.loads(f.read())
 
             #people
-            childs.append(people(content))
+            # childs.append(people(content))
+            childs.append(childify('people', content))
             #places
             childs.append(places(content))
+            # childs.append(childify('places', content))
             #organizations
-            childs.append(organizations(content))
+            # childs.append(organizations(content))
+            childs.append(childify('organizations', content))
 
             out['children'] = childs
 

@@ -34,6 +34,9 @@ Wrote script to parse through files in a directory and make the json for a [forc
 run this command with script in the output directory:
 `python make_cfl_struct.py -p './1980/*.txt' -o 'tree_structure.json'`
 
+`cat tree_structure.json` to test
+
+
 ####Demo Cluster
 Palette [here](http://www.degraeve.com/color-palette/index.php?q=http://forcollegeandcommunity.files.wordpress.com/2012/08/hiv-virus.jpg,1A0B207547A19F5F819F63D3CD82B5,1E012B761ACEBF3F83A32CFFF25DC2)
 Image of HIV here [here](http://forcollegeandcommunity.files.wordpress.com/2012/08/hiv-virus.jpg)
@@ -53,3 +56,17 @@ Direct labeling first
 circle around them)
 They like super-pack structure
 Red direction
+
+
+####XCurriculum
+physician immigration -> calculations (do)
+dates - 1 week data journalism training (5/26-30 May)
+
+CIRCLE PACK STRUCTURE
+
+Went through the 91 years, still confused about those.
+92:
+extra 1 or digit removed from end, processed as normal
+extra 2 or 1 after LN DN or WM assumed to be spurious notation, removed
+* moved all pdfs to the `special` folder for each decade
+* 

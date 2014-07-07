@@ -33,7 +33,7 @@ def people(content):
     out['name'] = 'people'
     childs = []
     for person in content.get('people', []):
-        childs.append(person)
+        childs.append({ name: person })
 
     out['children'] = childs
     return out
