@@ -1,0 +1,1 @@
+{"people":["Mr Joe Muriuki","Mrs Jane Muriithi","Mrs Muriithi"],"organizations":["Fifth International HIV/Aids Victims' Conference","International Steering Committee","Know Aids Society"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"London","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

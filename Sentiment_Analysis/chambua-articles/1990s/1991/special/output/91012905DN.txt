@@ -1,0 +1,1 @@
+{"people":["YANN TESSIER","Manhalter","Josef Manhalter"],"organizations":["International Aids Conference","Immuno International AG","Acquired Immune Deficiency Syndrome","Reuters"],"places":[{"name":"Italy","latitude":42.83333,"longitude":12.83333,"place_type":"Country"}]}

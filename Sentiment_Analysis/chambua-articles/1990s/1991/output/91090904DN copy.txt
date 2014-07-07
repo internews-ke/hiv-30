@@ -1,0 +1,1 @@
+{"people":["Joseph Ngeresa"],"organizations":["The Kitale District Hospital"],"places":[{"name":"Kitale","latitude":1.01572,"longitude":35.00622,"place_type":"City"}]}

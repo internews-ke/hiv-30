@@ -1,0 +1,1 @@
+{"organizations":["Government","Kenyatta National Hospital","Poona University","Eiisa","Mondy","Nelson Agata","Ministry of  Education","Human T. Lymphocyte Virus"],"places":[{"name":"India","latitude":20.0,"longitude":77.0,"place_type":"Country"}]}

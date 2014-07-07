@@ -1,0 +1,1 @@
+{"people":["Mr. Dalmas Otieno","Mr. Otieno","George Saitoti","ERIC ORINA","Mr. Henry Kosgey"],"organizations":["University of Nairobi's Insurance Students","Actuarial Science","Government","Finance","Kenya National Assurance","University of Nairobi","Minister for Manpower Development","Chartered Institute of Insurers"]}

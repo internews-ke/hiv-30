@@ -1,0 +1,1 @@
+{"people":["Johnson","Roy John","John"],"organizations":["BASkETBAll    Magic Johnson","Associated Press","CBS Interviewer Connie Chung","Magic"],"places":[]}

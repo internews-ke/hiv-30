@@ -1,0 +1,1 @@
+{"people":["Johnson","Roy Johnson"],"organizations":["Associated Press","Los Angeles Lakers","Magic","CBS"],"places":[{"name":"NEW YORK","latitude":43.00035,"longitude":-75.4999,"place_type":"Adm"}]}

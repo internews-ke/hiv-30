@@ -1,0 +1,1 @@
+{"people":["Mr Joe Muriuki"],"organizations":["World Health Organisation","Immunex","National Aids Committee"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"West","latitude":30.86017,"longitude":72.31976,"place_type":"Adm"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

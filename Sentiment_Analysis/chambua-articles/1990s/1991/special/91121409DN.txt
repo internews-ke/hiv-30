@@ -1,7 +1,1 @@
-Aids vaccine?
-Bonn: A vaccine against AIDS
-could be available within five
-years, the director of France's
-Pasteur institute credited as a
-discoverer of the HIV virus told
-the German weekly Stern.
+{"text": "Aids vaccine?\nBonn: A vaccine against AIDS\ncould be available within five\nyears, the director of France's\nPasteur institute credited as a\ndiscoverer of the HIV virus told\nthe German weekly Stern."}

@@ -1,0 +1,1 @@
+{"people":["Griffiths","Paul Griffiths"],"organizations":["Royal Free"],"places":[{"name":"North London","latitude":45.30108,"longitude":-94.94418,"place_type":"City"},{"name":"Australia","latitude":-25.0,"longitude":135.0,"place_type":"Country"}]}

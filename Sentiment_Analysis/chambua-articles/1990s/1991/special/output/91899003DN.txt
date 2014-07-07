@@ -1,0 +1,1 @@
+{"people":["Mr Muhoio Kenyatta","Mr Ephraim Gathaiya","Agostino","Mr Denis Afande","Margaret Kenyatta"],"organizations":["Nyumbani Children’s Home","Nyokabi Kenyatta","Mama Ngina  Kenyatta"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Karen","latitude":17.5,"longitude":97.75,"place_type":"Adm"}]}
