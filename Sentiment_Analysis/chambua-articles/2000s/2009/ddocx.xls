@@ -1,0 +1,57 @@
+	All possibilities of date formats							
+1	***D**ddYY 	Where: 						
+2	***DNCddmmYY 	* = Some number or letter.						
+3	***DNddYY	YY = last digit and second last digit of the year in which the article was written.						
+4	***DailyN****_YY	dd = day (2 digits)						
+5	**BWddmmYY 	mm = month (2 digits)						
+6	**DN*ddmmYY* 							
+7	**DNCddYY 	What initials mean.						
+8	**DNFddYY 	DN = Daily Nation						
+9	**DNddmm*YY 	DailyN = Daily Nation						
+10	**DNddmm0YY 	BW = Business Weekly						
+11	**DNddmmYY	FM = Family Magazine						
+12	**DNddmmYY(*) 	HZ = Horizon Magazine						
+13	**DNddmmYY(***) 	LM = Living Magazine						
+14	**DNddmmYY(****) 	LS = Lifestyle Magazine						
+15	**DNddmmYY(****)(*) 	SN = Sunday Nation						
+16	**DNddmmYY(****)	SATN = Saturday Nation						
+17	**DNddmmYY* (*) 	MA = Daily Nation Health and Environment articles						
+18	**DNddmmYY* 	SS =  Daily Nation Health and Environment articles						
+19	**DNddmmYY*(***) 							
+20	**DNddmmYY** 							
+21	**DNddmmYY**(*) 							
+22	**FMddmmYY 				YEAR	Number of articles only in .docx or .txt (NOT .pdf)	Percent	Decade (%).
+23	**HZddmmYY 				1981	1	0.03	2.38
+24	**HZddmmYY(*) 				1983	2	0.06	
+25	**LMXddYY 				1985	4	0.12	
+26	**LSddmm*YY 				1986	3	0.09	
+27	**LSddmmYY 				1987	13	0.38	
+28	**MAddmmYY 				1988	28	0.82	
+29	**MAddmmYY(*) 				1989	30	0.88	
+30	**SATNddmmYY 				1990	44	1.28	25.69
+31	**SNddmm*YY 				1991	72	2.1	
+32	**SNddmm0YY 				1992	63	1.84	
+33	**SNddmmYY 				1993	95	2.77	
+34	**SNddmmYY(*) 				1994	65	1.9	
+35	**SNddmmYY* 				1995	108	3.15	
+36	**SSXddYY 				1996	106	3.09	
+37	**SSddmmYY 				1997	92	2.68	
+38	**SSddmmYY(*) 				1998	81	2.36	
+39	**SSddmmYY* 				1999	155	4.52	
+40	**WMddmmYY 				2000	259	7.56	59.73
+41	**WMddmmYY(*) 				2001	353	10.3	
+42	**YNddmmYY 				2002	291	8.49	
+43	Correct date: 01/12/2010				2003	354	10.33	
+44	Name got nothing to do with dates. Cl..				2004	467	13.63	
+45	Original name - ddmmYY				2005	72	2.1	
+46	Original name_YY				2006	93	2.71	
+47	ddmmYYYY				2007	50	1.46	
+48	ddmmYYYY part A				2008	27	0.79	
+49	ddmmYYYY part B				2009	81	2.36	
+50	ddmmYYYY part C				2010	84	2.45	12.2
+51	ddmmYYYY part D				2011	109	3.18	
+52	ddmmYYYY part E				2012	87	2.54	
+53	ddmmYYYY part F				2013	138	4.03	
+					Total	"3,427"	100	
+								
+								

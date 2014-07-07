@@ -1,0 +1,150 @@
+     48                                                                                                                                                                                        Daily Nation! Friday, March 5,2004
+                                                              ,                    VACANCY ANNOUNCEMENTS
+                                                                                         KEMRIICDC PROGRAM
+                                                                                                                                   1-2 years phlebotomy experience required.
+      Position 1: Clinical laboratory Supervisor for HIVIAIDS Research                                                             1 year neonate and infant phlebotomy experience preferred
+      Laboratory (Medical Laboratory Technologist I)                                                                           QUALITIES:
+      The U.S. Centers for Disease Control and Prevention (CDC) and Kenya Medical Research Institute                              Hardworking, diligent, and ready to work in multidisplinary environment.                        - " -.
+                                                                                                                                  Good judgment in problem solving, awareness of own limitations, and strong personal motivation .••••••...•.
+      (KEMRI) HIV Research (HIV-R) laboratory in Kisumu is expanding. The laboratory supports research
+      projects including a clinical trial of antiretroviral drugs and breastieeding mothers and a Baseline                        Patience and compassion toward all study participants, many of whom are HIV- infected, required
+      Cross-Sectional study of HIV and STls in preparation for an HIV vaccine clinical trial. The laboratory's                    Professional conduct and ability to maintain strict confidentiality required
+      research agenda includes various aspects of HIV retravirology. The laboratory has two new                                   Ability to effectively communicate verbally and in writing with staff and supervisors required.
+      state-of-the-art facilities and is in need of a senior laboratory technologist to serve as a clinical
+      laboratory supervisor at the Clinical Research Center (CRC) of KEMRI, Kisumu. This position is directly                  RESPONSIBILITIES:
+      supervised by the HIV/AIDS Laboratory Director at the CDC/KEMRI research station.                                        The incumbent will be responsible for performing all aspects of laboratory work required to support the
+                                                                                                                               project's clinical and epidemiological research as well as programmatic quality assurance needs. This
+                                                                                                                               includes all aspects of HIV serology and HIV PCR, HIV-1 RNA measurements (viral load), CD4 cell
+      lOCATION:     KEMRI/CDC      Project, Kisumu
+                                                                                                                               counts, bacteriology (STD and TB diagnosis), basic hematology and clinical chemistry. He/she will be
+      EDUCATION: Bachelors degree (in biological sciences) or Higher National Diploma                                          required to contribute actively to the development of new laboratory capabilities and Standard Operation
+      (Virology/Immunology and Biochemistry) from a recognized institution required                                            Procedures for use in the laboratory and ensure that proper operational procedures and laboratory safety
+      lANGUAGE:      Excellent written and verbal English skills required.                                                     precautions are maintained. Furthermore, the incumbent will be required to adhere to CDC's bio-safety
+                                                                                                                               standards, ensure adequate quality assurance measures with respect to reagents, equipm'ent and
+                                                                                                                               samples are observed, enter/record test results obtained in an organized and timely manner, and write
+      EXPERIENCE:
+         At least 3 years experience in a clinical/hospital/research laboratory required - previous experience                 summary reports based on the work conducted. The incumbent will be required to monitor his/her own
+         in a virology laboratory will be an added advantage                                                                   reagents and make requests for new supplies through the laboratory procurement person and carry out all
+         Competence in routine, basic clinical diagnostics tests (to include biochemistry, immunology, and                     other duties assigned by the officer in charge.                     -
+          hematology) required.
+          Basic computer skills (such as Excel, Word, etc) required.                                                           Position 4: Computer System Developer for Health Research
+          Laboratory supervision experience for at least 2 years required
+                                                                                                                               lOCATION:         KEMRI/CDC Project, Kisumu. Research is in Malaria, TB, and HIV/AIDS.
+      QUALITIES:                                                                                                               EDUCATION:          Bachelors degree in Computer Science, Information Technology, or equivalent
+         Hardworking, diligent, and ready to work in a multidisciplinary environment                                           qualification. Masters degree in a related field preferred.
+         Ability to communicate verbally and in writing with laboratory technologists and with senior CDC and                  lANGUAGE:           Excellent English skills, written and verbal, required.
+         KEMRI staff required.                                                                                                 EXPERIENCE:
+         Good judgment in problem solving, awareness of own limitations, and strong internal motivation                             Minimum 5 years active computer programming/DBA experience in a busy solutions development
+         essential.                                                                                                                 environment with direct responsibility for planning, developing, and maintenance of front and data
+         Patience and compassion toward all study participants, many of whom are HIV-infected. required                             end systems required.
+         Professional conduct and ability to maintain strict confidentiality required                                                Practical knowledge of at least one OOP language, such as VB or C++. Knowledge of the .net
+         Strong leadership, management, and supervisory skills required.                                                             Framework preferred.
+                                                                                                                                     Practical knowledge of SOL programming and a report writer such as Crystal Reports.
+      RESPONSIBILITIES:                                                                                                              Practical knowledge of a relational database, such as SOL Server or Oracle. Knowledge of visual
+      The incumbent will help the laboratory director in running the clinical diagnostics laboratory at the New                      FoxPro preferred.
+      Nyanza Provincial Hospital. He/she will be directly responsible for the supervision of clinical laboratory                     Practical knowledge of backup procedures, database optimization, monitoring, tuning, disaster
+      staff and the day-to-day running of the laboratory. In addition to writing and enforcing adherence of new                      planning and recovery, security, capacity planning, and problem management.
+      and existing standard operating procedures, the incumbent will be required to adhere to CDC's                                  Ability to interact with clients to gather business information and write applicatiolJ models.
+      bio-safety standards, ensure adequate quality assurance measures with respect to reagents and                                  Ability to write documentation and standard operating procedures.
+      equipment, and to work with the laboratory director in preparing laboratory reports when requested.                            Ability to communicate verbally and in writing with managers and staff required. Good judgment in
+      Additionally, the incumbent is expected to effectively interact with other non-laboratory staff on                             problem solving, awareness of own limitations, and strong internal motivation essential.
+      lab-related issues. He/she will work closely with the HIV laboratory program assistant to ensure all
+      laboratory reagents and equipment are purchased in a timely fashion and in accordance with                               RESPONSIBILITIES:
+      CDC/KEMRI procurement procedures.                                                                                        The incumbent will be responsible for the design, redesign, development, coding, testing, documentation,
+                                                                                                                               and maintenanpe of computer systems for critical health research projects at the CDC/KEMRI field station
+      Position 2: Program Assistant for HIV/AIDS Research Laboratory                                                           in Kisumu. The high quality software produced must operate compatibly on handheld devices, desktops
+                                                                                                                               laptops and servers. The incumbent will be responsible for all aspects of program development and
+      The U.S. Centers for Disease Control and Prevention            (CDC) and Kenya      Medical Research Institute           database administration to ensure the productivity, user friendliness, and data quality delivered by these
+      (KEMRI) HIV Research (HIV-R) laboratory in Kisumu             is expanding. The    laboratory supports research          systems. The incumbent ml:lst develop an in-depth understanding of each research study's design and
+      projects including a clinical trial of antiretroviral drugs   and breastieeding     mothers and a Baseline               goals so that s/he can participate fully in the successful implementation and execution of the project. The
+      Cross-Sectional study of HIV and STls in preparation          for an HIV vaccine    clinical trial. The laboratory's     incumbent must be able to problem-solve, take responsibility, and work well with both administrative
+      research agenda includes various aspects of HIV retrovirology. The laboratory has two new                                personnel and members of research teams.
+      state-of-the-art facilities and is in need of a program assistant to handle laboratory administrative           needs.
+      This position is directly supervised by the officer in charge of the HIV/AIDS Laboratory of the                          POSITIONS: District PMCT MIS Coordinator
+      KEMRI/CDC Program.                                                                                                                  S positions in Nyanza Province.
+      lOCATION: KEMRI/CDC Project, Kisumu                                                                                      Basic Function   of Position
+      EDUCATION: At least a diploma in management or administration              from a recognized Institution is
+                                                                                                                               The MIS Coordinator will be the liaison person between the data room at CDC offices and all the
+<'    required ..                                                                                                              CDC-supported program sites for PMCT. He/She will be responsible for coordination of data inflow from
+      lANGUAGE:   Excellent written and verbal English skills required                                                         the field sites to the GAP CDC data centre, maintaining a link between the field and data centre to ensure
+                                                                                                                               verification of the accuracy and completeness of data forms is done in a consistent timely manner,
+       EXPERIENCE:                                                                                                             scheduling of training and refresher courses for field staff who are involved in data collection. In order to be
+          At least 3 years experience in office management with particular emphasis in procurement and/or
+                                                                                                                               an effective link, this position requires a person who has data collection as well as data entry and cleaning
+          accounting required.                                                                                                 skills.                                                                         "
+          Additional experience with procurement from international companies and office management,
+          accounting, clerical, and filing duties in a biomedical research environment preferred.
+                                                                                                                               QUALIFICATIONS
+          Excellent computer skills particularly for word processing, spreadsheets, and e-mail required.
+                                                                                                                               Education: KCSE or equivalent; minimum mean Grade C and above.
+                                                                                                                               Minimum:   Higher Diploma in Information Technology with at least 2 years experience in handling medical
+      QUALITIES:
+                                                                                                                               data.
+         Incumbent must be organized, efficient, and detail oriented                                                           Desired:   "University Degree in any of the following; Community Development, Anthropology, Sociology
+         Excellent interpersonal skills required.
+                                                                                                                               or equivalent Prior work experience
+         Hardworking, diligent, and able to work in a multidisciplinary team .                                                 •    At least 1 year experience in field data coordination    (medical/program    data).
+         Ability to effectively communicate verbally and in writing with staff and supervisors required.
+                                                                                                                                    Experience in working with medical records will be an added advantage
+         Good judgment in problem solving, awareness of own limitations, and strong personal motivation.
+                                                                                                                                    Experience in data entry and cleaning in Epi Info 2000/MS Access is an adaed advantage
+         Professional conduct and ability to maintain strict confidentiality required.
+                                                                                                                                    Language proficiency
+                                                                                                                                    English, both written and oral
+      RESPONSIBILITIES:                                                                                                             Knowledge, Skills and Abilities
+      The incumbent will be responsible for managing and executing the administrative needs of the HIV- R
+                                                                                                                                    Data preparation
+      laboratory. He/she will work under the direct supervision of the officer in charge of the HIV-R laboratory
+                                                                                                                                    Records main"tenance skills including computerized record tracking systems
+      with back up from the HIVR Branch administrative officer and the program's Deputy Director.
+                                                                                                                                    Must be able to resolve problems and consistencies on paper (raw) data
+      Primarily, he/she will be responsible for all laboratory procurement needs for new items and maintaining
+                                                                                                                                    Data entry
+      current supplies, maintaining an accurate stock count of all lab-related supplies and equipment, assuring
+                                                                                                                                    Must be able to perform basic data cleaning/editing
+      that machines receive regular maintenance and repair needs, monitor the laboratory budget,
+                                                                                                                                    Skill in the use of computerised systems and databases
+      photocopying and filing all administrative documents, assisting the officer in charge in any clerical
+                                                                                                                                    Linkage/liaison
+      needs. and performing any other duties assigned by the officer in charge.                                                     Good communication skills; ability to work as a team and act as a liaison between people of
+                                                                                                                                    different backgrounds     (e.g. ANC nurse/counselors    vs. computer room staff)
+       Applications for 1 & 2 are due NO lATER THAN March 26 2004 to:
+       Director KEMRVCDC, ~ttn: Chief, HIV/AIDS Epidemiology   Branch,                   P.O. Box 1578, Kisumu
+                                                                                                                                Other requirements:
+                                                                                                                                    Word processing, MS Windows, MS Excel (data record tracking)
+       Position 3: Medical Laboratory Technologist III for HIVIAIDS Research                                                        Ability to understand and follow research protocol and procedures
+       Laboratory                                                                                                                   Ability to understand and follow specific instructions
+                                                                                                                                    Ability to maintain confidentiality of records and information
+       The U.S. Centers for Disease Control and Prevention (CDC) and Kenya Medical Research Institute                               Must be familiar with the National Voluntary Counseling & HIV Testing Form
+       (KEMRI) HIV Research (HIV-R) laboratory in Kisumu is expanding. The laboratory supports research
+       projects including a clinical trial of antiretroviral drugs and breastieeding mothers and a Baseline                     Applications for 3-5 are due NOT lATER       THAN March 26, 2004 to:
+       Cross-Sectional study of HIV and STls in preparation for an HIV vaccine clinical trial. The laboratory's
+       research agenda includes various aspects of HIV retrovirology. The laboratory has two new                                The Human Resources Manager,
+       state-of-the-art facilities and is in need of laboratory technologists to join committed group of HIV-R
+                                                                                           a                                    KEMRVCDC, Attn: Chief,
+       researchers. This position is directly supervised by the HIV/AIDS .Laboratory Director at the CDC/KEMRI                  Statistics and Data Management Section,
+       research station.                                                                                                        P.O.BOX 1578,
+                                                                                                                                Klsumu.
+       lOCATION: KEMRI/CDC Project, Kisumu.
+       EDUCATION: At least a higher diploma in medical laboratory science from a recognized institution in                      TERMS OF EMPLOYMENT: Contract for 1 year, renewable. Probation period for the first 3 months.
+       Kenya.                                                                                                                   Salary negotiable depending on education, experience and demonstrated competence.
+       lANGUAGE:       Excellent written and verbal English skills required.
+                                                                                                                                All applications   should include the following:
+       EXPERIENCE:                                                                                                              • letter of application
+          Minimum 3 years experience (preferably in virology and/or bacteriology laboratory) required.                          • Current resume or Curriculum Vitae
+          Competency in cell separation, PCR, and basic clinical diagnostic techniques such as biochemistry,                    • Copies of certificates
+          immunology and hematology essential                                                                                   • Contact telephone Number
+          Basic computer skills required                                                                                        • Name and contact information for 3 references        (including   current     or most recent
+                                                                                                                                employer/supervisor)                                            "
+Page 
+
+
+-------------------Trial Version-----------------------
+
+Convert PDF to Text Desktop Software.
+
+Copyright Convertpdftotext.net 2014.
+
+To remove these lines, please activate your software from http://www.convertpdftotext.net/buynow.htm
+
+-------------------------------------------------------
