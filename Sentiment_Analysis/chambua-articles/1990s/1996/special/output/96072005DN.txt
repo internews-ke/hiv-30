@@ -1,0 +1,1 @@
+{"people":["Gatiri","George Galiri"],"organizations":["Nakuru District","NATION Reporter Naivasha Division"],"places":[{"name":"Western Kenya","latitude":0.5,"longitude":34.58333,"place_type":"Adm"},{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Karen"],"organizations":["NATION CORRESPONDENT   Kenya","Population Service International","USAID/Kenya Mission Director George Jones","United Nations Secretary-General Boutros Boutros-Ghali","Second Annual Trust Cycle Race","Ngong"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

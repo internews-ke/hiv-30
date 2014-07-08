@@ -1,0 +1,1 @@
+{"people":["Joshua Angatia","Kamwithi Munyi","Arthur Obel","Mwanzia","Nicholas Biwott","Obel"],"organizations":["Poisons Board","Government","Pearl Omega","Director of Medical Services James Mwanzia","Health Assistant Minister Basil Criticos","Ministry of Health"],"places":[{"name":"Parliament","latitude":53.06667,"longitude":-0.81667,"place_type":"City"}]}
