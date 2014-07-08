@@ -1,0 +1,1 @@
+{"people":["James  Mwanzia","Mwanzia","JACINTA SEKOH"],"organizations":["Safari Park  Hotel","World Health Organisation","National Aids  Control Programmes","Director of Medical Services"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

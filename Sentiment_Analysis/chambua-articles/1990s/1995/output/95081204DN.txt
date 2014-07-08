@@ -1,0 +1,1 @@
+{"people":["Anne Mpyisi","Mr James Luwalira","David Musisi","James Luwalira"],"organizations":["Mombasa Chief Magistrate Joseph Kanyi","Mombasa Resident Magistrate Joseph Kanyi","United Nations High Commissioner","UNHCR"],"places":[{"name":"Nyali","latitude":-2.855,"longitude":11.99111,"place_type":"City"}]}

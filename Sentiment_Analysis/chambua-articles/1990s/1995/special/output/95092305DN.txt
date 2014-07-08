@@ -1,0 +1,1 @@
+{"people":["Joshua Angatia","Nicholas Biwott","Biwott"],"organizations":["Hotel Sirikwa","Rift Valley","Public Works Minister Prof Jonathan Ng","Ministry of Health","Members of Parliament","District Commissioners"],"places":[{"name":"Eldoret","latitude":0.52036,"longitude":35.26992,"place_type":"City"}]}
