@@ -1,0 +1,1 @@
+{"people":["EMMANUEL MWERO"],"organizations":["Taveta District"],"places":[{"name":"Taita","latitude":1.75044,"longitude":36.18348,"place_type":"Hill"}]}

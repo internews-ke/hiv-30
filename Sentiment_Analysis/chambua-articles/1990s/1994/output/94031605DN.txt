@@ -1,0 +1,1 @@
+{"people":["EDMOND KIZITO NATION Correspondent KAMPALA"],"organizations":["Aids Control Programme","Nation","Uganda's Ministry of Health"],"places":[{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"}]}

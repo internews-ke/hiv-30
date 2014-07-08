@@ -1,0 +1,1 @@
+{"people":["Odoovi","Tabitha Oduoei"],"organizations":["Nyeñ Mediral   Training Centre","Aida","KNA","Nyori Medical Training Centre","MIV"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

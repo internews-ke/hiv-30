@@ -1,0 +1,1 @@
+{"people":["S.K. Shariff","M. Kimuu"],"organizations":["Governmental Organisations","Coast Provincial Medical Officer","Ministry of Health"],"places":[{"name":"Lamu","latitude":-2.27169,"longitude":40.90201,"place_type":"City"}]}

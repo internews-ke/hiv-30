@@ -1,0 +1,1 @@
+{"places":[{"name":"Canada","latitude":60.0,"longitude":-96.0,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Barry Hart","Peter Mwai"],"places":[{"name":"New Zealand","latitude":-42.0,"longitude":174.0,"place_type":"Country"}]}
