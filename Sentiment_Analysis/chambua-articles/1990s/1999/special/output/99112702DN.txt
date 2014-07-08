@@ -1,0 +1,1 @@
+{"people":["Mr Gatabaki","Kiraitu Murungi","Meme"],"organizations":["Githunguri MP Njehu Gatabaki","Health"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"}]}
