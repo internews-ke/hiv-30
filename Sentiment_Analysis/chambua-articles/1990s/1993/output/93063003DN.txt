@@ -1,0 +1,1 @@
+{"people":["Kimani","Mr Kimani","Peter Wambia Kimani","Mr. Kimani","Mr Kinani"],"organizations":["Kenyatta National  Hospital","Tusker House","Aid  Community  Based  Outreach Services"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kibera","latitude":0.65,"longitude":28.76667,"place_type":"City"}]}

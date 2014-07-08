@@ -1,0 +1,1 @@
+{"people":["Paul Mimbi","Mr Loeffler","Mr Loeffier"],"organizations":["Human Vitae","Second Vatican Council","Declaration on Christian Education","Catholic Church","Church"]}

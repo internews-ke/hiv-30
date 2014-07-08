@@ -1,0 +1,1 @@
+{"people":["Robert Gallo"],"organizations":["National Institute of Health","Pasteur Institute"],"places":[{"name":"Bethesda","latitude":38.98067,"longitude":-77.10026,"place_type":"City"},{"name":"Paris","latitude":48.85339,"longitude":2.34864,"place_type":"Adm"},{"name":"Maryland","latitude":39.00039,"longitude":-76.74997,"place_type":"Adm"}]}

@@ -1,0 +1,1 @@
+{"people":["Mulandi"],"organizations":["Nile Perch","University of Nairobi"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Lake Victoria","latitude":-38.05,"longitude":147.5,"place_type":"Lake"}]}

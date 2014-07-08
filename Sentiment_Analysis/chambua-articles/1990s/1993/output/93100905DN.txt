@@ -1,0 +1,1 @@
+{"people":["Mr Joe Muriuki","Stephen Ndichu","Ndichu","Mr Ndichu","Muriuki"],"organizations":["Government","Know Aids Society"],"places":[{"name":"Parliament","latitude":53.06667,"longitude":-0.81667,"place_type":"City"}]}
