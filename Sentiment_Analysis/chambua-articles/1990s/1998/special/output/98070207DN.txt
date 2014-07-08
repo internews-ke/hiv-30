@@ -1,0 +1,1 @@
+{"people":["J.D. Dngig.","A. Kanji"],"organizations":["Kenya Medical Practitioners and Dentists Union","Government","Muya Commission"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

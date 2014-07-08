@@ -1,0 +1,1 @@
+{"people":["Nelson Mandela","CHRIS ERASMUS"],"organizations":["Selby Biwa","African National Congress","Pretoria University","South African Medicines Control Council","ANC","Virodene","Health Minister Nkosazana Zuma","Democratic Party"],"places":[]}

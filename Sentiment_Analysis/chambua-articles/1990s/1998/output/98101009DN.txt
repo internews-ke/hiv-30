@@ -1,0 +1,1 @@
+{"people":["Thambo Mbeki","Mr Thabo Mbeki","Mbeki"],"organizations":["Salvation Army Centre"],"places":[{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"Johannesburg","latitude":-26.20227,"longitude":28.04363,"place_type":"City"}]}
