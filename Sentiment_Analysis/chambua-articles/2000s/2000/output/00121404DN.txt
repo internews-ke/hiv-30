@@ -1,0 +1,1 @@
+{"organizations":["Health Ministry","World Bank","NATION Correspondent Kenya","International Development Association","Kenya Emergency Power Supply Project","Disaster Response Project"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

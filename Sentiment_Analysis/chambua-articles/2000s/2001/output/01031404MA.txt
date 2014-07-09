@@ -1,0 +1,1 @@
+{"people":["W. Nyikal","Nyikal"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Whitesands","latitude":51.89577,"longitude":-5.2961,"place_type":"GisFeature"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

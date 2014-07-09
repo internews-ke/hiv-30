@@ -1,0 +1,1 @@
+{"people":["Amwayi","Samuel Amwayi"],"organizations":["Aids Committee"]}

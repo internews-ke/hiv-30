@@ -1,0 +1,1 @@
+{"people":["Dr. Gitahi"],"organizations":["SmithKline   Beecham","J.M. KELLY      How    if1i   Hib","University"],"places":[{"name":"Zambia","latitude":-15.0,"longitude":30.0,"place_type":"Country"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

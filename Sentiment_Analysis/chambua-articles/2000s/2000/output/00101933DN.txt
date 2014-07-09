@@ -1,0 +1,1 @@
+{"organizations":["UNAIDS","Kenya Health Policy Frame","UN System Theme Group","Ministry of Health"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"West","latitude":30.86017,"longitude":72.31976,"place_type":"Adm"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

@@ -1,0 +1,1 @@
+{"people":["Kanu","Kwamchetsi","Mr Daniel arap Moi"],"organizations":["Stakeholders Support Group","Ministry of Educatl","Mimster Musyoka","Opposition","Paris Club","DAIL Y       NATION            Nairobi","IMF"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

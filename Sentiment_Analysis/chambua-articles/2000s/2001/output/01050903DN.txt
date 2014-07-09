@@ -1,0 +1,1 @@
+{"people":["Misore","Anibrose Misore","Roselyn Onyuka","Peter Raburu","Sam Ongeri","Abdullahi Wako","Mr Lawrence Okudo","JOHN OYWA Nyanza"],"organizations":["Provincial Aids Control Commit","Kenya Medical Associa","Futures Group and Unicef"],"places":[{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

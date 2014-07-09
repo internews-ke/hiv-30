@@ -1,0 +1,1 @@
+{"people":["Julius Meme","Violet Wainaina","P.J. Kamau","Philip Wanalwa","Mr AmbrOse Rachier","J. Okanga","Wako","J. Wasonga","Amos Wako","Alan Ragi","Philip Sulumeti"],"organizations":["NACC","Kenya College of Communication and Technology","National Aids Control Council"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

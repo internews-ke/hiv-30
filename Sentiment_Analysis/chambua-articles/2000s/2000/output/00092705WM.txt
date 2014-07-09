@@ -1,0 +1,1 @@
+{"organizations":["Amani Centre"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"P.O","latitude":39.66472,"longitude":106.81222,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Mr. All"],"organizations":["NGOS","NGOs","Non Governmental  Organisations   and Religious Organisations","Government","NGO","National and International","NGO Consortium","IEC","National and Provincial","G. Ragi Create","Natio nal AIDS Control Programme","International"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

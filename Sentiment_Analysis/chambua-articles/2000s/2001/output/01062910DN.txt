@@ -1,0 +1,1 @@
+{"people":["Harri Holken"],"organizations":["United Nations  Aids","UN General Assembly Presi","SA"],"places":[{"name":"New York","latitude":43.00035,"longitude":-75.4999,"place_type":"Adm"},{"name":"JOHANNESBURG","latitude":-26.20227,"longitude":28.04363,"place_type":"City"}]}

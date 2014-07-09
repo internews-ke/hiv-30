@@ -1,0 +1,1 @@
+{"organizations":["Ministry of Public Works"],"places":[{"name":"Laikipia","latitude":0.41667,"longitude":36.75,"place_type":"Adm"},{"name":"Taita Taveta","latitude":-3.4,"longitude":38.37,"place_type":"Adm"}]}

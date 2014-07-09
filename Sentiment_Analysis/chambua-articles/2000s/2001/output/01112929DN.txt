@@ -1,0 +1,1 @@
+{"people":["Pierre Ngom","Esther Mugure","John Gethi","Mr Gethi","Ms. Hellen Odido"],"organizations":["World Bank","Shl","Ralph Bunche Rd","Population Council","Health Research","Brookside Dairy","Correspondent       Women","Coast","Rosin Kenya Limited","African Medical and Research","Acacia","Health Research Centre"]}

@@ -1,0 +1,1 @@
+{"people":["Margaret Ouko","Simon Makilel","Jacinta Were","Mrs. Coauthoring Mummy","Issa Gichangi","Mark Agutu"],"organizations":["Dingo Idaho","Panel Brotherhood Hall","Ankara Kenya Medical Association","Legal Task Force"],"places":[{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"}]}

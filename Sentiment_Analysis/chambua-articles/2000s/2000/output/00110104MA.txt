@@ -1,0 +1,1 @@
+{"people":["Mr Moses Maina","Mr Maina","Suleiman Shakombo","Abdullah","Mohammed Abdullah"],"organizations":["Likoni Constituency _Aids Control Committee","National Aids Control Council"],"places":[{"name":"Likoni","latitude":-4.08394,"longitude":39.66161,"place_type":"City"},{"name":"Coast Province","latitude":-3.0,"longitude":39.5,"place_type":"Adm"}]}

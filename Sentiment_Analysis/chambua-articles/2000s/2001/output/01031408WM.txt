@@ -1,0 +1,1 @@
+{"people":["Thomas S. Gale"],"organizations":["E.A.E.P. NATION Stick & Win School Fees Competition","NatJon Media Group","River Bank Primary School","Special Entry Form","Sparrow Readers","Holy Spirit","Nyota na Sayari"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

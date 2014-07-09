@@ -1,0 +1,1 @@
+{"people":["Bristol Meyers Squibb"],"organizations":["NATION Reporter International","Bristol Meyers Squibb","General Assembly","General Kofi Annan","Wellcome","Glaxo Wellcornc","Glaxo"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

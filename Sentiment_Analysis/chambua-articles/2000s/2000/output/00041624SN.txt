@@ -1,0 +1,1 @@
+{"people":["James Karuga","Chris Kirubi","David Nalo","Iraki Kibiriti","Richard Leakey","Wachira Maina","Kaendi Munguti","Joseph Gitari"],"organizations":["FDI","Government","State","House of Tribes","The Institute of Economic","SUNDAY NATION APRIL"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

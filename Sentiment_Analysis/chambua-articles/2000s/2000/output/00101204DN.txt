@@ -1,0 +1,1 @@
+{"people":["Mr Chege","John Chege"],"organizations":["Isiolo District Commissioner on Moi Day","Pepo la Tumaini Jangwani Centre"],"places":[{"name":"Isiolo","latitude":0.35462,"longitude":37.58218,"place_type":"City"}]}

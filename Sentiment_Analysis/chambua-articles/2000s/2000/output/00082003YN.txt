@@ -1,0 +1,1 @@
+{"people":["Kinywa Kipana","Peter Cchieng","Peter","Tina","Nicholas Wanjogu","Esther Mweni","Anna Nyange"],"organizations":["Tina R","Tononoka Youth Development Group","Big Mama"],"places":[{"name":"Moshi","latitude":-3.35,"longitude":37.33333,"place_type":"City"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

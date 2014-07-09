@@ -1,0 +1,1 @@
+{"people":["Mr Japheth Mwania","Philemon","Mr Philip Ndwiga","Mr Abong","Kiganjo"],"organizations":["Kenya Police Training College","Coast Province","Commissioner of Police","Airport Police Unit"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

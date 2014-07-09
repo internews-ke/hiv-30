@@ -1,0 +1,1 @@
+{"people":["Paul","Catherine","David Maillu","Rowena","Maureen","KWAMBOKA OYARO","Michael Moloney","Ben Kamau","Josh","Anne Mutua"],"organizations":["Florence Ngaira of Peace Medical Clinic","Director Amani","Nairobi Girls"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}
