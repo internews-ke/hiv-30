@@ -1,0 +1,1 @@
+{"people":["Jeanne Gacheche","Kemsa","Antony Ombwayo"],"organizations":["Public Procurements Review Board","State","AG","Hetero Drugs Limited","Kenya Medical Supply Agency"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

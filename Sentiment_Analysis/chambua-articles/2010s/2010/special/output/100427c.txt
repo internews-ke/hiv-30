@@ -1,0 +1,1 @@
+{"people":["Godfrey Malembeka"],"organizations":["Human Rights Watch"],"places":[{"name":"Zambia","latitude":-15.0,"longitude":30.0,"place_type":"Country"}]}
