@@ -1,0 +1,1 @@
+{"people":["Godo","Mr Godo"],"organizations":["Ministry of Flealth","Kenya Medical Supplies Agency","Treasury","Health Permanent Secretary Wellington Godo","Ministry of Health","Ten der Appeals Board","Kenya Coalition of Essential Medicines"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

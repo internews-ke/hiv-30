@@ -1,0 +1,1 @@
+{"people":["Isaiah Gakugo","Isaiah Gakuyo"],"organizations":["Children�s Department","Uhuru Park�s Freedom Corner","H. E Moody Awori","Ministry of Home Affairs","Police"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

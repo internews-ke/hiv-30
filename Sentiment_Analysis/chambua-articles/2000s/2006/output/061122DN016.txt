@@ -1,0 +1,1 @@
+{"organizations":["World Health Organisation","UNAids","United Nations"],"places":[{"name":"Thailand","latitude":15.0,"longitude":100.0,"place_type":"Country"},{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"},{"name":"Asia","latitude":9.56667,"longitude":122.6,"place_type":"Adm"}]}

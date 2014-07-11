@@ -1,0 +1,1 @@
+{"people":["Francis Ng"],"organizations":["American Federation of Teachers","Kenya National Teachers Union","Teachers Service Commission","Plaza Beach Hotel"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

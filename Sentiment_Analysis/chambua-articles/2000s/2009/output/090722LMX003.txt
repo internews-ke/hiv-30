@@ -1,0 +1,1 @@
+{"people":["Bush","Kathryn Bolt","Baradc Obama"],"organizations":["British Columbia","Accountemps Canadianoperations","CDC","RCMP","US Centres for Disease Control and Prevention"],"places":[{"name":"United States","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"}]}

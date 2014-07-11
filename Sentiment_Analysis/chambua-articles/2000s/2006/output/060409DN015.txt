@@ -1,0 +1,1 @@
+{"people":["Mr Makhulo"],"organizations":["ARV","Pan Africa Life Assurance","Kenya Network of Women Living","Sanlam Limited","International Life House","Life Assurance Group"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

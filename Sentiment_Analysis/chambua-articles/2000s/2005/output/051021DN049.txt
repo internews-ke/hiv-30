@@ -1,0 +1,1 @@
+{"organizations":["KDH � Initiate","VCT","NGO","Community HIV Centre and Family Health Clinic","CBO","Kilifi District Hospital"],"places":[{"name":"Kilifi","latitude":-3.63045,"longitude":39.84992,"place_type":"City"}]}

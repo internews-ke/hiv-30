@@ -1,0 +1,1 @@
+{"people":["Cheryl Anderson","David Mureithi"],"organizations":["Usaid","US Agency for International Development","General Motors","GM","Unilever"]}

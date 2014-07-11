@@ -1,0 +1,1 @@
+{"people":["Mungai","Mr Gatuni","WARUGURU MUCHIRA Rosemary Kabura","Josiah Gatuni","Kabura","Terry Mungai"],"organizations":["Ashleys Hair and Beauty Academy","World Vision"],"places":[{"name":"Kariobangi","latitude":-1.25,"longitude":36.88333,"place_type":"City"}]}

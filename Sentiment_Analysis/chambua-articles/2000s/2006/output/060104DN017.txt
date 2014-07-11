@@ -1,0 +1,1 @@
+{"people":["Abdulsamad"],"organizations":["Council of Imams","Nakumatt","Council of Imams and Preachers of Kenya"],"places":[{"name":"Likoni","latitude":-4.08394,"longitude":39.66161,"place_type":"City"},{"name":"Malindi","latitude":-3.21748,"longitude":40.1191,"place_type":"City"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

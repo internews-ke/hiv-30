@@ -1,0 +1,1 @@
+{"places":[{"name":"Burundi","latitude":-3.5,"longitude":30.0,"place_type":"Country"}]}

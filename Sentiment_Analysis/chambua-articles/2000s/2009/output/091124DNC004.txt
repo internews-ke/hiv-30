@@ -1,0 +1,1 @@
+{"people":["Muraguri","Beth Mugo","Nicholas Muraguri","Mrs Mugo"],"organizations":["VCT","Daily Nation","National Aids","Public Health and Sanitation","STI Control Programme"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

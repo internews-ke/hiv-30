@@ -1,0 +1,1 @@
+{"people":["Adelina Mwau","Mrs Ngilu","Betty Tett","Martha Kama","Cecily Mbarire","Jayne Kihara"],"organizations":["Charity Ngilu","Women Advocacy for Rural Development","NGO","Nation","Control Bill"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

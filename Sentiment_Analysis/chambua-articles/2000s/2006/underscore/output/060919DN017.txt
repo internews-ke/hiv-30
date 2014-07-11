@@ -1,0 +1,1 @@
+{"people":["Erbolat Dosayev"],"places":[{"name":"ASTANA","latitude":51.1801,"longitude":71.44598,"place_type":"City"},{"name":"Shymkent","latitude":42.3,"longitude":69.6,"place_type":"City"}]}

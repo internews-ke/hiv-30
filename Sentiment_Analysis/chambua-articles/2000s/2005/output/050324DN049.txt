@@ -1,0 +1,1 @@
+{"organizations":["VCT","Community Health","Catholic Secretariat","Commission for Health & Family Life KEC � Catholic Secretariat","Advanced Diploma in Nursing or Bachelor of Science in Nursing","Kenya Episcopal Conference","Catholic Health Services"],"places":[{"name":"NAIROBI","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

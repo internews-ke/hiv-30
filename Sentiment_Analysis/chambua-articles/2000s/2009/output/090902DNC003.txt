@@ -1,0 +1,1 @@
+{"people":["Vivianne","Jane Aida","Vivianne Momanyi"],"organizations":["Pic Secondary School","Kenyatta National Hospital","Nation","Universal Access and Human Rights"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

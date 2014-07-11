@@ -1,0 +1,1 @@
+{"people":["Gladys Atambo","William Obara","Christopher Musumbu","Sheila Njoki","Getenga","Ogendo","Oseti Getenga"],"organizations":["SDA","Nyabengeye","Moi University"],"places":[{"name":"Kisii","latitude":-0.68174,"longitude":34.76666,"place_type":"City"},{"name":"Bomachoge","latitude":-0.88333,"longitude":34.71667,"place_type":"GisFeature"}]}

@@ -1,0 +1,1 @@
+{"people":["Dr. Chris Ha","Njoki","Njoki Kaigai","Rhoda Orengo"],"organizations":["Martha Karua"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Mr Mwelwa"],"organizations":["Daily Natioll","Family Planning Association","Organisation","United Nations","North Eastern"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kisii","latitude":-0.68174,"longitude":34.76666,"place_type":"City"},{"name":"Narok","latitude":-1.07829,"longitude":35.86012,"place_type":"City"}]}

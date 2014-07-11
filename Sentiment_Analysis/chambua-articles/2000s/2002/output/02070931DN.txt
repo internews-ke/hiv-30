@@ -1,0 +1,1 @@
+{"people":["Dana Tilson"],"organizations":["USAID","ITN","Shl","PSI","NGO","Global Malaria Control Strategy","ITN        Technical Advisor","DFID"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Western Kenya","latitude":0.5,"longitude":34.58333,"place_type":"Adm"}]}

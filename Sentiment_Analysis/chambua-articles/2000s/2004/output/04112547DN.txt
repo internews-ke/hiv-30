@@ -1,0 +1,1 @@
+{"people":["Janet","Janet Waswa"],"organizations":["Unicef","Central Bureau of Statistics","Kimilili Division"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Bungoma","latitude":0.5635,"longitude":34.56055,"place_type":"City"}]}

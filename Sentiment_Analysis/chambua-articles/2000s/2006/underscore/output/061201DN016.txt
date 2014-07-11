@@ -1,0 +1,1 @@
+{"people":["Gillespie","Stuart Gillespie"],"organizations":["ARV","International Food Policy Research Institute"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

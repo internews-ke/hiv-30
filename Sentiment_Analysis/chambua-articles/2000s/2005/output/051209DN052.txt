@@ -1,0 +1,1 @@
+{"organizations":["ARV","Nation Media Group","Rarieda Mobile Clinic"],"places":[{"name":"Bondo District","latitude":-13.14542,"longitude":33.5371,"place_type":"City"},{"name":"Rarieda","latitude":-0.2,"longitude":34.33333,"place_type":"School"}]}

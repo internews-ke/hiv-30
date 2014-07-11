@@ -1,0 +1,1 @@
+{"organizations":["VCT","NACC","NGOs","Council","MSF","National Aids Control Council                                                   Response","CDC","Vijfuntary Counselling"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

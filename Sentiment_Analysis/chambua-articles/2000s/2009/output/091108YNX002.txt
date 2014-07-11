@@ -1,0 +1,1 @@
+{"people":["Moses Ombayo","David Wairegi","Martha Aluoch"],"organizations":["Nairobi    Aids","Kiambu High Schooland","SOS Hermann Gmeiner Primary School"],"places":[{"name":"Kampala Uganda","latitude":0.31628,"longitude":32.58219,"place_type":"City"}]}

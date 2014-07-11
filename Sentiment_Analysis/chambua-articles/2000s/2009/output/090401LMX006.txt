@@ -1,0 +1,1 @@
+{"people":["Kumba","Omondi Kumba","Omollo","Lucy Morangi","Asunta Wagura"],"organizations":["Kenyatta National Hospital","Kenya Network of Women","Martin Luther King"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Elisa","latitude":-25.36667,"longitude":-57.61667,"place_type":"City"}]}

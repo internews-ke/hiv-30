@@ -1,0 +1,1 @@
+{"people":["ARTHUR OKWEMBA","Jamilla Mbugua"],"organizations":["Anupong Chi","Nation Jioni","Thai Ministry of Public"],"places":[{"name":"Bangkok","latitude":13.75,"longitude":100.51667,"place_type":"City"},{"name":"Thailand","latitude":15.0,"longitude":100.0,"place_type":"Country"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

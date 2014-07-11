@@ -1,0 +1,1 @@
+{"people":["JOHN OCHIENG","Joel Mama","Ambrose Misore"],"organizations":["PHILIP MWANIKI  NYANZA","IB"],"places":[{"name":"Nyeri District","latitude":3.76667,"longitude":31.85,"place_type":"Mountain"},{"name":"Nyanza Province","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

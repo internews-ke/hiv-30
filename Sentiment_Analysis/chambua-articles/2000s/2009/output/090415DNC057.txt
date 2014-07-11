@@ -1,0 +1,1 @@
+{"organizations":["NGOs","ILO","International Labour Organization","Cooperative Education and Training","Department for International Development","Social Justice","Research","United Kingdom"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

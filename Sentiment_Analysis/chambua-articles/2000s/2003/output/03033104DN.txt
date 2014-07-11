@@ -1,0 +1,1 @@
+{"people":["Mrs Ngilu","Mwai Kibaki","John Njue","Stephen Kanyaru M'lmpwii","Cornelius Korir","Philip Sulumeti","Muga"],"organizations":["Charity Ngilu","Catholi2 Church","Episcopal Conference","Medical Service Richard Muga","Kenya Episcopal Conference","Armed Forces"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

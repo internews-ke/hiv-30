@@ -1,0 +1,1 @@
+{"people":["SAM WAMBUGU"],"organizations":["Family Health International","ICT"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

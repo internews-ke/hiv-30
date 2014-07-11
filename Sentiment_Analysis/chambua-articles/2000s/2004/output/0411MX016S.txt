@@ -1,0 +1,1 @@
+{"people":["Esther Muthoni","CAROLINE NJUNG","Francis Njoroge","Njoroge","KABUGA","Muthoni"],"organizations":["Njoroge"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Gatundu","latitude":-0.88333,"longitude":36.98333,"place_type":"School"}]}

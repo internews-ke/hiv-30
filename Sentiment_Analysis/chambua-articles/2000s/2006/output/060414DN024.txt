@@ -1,0 +1,1 @@
+{"organizations":["Public Health � Preferable","National Tuberculosis","National Leprosy & TB Program Manager","Human Resource Development","Minimum Public Health Nurse","Kenya Association for Prevention of Tuberculosis"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

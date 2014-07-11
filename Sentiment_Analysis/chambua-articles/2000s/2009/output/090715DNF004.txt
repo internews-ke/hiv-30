@@ -1,0 +1,1 @@
+{"organizations":["NGOs","GlaxoSmithKline","Andrew Witty","GSK","DAILY NATION  NAIROBI Drug","Positive Action for Children"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

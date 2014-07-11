@@ -1,0 +1,1 @@
+{"people":["Mahmoud Chaouissa","Idriss Lagha","Ivailo Kalfin","Mr Othman Bizanti"],"organizations":["Reuters"],"places":[{"name":"Benghazi","latitude":32.11667,"longitude":20.06667,"place_type":"City"},{"name":"TRIPOLI","latitude":32.87519,"longitude":13.18746,"place_type":"City"},{"name":"Thursday Libya","latitude":32.58716,"longitude":14.34694,"place_type":"City"}]}

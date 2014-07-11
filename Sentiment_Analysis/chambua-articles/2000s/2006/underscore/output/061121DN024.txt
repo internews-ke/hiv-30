@@ -1,0 +1,1 @@
+{"people":["Sheikh Juma Ngao","PATRICK MAYOYO","Maalim Mohammed","Njenga","Frank Njenga","Jennifer Kimani","Murad Saad"],"organizations":["National Agency","Government","Aga Khan Hall","Coast","Campaign Against Drug Abuse","Nacada"],"places":[{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

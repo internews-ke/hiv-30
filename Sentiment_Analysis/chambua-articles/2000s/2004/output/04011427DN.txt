@@ -1,0 +1,1 @@
+{"people":["Mwikali","Mrs Kibaki"],"organizations":["Spm","First Lady"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"London","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

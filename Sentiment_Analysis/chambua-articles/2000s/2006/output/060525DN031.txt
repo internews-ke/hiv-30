@@ -1,0 +1,1 @@
+{"people":["H.E. Adam Wood"],"organizations":["World Health Organisation","Nairobi Women�s Hospital","Kenya Police","Nelson Mandela �Safety and Security","Life Free of Violence"],"places":[{"name":"Kilimani","latitude":-4.19841,"longitude":39.50221,"place_type":"GisFeature"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

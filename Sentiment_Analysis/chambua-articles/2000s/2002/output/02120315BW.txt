@@ -1,0 +1,1 @@
+{"people":["Mr Kiereini","Jeremiah Kiereini"],"organizations":["Reuters"]}

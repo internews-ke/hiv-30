@@ -1,0 +1,1 @@
+{"organizations":["Mrs Charity Ngilu","National Council for Population and Development","Central Bureau of Statistics","Ministry of Health"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Anyang","latitude":36.09944,"longitude":114.32889,"place_type":"City"}]}

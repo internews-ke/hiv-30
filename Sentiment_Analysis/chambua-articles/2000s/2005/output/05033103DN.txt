@@ -1,0 +1,1 @@
+{"people":["Kisukari"],"organizations":["Kenya Traditional and Spiritual Healers Association"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Tanzania","latitude":-6.0,"longitude":35.0,"place_type":"Country"},{"name":"Dar-es-Salaam","latitude":-6.83522,"longitude":39.19597,"place_type":"Adm"}]}

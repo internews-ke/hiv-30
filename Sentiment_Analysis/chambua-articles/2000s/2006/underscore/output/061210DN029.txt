@@ -1,0 +1,1 @@
+{"people":["Kapiri Mposhi"],"places":[{"name":"Zambia","latitude":-15.0,"longitude":30.0,"place_type":"Country"},{"name":"central Zambia","latitude":-14.4469,"longitude":28.44644,"place_type":"City"}]}

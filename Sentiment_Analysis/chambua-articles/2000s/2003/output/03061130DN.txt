@@ -1,0 +1,1 @@
+{"organizations":["Ksh","OFFICE & House Cleaning","Ngara Tel. 0721-265169 & Seat Upholstery      Care","HP ink & Toner","Uganda House","Daily Nation!","Cosmak Systems"],"places":[{"name":"Pioneer","latitude":38.06062,"longitude":-85.67774,"place_type":"City"}]}

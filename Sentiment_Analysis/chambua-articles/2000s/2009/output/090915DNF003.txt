@@ -1,0 +1,1 @@
+{"people":["Daniel Sifuna","Sarah Ruto","Ruto","Paul Wasan"],"organizations":["Kenya National Examination","Nation","International Literacy Day","Kiswahili","Kapserton Adult Basic Education Centre"],"places":[{"name":"Tanzania","latitude":-6.0,"longitude":35.0,"place_type":"Country"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

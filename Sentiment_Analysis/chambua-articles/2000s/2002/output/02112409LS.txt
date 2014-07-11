@@ -1,0 +1,1 @@
+{"people":["Berk","Joshua","David Tappin","Muluka","Jane Muluka","Yusuf K. Dawood"],"organizations":["Graee","University of California Irvine","Grace","Grace Okach","Royal Hospital for Sick Children","Lung Foundation"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Glasgow","latitude":55.86515,"longitude":-4.25763,"place_type":"City"}]}

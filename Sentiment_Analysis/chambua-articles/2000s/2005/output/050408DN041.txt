@@ -1,0 +1,1 @@
+{"people":["Dr. Maina Ernest B.V.M."],"organizations":["Luthuli Avenue","Nairobi University","Chronic Malaria & Typhoid"],"places":[{"name":"B.P.","latitude":28.13246,"longitude":82.30041,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Mbugua Gunior","Monic"],"organizations":["Uchumi","Standard Three","Identity Card","Jogoo House"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kerima","latitude":4.335,"longitude":103.1629,"place_type":"Stream"},{"name":"Mbotela","latitude":-1.3,"longitude":36.86667,"place_type":"CitySubdivision"}]}

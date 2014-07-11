@@ -1,0 +1,1 @@
+{"people":["Mr Jensen","Mr Njiru","Moses Otsyula","JILLO KADIDA","Cyrus Njiru","Roselyn Nambuye","Jensen","Otsyula"],"organizations":["Rana Chakraborty","Labour","Oxford University","Lady Justice Nambuye","Oxford","Sector Development Strategy","High Court","Justice Jacktone Boma","University"],"places":[{"name":"Denmark","latitude":56.0,"longitude":10.0,"place_type":"Country"}]}

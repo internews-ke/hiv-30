@@ -1,0 +1,1 @@
+{"people":["Bush"],"organizations":["PEPFAR","St. Joseph�s Mission Hospital � Migori","St. Joseph�s Mission Hospital","Kenya Medical Practitioner and Dentist Board","Catholic Relief Services"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

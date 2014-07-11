@@ -1,0 +1,1 @@
+{"people":["Mr Amoth","Samuel Oguu","Ragen Amoth"],"organizations":["Siaya District","Central Alego"]}

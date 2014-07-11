@@ -1,0 +1,1 @@
+{"people":["Arthur Okwemba With","Hunter","Ebongon","Daniel Ebongon"],"organizations":["VCT","Nomadic Community Trust","United Nations"],"places":[{"name":"Wamba","latitude":8.93333,"longitude":8.6,"place_type":"City"}]}

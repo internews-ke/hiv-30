@@ -1,0 +1,1 @@
+{"organizations":["NGOs","Reuters","National Aids Control Organisation","Chief Justice of India Y.K. Sabharwal"],"places":[{"name":"NEW DELHI","latitude":28.63576,"longitude":77.22445,"place_type":"City"},{"name":"India","latitude":20.0,"longitude":77.0,"place_type":"Country"}]}

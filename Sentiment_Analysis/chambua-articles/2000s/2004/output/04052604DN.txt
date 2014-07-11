@@ -1,0 +1,1 @@
+{"people":["Gilbert Onyango","Anne","Mrs Ndentu"],"organizations":["Kenyatta National Hospital","Government","Milimani Commercial Court","KNH","Kenya Medical Research Institute","Eunice"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kenyatta","latitude":-1.1,"longitude":36.98333,"place_type":"Road"}]}

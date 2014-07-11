@@ -1,0 +1,1 @@
+{"people":["Ms. Bella Matabanadzo","Patrick Orege"],"organizations":["NACC","Sunday Nation","UNAids","National Aids Control Council","United Nation","Task Force"],"places":[{"name":"eastern Africa","latitude":-32.0,"longitude":26.0,"place_type":"Adm"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

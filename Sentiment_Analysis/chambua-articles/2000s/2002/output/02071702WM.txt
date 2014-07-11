@@ -1,0 +1,1 @@
+{"people":["Dan","Mary Makokha","Odera","Josephine","Imali","Wambua"],"organizations":["Imali Eyery","Rural Education","REEP"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Butula","latitude":-21.08333,"longitude":34.68333,"place_type":"Stream"},{"name":"Providence","latitude":41.75038,"longitude":-71.49978,"place_type":"Adm"}]}

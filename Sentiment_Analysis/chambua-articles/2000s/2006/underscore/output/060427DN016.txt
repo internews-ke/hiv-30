@@ -1,0 +1,1 @@
+{"people":["Javier Lozano Barragan","Benedict XVI"],"organizations":["Vatican","Vatican Radio","Holy Spirit","Milan Cardinal Carlo Maria Martini","Catholic Church"],"places":[{"name":"Italy","latitude":42.83333,"longitude":12.83333,"place_type":"Country"}]}

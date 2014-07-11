@@ -1,0 +1,1 @@
+{"people":["VIII"],"organizations":["thtJ Board","Daily Nation!","Tribunal","High Court"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

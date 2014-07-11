@@ -1,0 +1,1 @@
+{"organizations":["ARV"],"places":[{"name":"NAIROBI","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Bondo District","latitude":-13.14542,"longitude":33.5371,"place_type":"City"},{"name":"Rarieda","latitude":-0.2,"longitude":34.33333,"place_type":"School"}]}

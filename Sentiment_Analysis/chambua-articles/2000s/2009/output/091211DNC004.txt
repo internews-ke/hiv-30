@@ -1,0 +1,1 @@
+{"people":["Mumbi Machem","KEN OPALA"],"organizations":["Coast","ActionAid International Kenya"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Bumala","latitude":0.38333,"longitude":34.35,"place_type":"School"}]}

@@ -1,0 +1,1 @@
+{"people":["WILLIAM GITONGA","Isaac Ngaru","Kenindia"],"organizations":["Group Mortgage Protec","&Associates","Association of    Kenya Insurers","Marine Insurance","Fidelity Guarantee","Insurance Management","Ngaru Kenindia","Aviation Insurance","Life Insurance"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

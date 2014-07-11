@@ -1,0 +1,1 @@
+{"people":["Patrick Orege"],"organizations":["Administration Police Aids Control Unit","NACC","Government","Administration Police","National Aids Control Council"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

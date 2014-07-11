@@ -1,0 +1,1 @@
+{"organizations":["Human Rights Watch","Associated Press","Human Rights Defender Award"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"}]}

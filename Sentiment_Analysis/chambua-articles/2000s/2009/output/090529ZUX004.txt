@@ -1,0 +1,1 @@
+{"places":[{"name":"Rift Valley","latitude":0.5,"longitude":36.0,"place_type":"Adm"}]}

@@ -1,0 +1,1 @@
+{"people":["Okech","Clement Okech","Dorothy Kweyu","Judy Lusenaka","Asunta Wagura"],"organizations":["Ministry of Home Aﬀairs","Kenya Network of Women","Bill Cosby"],"places":[{"name":"Western Province","latitude":-34.0,"longitude":20.0,"place_type":"Adm"}]}

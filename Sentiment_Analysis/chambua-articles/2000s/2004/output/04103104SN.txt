@@ -1,0 +1,1 @@
+{"organizations":["House","UNEP"],"places":[{"name":"East Africa","latitude":-18.25,"longitude":35.0,"place_type":"Country"}]}

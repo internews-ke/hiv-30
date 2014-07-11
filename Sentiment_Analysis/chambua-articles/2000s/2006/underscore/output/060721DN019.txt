@@ -1,0 +1,1 @@
+{"people":["Mr Zuma","Thabo Mbeki","Jacob Zuma","Zuma","Schabir Shaik","Mr Shaik","Anton Steynberg"],"organizations":["Durban High Court","Thomson","South African Press Association","Thint Holdings"],"places":[{"name":"JOHANNESBURG","latitude":-26.20227,"longitude":28.04363,"place_type":"City"}]}

@@ -1,0 +1,1 @@
+{"people":["Japhet Mwania","Mr Mwania"],"organizations":["VCT","NYS Training School","NYS Technical School","NATION Correspondent National Youth Service","CDC","Centers for Disease Control"],"places":[{"name":"Gilgil","latitude":-0.48972,"longitude":36.31201,"place_type":"City"},{"name":"Mtongwe","latitude":-4.06345,"longitude":39.64161,"place_type":"City"}]}

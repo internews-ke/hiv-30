@@ -1,0 +1,1 @@
+{"organizations":["Walter Reed Project/KEMRI Clinical Research Centre","Walter Reed Project Medical Research Institute","Hospital Road"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kericho","latitude":-0.36774,"longitude":35.28314,"place_type":"City"}]}

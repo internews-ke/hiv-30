@@ -1,0 +1,1 @@
+{"people":["Feim Chaushev"],"places":[{"name":"Benghazi","latitude":32.11667,"longitude":20.06667,"place_type":"City"},{"name":"SOFIA","latitude":42.69751,"longitude":23.32415,"place_type":"City"},{"name":"Bulgaria","latitude":43.0,"longitude":25.0,"place_type":"Country"},{"name":"Thursday Libya","latitude":32.58716,"longitude":14.34694,"place_type":"City"}]}
