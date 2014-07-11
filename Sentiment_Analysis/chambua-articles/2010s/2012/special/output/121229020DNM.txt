@@ -1,0 +1,1 @@
+{"organizations":["Xinhua","Health Minister Andre Mama Fouda"],"places":[{"name":"Douala","latitude":4.04827,"longitude":9.70428,"place_type":"City"},{"name":"Cameroon","latitude":6.0,"longitude":12.0,"place_type":"Country"}]}

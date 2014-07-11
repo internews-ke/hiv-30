@@ -1,0 +1,1 @@
+{"people":["Baraka","Joshua","Peter","Richard"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Israel","latitude":31.5,"longitude":34.75,"place_type":"Country"},{"name":"Richard","latitude":16.4625,"longitude":-15.70083,"place_type":"City"}]}

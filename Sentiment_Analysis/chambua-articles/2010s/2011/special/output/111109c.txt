@@ -1,0 +1,1 @@
+{"people":["Kamau","NYOKABI KAMAU"],"organizations":["St Paul’s University","State","Zapf Chancery","ICC"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

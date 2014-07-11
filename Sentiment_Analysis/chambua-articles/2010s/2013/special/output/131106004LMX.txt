@@ -1,0 +1,1 @@
+{"people":["Lang"],"organizations":["Westgate Mall","City Mortuary","Kenya Network"],"places":[{"name":"KENWA","latitude":35.79962,"longitude":139.87987,"place_type":"Hospital"},{"name":"Nyanza Province","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

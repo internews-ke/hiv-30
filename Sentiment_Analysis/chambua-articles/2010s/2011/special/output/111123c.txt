@@ -1,0 +1,1 @@
+{"people":["Jacqueline","Peter","ASUNTA WAGURA"],"organizations":["Kenya Network of Women"],"places":[{"name":"Mother Teresa","latitude":40.41502,"longitude":-74.04569,"place_type":"School"}]}

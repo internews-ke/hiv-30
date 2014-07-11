@@ -1,0 +1,1 @@
+{"people":["PETER ODUOR","Ndingi"],"organizations":["Archbishop Ndingi Mwana","Vatican","Population Services International","Weka Condom Mpangoni","Chinua Achebe","Catholic Church","Achebe"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

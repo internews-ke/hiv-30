@@ -1,0 +1,1 @@
+{"people":["Joseph Onyango"],"places":[{"name":"Manywanda","latitude":-0.25,"longitude":34.26667,"place_type":"GisFeature"},{"name":"Rarieda","latitude":-0.2,"longitude":34.33333,"place_type":"School"}]}

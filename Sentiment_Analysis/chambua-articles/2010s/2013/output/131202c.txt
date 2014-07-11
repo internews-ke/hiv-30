@@ -1,0 +1,1 @@
+{"people":["Mr Awiti","Cyprian Awiti","Oteng","MAURICE KALUOCH","Lawrence Oteng"],"organizations":["Nation","Unicef"],"places":[{"name":"Rusinga Island","latitude":-0.40218,"longitude":34.17918,"place_type":"Island"},{"name":"Homa Bay","latitude":-0.52731,"longitude":34.45714,"place_type":"City"}]}

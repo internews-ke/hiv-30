@@ -1,0 +1,1 @@
+{"people":["Robert","Melinda"],"organizations":["CHW","Robert","Kenya Network of Women"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Robert","latitude":14.6775,"longitude":-60.9392,"place_type":"Adm"}]}

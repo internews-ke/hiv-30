@@ -1,0 +1,1 @@
+{"people":["Margolis","David Margolis"],"organizations":["International Aids Conference","Journal Nature"],"places":[{"name":"United States","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Washington","latitude":47.50012,"longitude":-120.50147,"place_type":"Adm"}]}

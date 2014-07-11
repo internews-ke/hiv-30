@@ -1,0 +1,1 @@
+{"organizations":["Ford","Kenya Network of Women"],"places":[{"name":"Kayole","latitude":-1.28333,"longitude":36.93333,"place_type":"GisFeature"}]}

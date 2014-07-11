@@ -1,0 +1,1 @@
+{"people":["Tom Arocho"],"organizations":["Big Apple"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Kenwa","latitude":35.79962,"longitude":139.87987,"place_type":"Hospital"},{"name":"New York","latitude":43.00035,"longitude":-75.4999,"place_type":"Adm"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

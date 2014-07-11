@@ -1,0 +1,1 @@
+{"people":["Kamau","NYOKABI KAMAU"],"organizations":["St Paul’s University","Canon Byamugisha","National Aids Control Council","Zapf Chancery"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Switzerland","latitude":47.00016,"longitude":8.01427,"place_type":"Country"}]}

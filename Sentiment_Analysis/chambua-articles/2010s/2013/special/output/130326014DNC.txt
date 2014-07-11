@@ -1,0 +1,1 @@
+{"people":["Maina Kageni"],"organizations":["NACC","National Aids Control Council","Weka Condom Mpangoni","Breakfast Show on Classic"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Siaya","latitude":0.06116,"longitude":34.28823,"place_type":"City"}]}

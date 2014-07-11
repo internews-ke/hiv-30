@@ -1,0 +1,1 @@
+{"organizations":["Kenya-Uganda"],"places":[{"name":"Malaba","latitude":3.75,"longitude":8.78333,"place_type":"City"},{"name":"Bondo","latitude":3.81667,"longitude":23.66667,"place_type":"City"}]}

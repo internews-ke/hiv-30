@@ -1,0 +1,1 @@
+{"people":["Martin Luther King"],"organizations":["ARV","NGO","Kenya Network of Women"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Southern Sudan","latitude":11.15,"longitude":25.25,"place_type":"Adm"},{"name":"Abyei","latitude":8.57097,"longitude":28.6586,"place_type":"City"}]}

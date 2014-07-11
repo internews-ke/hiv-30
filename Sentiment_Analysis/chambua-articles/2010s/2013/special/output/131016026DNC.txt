@@ -1,0 +1,1 @@
+{"people":["Mr Balou Chabat Rasoanaivo","Andry Rakotomanana"],"organizations":["Antananarivo MSM","National AIDS Control Committee"],"places":[{"name":"Madagascar","latitude":-20.0,"longitude":47.0,"place_type":"Country"}]}

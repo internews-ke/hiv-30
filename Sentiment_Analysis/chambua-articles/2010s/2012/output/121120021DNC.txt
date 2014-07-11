@@ -1,0 +1,1 @@
+{"people":["Slavin","Shimon Slavin"],"organizations":["USA","International Centre for Cell Therapy and Cancer Immunotherapy"],"places":[{"name":"Tel Aviv","latitude":32.08333,"longitude":34.8,"place_type":"Adm"},{"name":"Israel","latitude":31.5,"longitude":34.75,"place_type":"Country"}]}

@@ -1,0 +1,1 @@
+{"people":["Ocholla","Hellen Anayngo","Mary Awuor","Anyango"],"organizations":["Justus Ocholla of District Aids Sexually Transmitted Infections Organization","Child Health","Dasco","Maternal and Child Health"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Ndhiwa","latitude":-0.78333,"longitude":34.53333,"place_type":"Stream"}]}

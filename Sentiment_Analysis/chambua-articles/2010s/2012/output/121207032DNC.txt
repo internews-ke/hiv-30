@@ -1,0 +1,1 @@
+{"people":["Muhuri","Mary Nyatuthi","Francis Auma","Hussein Khalid"],"organizations":["Muhuri","NSP","Healthcare Foundation Mombasa","Nacada","Syringes Programme"],"places":[{"name":"Tanzania","latitude":-6.0,"longitude":35.0,"place_type":"Country"},{"name":"Coast","latitude":8.0,"longitude":-2.0,"place_type":"Country"}]}

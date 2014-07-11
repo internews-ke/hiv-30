@@ -1,0 +1,1 @@
+{"people":["John Mpidaki"],"organizations":["Kumpa Primary School"],"places":[{"name":"Kajiado","latitude":-1.85238,"longitude":36.77683,"place_type":"City"}]}

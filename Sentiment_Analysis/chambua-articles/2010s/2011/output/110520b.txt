@@ -1,0 +1,1 @@
+{"people":["Babatunde Osotimehin"],"organizations":["Public Health","UN","United Nations","UNFPA","UN 2010 Revision of World Population Prospects"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

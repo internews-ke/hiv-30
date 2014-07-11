@@ -1,0 +1,1 @@
+{"people":["Mabeya Mogaka"],"organizations":["US Peace Corps"],"places":[{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"}]}

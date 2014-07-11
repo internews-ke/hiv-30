@@ -1,0 +1,1 @@
+{"people":["Mulindi","Sobbie Mulindi"],"organizations":["NACC","The National Aids Control Council","Nation"],"places":[{"name":"Mulindi","latitude":-1.8518,"longitude":30.0747,"place_type":"Stream"},{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"}]}

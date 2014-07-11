@@ -1,0 +1,1 @@
+{"people":["Janice","Janice*"],"organizations":["Kenya Network of Women"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

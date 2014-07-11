@@ -1,0 +1,1 @@
+{"people":["Wamukoya"],"organizations":["Nephak","National Empowerment Network of People Living"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Amagoro","latitude":0.63333,"longitude":34.33333,"place_type":"School"},{"name":"Busia","latitude":0.45444,"longitude":34.07583,"place_type":"City"}]}

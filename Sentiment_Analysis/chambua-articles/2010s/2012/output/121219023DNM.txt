@@ -1,0 +1,1 @@
+{"people":["Robert Mugabe","Mutasa Dzinotizei"],"organizations":["National Statistics Agency","Agencies Zimbabwe"],"places":[{"name":"Zimbabwe","latitude":-19.0,"longitude":29.0,"place_type":"Country"}]}

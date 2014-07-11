@@ -1,0 +1,1 @@
+{"people":["Mr Opiyo","Jared Opiyo","Opiyo"],"organizations":["President Uhuru Kenyatta","Kenya National Aids Authority Bill 2013","National Aids Control Council","Parliament","National Assembly"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

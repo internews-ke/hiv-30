@@ -1,0 +1,1 @@
+{"people":["Julius Koome"],"organizations":["National Aids Control Council"],"places":[{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

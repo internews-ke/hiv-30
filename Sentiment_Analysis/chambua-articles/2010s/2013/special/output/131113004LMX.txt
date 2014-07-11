@@ -1,0 +1,1 @@
+{"organizations":["Imani Children","Kenya Network of Women"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"},{"name":"Kayole","latitude":-1.28333,"longitude":36.93333,"place_type":"GisFeature"},{"name":"Malindi","latitude":-3.21748,"longitude":40.1191,"place_type":"City"}]}

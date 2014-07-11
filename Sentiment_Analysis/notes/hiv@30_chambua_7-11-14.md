@@ -1,36 +1,30 @@
 ##HIV@30 Notes 7/11/14
 ####HIV@30 To Do
 * ~~rename clusters (not text file name)~~
-* organize by year (for 1980s)
-* dedupe (Paris vs PARIS) | small caps everything downcase everything
+* ~~organize by year (for 1980s)~~
+* ~~dedupe (Paris vs PARIS) | small caps everything downcase everything~~
 * bump title over -> when depth is 0, don't display; color class css rules when g.cluster = 
 * empty arrays
-* at certain zoom level, disappear text, or change resolution
+* ~~at certain zoom level, disappear text, or change resolution~~
+* get working for each year
+* conduct and annotate
+* build reload mechanism
 
 
-####PROCESS 
+####LOCAL PROCESS (for Text Clean)
 
-Open Refine
-load output.csv 
-
-value > edit cells > commmon transforms > collapse consecutive whitespace
-
-value dropdown text facet
+* open OpenRefine
+* load output.csv 
+* value > edit cells > commmon transforms > collapse consecutive whitespace
+* value dropdown text facet
 set choice count limit > ok
-
-cluster > select all, check > merge selected than close
-
-
-Export as csv
-
+* cluster > select all, check > merge selected than close
+* export as csv
 `./csv-to-json.js `
-
 * reformat 1980s, change compile-to-csv.js so that it incorporates 1980s
 
 
-
-
-####STEPS
+####GLOBAL PROCESS
 * copy folders from dropbox to repo for version control
 * process special files and older folders
 * fix 1980s into buckets by year
@@ -39,7 +33,7 @@ Export as csv
 * run node scripts on output files
 * test viz
 
-####NOTES (7/4/14)
+####LOG (7/4/14)
 * did this for 1990 (move everything w/weird name to special folder, run reorder/convert to txt, fix specials, **move all unfixables to special-90)**
 * copied files over from 2000s, renamed
 * made directories and split out 1980s (in `output`)
@@ -52,16 +46,14 @@ Export as csv
 	* merge with output from non-special folder of that year
 	* move all specials remaining to `special-90s`
 	* commit
-	 
 * FINISHED: 1990s (up to 1992)chambua process
 * FINISHED: 2000s chambua process
 * FINISHED: 2010s chambua process\
-	* reformated script to run for dated items
-
+	* reformated script to run for dated files items: `ls *.txt | sed -e 's/\(..\)\(..\)\(..\)\(.\)/mv \1\2\3\4.txt \3\2\1\4/' | sh`
 * start node process
 
 
-####Questions
+####QUESTIONS
 * there was a folder of "corrected" files in the 1991 batch, why?
 * big question: why are there so many miscategorized 2009 files?
 * 2005 was super messed up (underscore)

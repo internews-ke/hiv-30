@@ -1,0 +1,1 @@
+{"people":["Fredrick Makau","Oduor","Spinoza Ochieng"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

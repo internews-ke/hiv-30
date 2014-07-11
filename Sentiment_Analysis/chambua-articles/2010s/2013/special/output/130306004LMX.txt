@@ -1,0 +1,1 @@
+{"people":["David","Jesse"],"organizations":["IDP","General Election","Kenya Network of Women"],"places":[{"name":"Israel","latitude":31.5,"longitude":34.75,"place_type":"Country"},{"name":"Afghanistan","latitude":33.0,"longitude":66.0,"place_type":"Country"},{"name":"Somalia","latitude":6.0,"longitude":48.0,"place_type":"Country"}]}

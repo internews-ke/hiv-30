@@ -1,0 +1,1 @@
+{"people":["Mr Nyambane","Japheth Nyambane","George Githuka","Githuka"],"organizations":["National Aids Control Council","National Aids","Nascop Japheth Nyambane","Behaviour Chance Communication","2nd Global Female Condoms Day","STI Control Programme"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

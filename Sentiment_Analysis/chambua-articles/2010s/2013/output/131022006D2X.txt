@@ -1,0 +1,1 @@
+{"organizations":["Kaposi","Africa Cancer Association","Hodgkin"],"places":[{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

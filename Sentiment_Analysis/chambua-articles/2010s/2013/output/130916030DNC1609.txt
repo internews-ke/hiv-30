@@ -1,0 +1,1 @@
+{"people":["Mwai Kibaki","Fred K. Segor"],"organizations":["Voluntary Counseling","Government","Cabinet Secretary for Health","Global Community Kenya Mr. James Macharia","Ministry of Health While","National","United Nations Security"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

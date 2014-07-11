@@ -1,0 +1,1 @@
+{"people":["Mr Jecktone Chilo","Nelson Otwoma","Hadija Shikely","Otwoma"],"organizations":["ARV","National Empowerment Network of People Living","Mombasa People Living"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

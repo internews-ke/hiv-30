@@ -1,0 +1,1 @@
+{"people":["Kenwa","Mary","Elizabeth"],"organizations":["Head of State","Kenya Network"],"places":[]}

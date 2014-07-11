@@ -1,0 +1,1 @@
+{"people":["Geoffrey K. Menego"],"organizations":["UNAIDs"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Kisumu","latitude":-0.10221,"longitude":34.76171,"place_type":"City"},{"name":"Uganda","latitude":2.0,"longitude":33.0,"place_type":"Country"},{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}
