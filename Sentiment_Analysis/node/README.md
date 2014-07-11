@@ -8,11 +8,11 @@ A series of node scripts to clean up Daily Nation (Kenya) articles for the HIV@3
 
 ###NOTES
 * can use ./ to run
-* need to clean up 2000s, figure out why 1990 is missing
+* ~~need to clean up 2000s, figure out why 1990 is missing~~
 * don't forget to change compile-to-csv.js so that it incorporates 1980s
-* Refine: 
+* Refine:
 	* value > edit cells > common transforms > collapse consecutive (and leading) whitespace
 	* value > text facet > set choice count > ok
-	* cluster > select all, check > merge selected, then close 
+	* cluster > select all, check > merge selected, then close
 	* copy changes from window to another file, save
 

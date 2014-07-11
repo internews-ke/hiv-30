@@ -9,8 +9,8 @@ var basePath = path.join(__dirname, '..', 'chambua-articles')
 
 var clusters = ['people', 'places', 'organizations']
 
-// var decades = fs.readdirSync(basePath)
-var decades = ['1990s', '2010s']
+var decades = fs.readdirSync(basePath)
+// var decades = ['1990s', '2010s']
 
 var rows = []
 

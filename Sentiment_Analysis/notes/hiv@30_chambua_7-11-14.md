@@ -1,5 +1,5 @@
 ##HIV@30 Notes 7/11/14
-####HIV@30 To Do
+####TODO
 * ~~rename clusters (not text file name)~~
 * ~~organize by year (for 1980s)~~
 * ~~dedupe (Paris vs PARIS) | small caps everything downcase everything~~
@@ -10,9 +10,7 @@
 * conduct and annotate
 * build reload mechanism
 
-
 ####LOCAL PROCESS (for Text Clean)
-
 * open OpenRefine
 * load output.csv 
 * value > edit cells > commmon transforms > collapse consecutive whitespace
@@ -23,7 +21,6 @@ set choice count limit > ok
 `./csv-to-json.js `
 * reformat 1980s, change compile-to-csv.js so that it incorporates 1980s
 
-
 ####GLOBAL PROCESS
 * copy folders from dropbox to repo for version control
 * process special files and older folders
@@ -32,6 +29,9 @@ set choice count limit > ok
 * run chambua
 * run node scripts on output files
 * test viz
+
+------
+
 
 ####LOG (7/4/14)
 * did this for 1990 (move everything w/weird name to special folder, run reorder/convert to txt, fix specials, **move all unfixables to special-90)**
@@ -51,7 +51,6 @@ set choice count limit > ok
 * FINISHED: 2010s chambua process\
 	* reformated script to run for dated files items: `ls *.txt | sed -e 's/\(..\)\(..\)\(..\)\(.\)/mv \1\2\3\4.txt \3\2\1\4/' | sh`
 * start node process
-
 
 ####QUESTIONS
 * there was a folder of "corrected" files in the 1991 batch, why?
