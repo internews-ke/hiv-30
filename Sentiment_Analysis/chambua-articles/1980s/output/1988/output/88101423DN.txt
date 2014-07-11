@@ -1,0 +1,1 @@
+{"organizations":["Institute Pasteur","HIV","National Cancer Institute","Immuno Deficiency Virus"],"places":[{"name":"United States","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"West Africa","latitude":-12.5,"longitude":18.5,"place_type":"Country"},{"name":"Paris","latitude":48.85339,"longitude":2.34864,"place_type":"Adm"}]}

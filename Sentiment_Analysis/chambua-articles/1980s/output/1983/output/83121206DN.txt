@@ -1,0 +1,189 @@
+{
+   "people":[
+      "Ebbesen",
+      "Dowdle",
+      "Peter Ehijesen",
+      "Walter Dowdle",
+      "Michael"
+   ],
+   "organizations":[
+      "World Health Organisation",
+      "Acquired Immune Deficiency Syndrome",
+      "Kaposi  Sarcoma",
+      "French Health Ministry",
+      "Tel Aviv Medical Centre",
+      "Denmnark�s Institute of Cancer Research",
+      "Centre for Disease Control",
+      "CDC"
+   ],
+   "places":[
+      {
+         "name":"United States",
+         "latitude":39.76,
+         "longitude":-98.5,
+         "place_type":"Country"
+      },
+      {
+         "name":"Mali",
+         "latitude":17.0,
+         "longitude":-4.0,
+         "place_type":"Country"
+      },
+      {
+         "name":"Caribbean",
+         "latitude":12.21286,
+         "longitude":-68.29445,
+         "place_type":"PoliticalEntity"
+      },
+      {
+         "name":"Europe",
+         "latitude":43.5333,
+         "longitude":3.9833,
+         "place_type":"Hotel"
+      },
+      {
+         "name":"Israel",
+         "latitude":31.5,
+         "longitude":34.75,
+         "place_type":"Country"
+      },
+      {
+         "name":"Eastern Europe",
+         "latitude":51.72703,
+         "longitude":28.38867,
+         "place_type":"GisFeature"
+      },
+      {
+         "name":"Switzerland",
+         "latitude":47.00016,
+         "longitude":8.01427,
+         "place_type":"Country"
+      },
+      {
+         "name":"Haiti",
+         "latitude":19.0,
+         "longitude":-70.66667,
+         "place_type":"Country"
+      },
+      {
+         "name":"San Francisco",
+         "latitude":37.77668,
+         "longitude":-122.42031,
+         "place_type":"GisFeature"
+      },
+      {
+         "name":"Australia",
+         "latitude":-25.0,
+         "longitude":135.0,
+         "place_type":"Country"
+      },
+      {
+         "name":"LONDON",
+         "latitude":51.50853,
+         "longitude":-0.12574,
+         "place_type":"City"
+      },
+      {
+         "name":"Western Africa",
+         "latitude":-34.0,
+         "longitude":20.0,
+         "place_type":"Adm"
+      },
+      {
+         "name":"North America",
+         "latitude":35.50069,
+         "longitude":-80.00032,
+         "place_type":"Adm"
+      },
+      {
+         "name":"Americas",
+         "latitude":16.51667,
+         "longitude":-90.64389,
+         "place_type":"City"
+      },
+      {
+         "name":"United State",
+         "latitude":39.76,
+         "longitude":-98.5,
+         "place_type":"Country"
+      },
+      {
+         "name":"Western Europe",
+         "latitude":48.57479,
+         "longitude":8.9209,
+         "place_type":"GisFeature"
+      },
+      {
+         "name":"Zaire",
+         "latitude":0.0,
+         "longitude":25.0,
+         "place_type":"Country"
+      },
+      {
+         "name":"Geneva",
+         "latitude":46.16667,
+         "longitude":6.16667,
+         "place_type":"Adm"
+      },
+      {
+         "name":"Atlanta",
+         "latitude":33.73119,
+         "longitude":-84.38324,
+         "place_type":"GisFeature"
+      },
+      {
+         "name":"Gabon",
+         "latitude":-1.0,
+         "longitude":11.75,
+         "place_type":"Country"
+      },
+      {
+         "name":"Rwanda",
+         "latitude":-2.0,
+         "longitude":30.0,
+         "place_type":"Country"
+      },
+      {
+         "name":"Czechoslovakia",
+         "latitude":41.21335,
+         "longitude":-98.62285,
+         "place_type":"Cemetery"
+      },
+      {
+         "name":"New York",
+         "latitude":43.00035,
+         "longitude":-75.4999,
+         "place_type":"Adm"
+      },
+      {
+         "name":"Canada",
+         "latitude":60.0,
+         "longitude":-96.0,
+         "place_type":"Country"
+      },
+      {
+         "name":"Africa",
+         "latitude":-30.0,
+         "longitude":26.0,
+         "place_type":"Country"
+      },
+      {
+         "name":"Congo",
+         "latitude":0.0,
+         "longitude":25.0,
+         "place_type":"Country"
+      },
+      {
+         "name":"Japan",
+         "latitude":35.68536,
+         "longitude":139.7531,
+         "place_type":"Country"
+      },
+      {
+         "name":"Los Angeles",
+         "latitude":33.88638,
+         "longitude":-118.04535,
+         "place_type":"GisFeature"
+      }
+   ]
+}

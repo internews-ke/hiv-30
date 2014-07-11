@@ -1,0 +1,1 @@
+{"people":["Dr. Waweru","H. W. Waweru","Waweru"],"organizations":["Coast General Hospital","Coast Province","Lotus Hotel","Coast"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Mombasa","latitude":-4.05466,"longitude":39.66359,"place_type":"City"}]}

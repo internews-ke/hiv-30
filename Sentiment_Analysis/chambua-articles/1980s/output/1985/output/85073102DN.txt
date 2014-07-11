@@ -1,0 +1,23 @@
+{
+   "people":[
+      "Rock Hudson",
+      "Mr Hudson"
+   ],
+   "organizations":[
+      "Air France Boeing"
+   ],
+   "places":[
+      {
+         "name":"Paris",
+         "latitude":48.85339,
+         "longitude":2.34864,
+         "place_type":"Adm"
+      },
+      {
+         "name":"Los Angeles",
+         "latitude":33.88638,
+         "longitude":-118.04535,
+         "place_type":"GisFeature"
+      }
+   ]
+}

@@ -1,0 +1,1 @@
+{"people":["Ms. Amito"],"organizations":["Alago Nurses Training School","TASO","Institute of Public Administration L Kampala","Control Programme"],"places":[{"name":"Eastern Uganda","latitude":1.4,"longitude":33.95,"place_type":"GisFeature"},{"name":"Kampala","latitude":0.31628,"longitude":32.58219,"place_type":"City"}]}

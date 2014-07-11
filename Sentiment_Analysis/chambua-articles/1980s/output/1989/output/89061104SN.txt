@@ -1,0 +1,1 @@
+{"people":["Mann","Dr.  Daniel Kibuga","Dr. Jonathan Mann","Dr. Mulandi"],"organizations":["Kenya National Aids Control Committee","National Aida Control","World Health Organisations Global"],"places":[{"name":"Nigeria","latitude":10.0,"longitude":8.0,"place_type":"Country"},{"name":"Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

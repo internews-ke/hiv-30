@@ -1,0 +1,1 @@
+{"people":["Oliech","Dr Mulindi","Dr. Owili","Mrs Margaret Gatel","Joseph Oliech"],"organizations":["OMS","NACP","FIDELITY","National Aids Control Programmes","Director of Medical Services","Medical Services"],"places":[{"name":"England","latitude":54.0,"longitude":-4.0,"place_type":"Country"}]}
