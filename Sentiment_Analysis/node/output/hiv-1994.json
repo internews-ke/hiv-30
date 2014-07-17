@@ -99,7 +99,7 @@
           "name": "places",
           "children": [
             {
-              "name": "Kampala Uganda"
+              "name": "Kampala, Uganda"
             },
             {
               "name": "Uganda"
@@ -199,6 +199,53 @@
             },
             {
               "name": "Ethical Issues Network"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94013103DN2.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Irvy G. Kangan"
+            },
+            {
+              "name": "William Jimbo"
+            },
+            {
+              "name": "Kaagn"
+            },
+            {
+              "name": "Dr. Khama Rogo"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Kenya"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Elisa Diagnostic"
+            },
+            {
+              "name": "Health Ministry‚Äôs Aids Control Programme"
+            },
+            {
+              "name": "World Health Organization"
             }
           ]
         }
@@ -447,7 +494,7 @@
               "name": "Gregory Maragdis"
             },
             {
-              "name": "Dr Koech"
+              "name": "Dr. Koech"
             },
             {
               "name": "Davy Koech"
@@ -472,13 +519,55 @@
           "name": "organizations",
           "children": [
             {
-              "name": "Hotel InterContinental"
+              "name": "Inter-Continental Hotel"
             },
             {
               "name": "Kenya Medical Research Institute Director"
             },
             {
               "name": "Becton Dickinson Company"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94021225DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Hepati"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Canada"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Aica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94021325DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Canada"
             }
           ]
         }
@@ -571,7 +660,7 @@
               "name": "Joshua Angatia"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             }
           ]
         },
@@ -655,6 +744,79 @@
       ]
     },
     {
+      "name": "94031605DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "EDMOND KIZITO NATION Correspondent KAMPALA"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Uganda"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Aids Control Programme"
+            },
+            {
+              "name": "Nation"
+            },
+            {
+              "name": "Uganda's Ministry of Health"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94031606DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "S.K. Shariff"
+            },
+            {
+              "name": "M. Kimuu"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Lamu"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Governmental Organisations"
+            },
+            {
+              "name": "Coast Provincial Medical Officer"
+            },
+            {
+              "name": "Ministry of Health"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "94031720DN.txt",
       "children": [
         {
@@ -664,7 +826,7 @@
               "name": "Lamptey"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Mr John Westley"
@@ -781,6 +943,50 @@
           "children": [
             {
               "name": "A. O. Ooho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94041003SN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Odoovi"
+            },
+            {
+              "name": "Tabitha Oduoei"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Nye√± Mediral Training Centre"
+            },
+            {
+              "name": "Aida"
+            },
+            {
+              "name": "KNA"
+            },
+            {
+              "name": "Nyori Medical Training Centre"
+            },
+            {
+              "name": "MIV"
             }
           ]
         }
@@ -1053,6 +1259,30 @@
       ]
     },
     {
+      "name": "94051406DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Africa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Government"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "94051803DN.txt",
       "children": [
         {
@@ -1171,7 +1401,7 @@
           "name": "people",
           "children": [
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Prof Babatonde Thomuft"
@@ -1470,10 +1700,10 @@
           "name": "people",
           "children": [
             {
-              "name": "PAUL REDFERN"
+              "name": "Paul Redfern"
             },
             {
-              "name": "PAUL WAWERU"
+              "name": "Paul Waweru"
             },
             {
               "name": "Imam Husain"
@@ -1609,7 +1839,7 @@
           "name": "people",
           "children": [
             {
-              "name": "DAVID ADUDA"
+              "name": "David Aduda"
             }
           ]
         },
@@ -1709,7 +1939,7 @@
               "name": "Melody Roelke"
             },
             {
-              "name": "OCHIENG"
+              "name": "Ochieng"
             },
             {
               "name": "Craig Packer"
@@ -1851,6 +2081,100 @@
             },
             {
               "name": "24th International Planned Parenthood Federation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94070905DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "EMMANUEL MWERO"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Taita"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Taveta District"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94070906DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Richard B. Turkson"
+            },
+            {
+              "name": "PETER ORIARE"
+            },
+            {
+              "name": "Francis Ekon"
+            },
+            {
+              "name": "Mr Ekon"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Egypt"
+            },
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Cairo"
+            },
+            {
+              "name": "New York"
+            },
+            {
+              "name": "Africa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "IPPF"
+            },
+            {
+              "name": "International Planned Parenthood Federation"
+            },
+            {
+              "name": "International Conference On Population and Development"
+            },
+            {
+              "name": "Vatican"
+            },
+            {
+              "name": "Grand Regency Hotel"
+            },
+            {
+              "name": "African Regional Council"
             }
           ]
         }
@@ -2105,6 +2429,56 @@
       ]
     },
     {
+      "name": "94072701DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Joshua Angatia"
+            },
+            {
+              "name": "Angatia"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Nyanza"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "PanAfric Hotel"
+            },
+            {
+              "name": "Steering Committee on Sessional"
+            },
+            {
+              "name": "Coast Province"
+            },
+            {
+              "name": "Eastern"
+            },
+            {
+              "name": "Coast"
+            },
+            {
+              "name": "National Development Plan"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "94072706DN.txt",
       "children": [
         {
@@ -2225,13 +2599,13 @@
               "name": "Mr Joe Muriuki"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "James Mutinga"
             },
             {
-              "name": "KEN OPALA"
+              "name": "Ken Opala"
             },
             {
               "name": "Hez"
@@ -2451,6 +2825,71 @@
             },
             {
               "name": "Johns Hopkins University"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94080607DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Laila Malik"
+            },
+            {
+              "name": "Catherine A. Lalobo-Lore"
+            },
+            {
+              "name": "Cleophas Wanyonyi"
+            },
+            {
+              "name": "Miriam Mutebi"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Mutebi"
+            },
+            {
+              "name": "Cairo"
+            },
+            {
+              "name": "Mexico City"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "International Conference on Population"
+            },
+            {
+              "name": "Draft Final Document"
+            },
+            {
+              "name": "Women and Health Network"
+            },
+            {
+              "name": "Cairo Conference"
+            },
+            {
+              "name": "Draft Programme of Action"
+            },
+            {
+              "name": "Masaba Hospital"
+            },
+            {
+              "name": "UN Draft Document"
+            },
+            {
+              "name": "Malik"
             }
           ]
         }
@@ -2739,6 +3178,159 @@
       ]
     },
     {
+      "name": "94082903DN2.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "John Oywa"
+            },
+            {
+              "name": "Jane Njeri"
+            },
+            {
+              "name": "Moses Mabwa"
+            },
+            {
+              "name": "Njeri"
+            },
+            {
+              "name": "Mrs Rose Ageng"
+            },
+            {
+              "name": "Mr Mabwa"
+            },
+            {
+              "name": "Okok"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Homa Bay"
+            },
+            {
+              "name": "Siaya"
+            },
+            {
+              "name": "Nyeri"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "African Medical Research Foundation"
+            },
+            {
+              "name": "CPK"
+            },
+            {
+              "name": "St Paul‚Äôs Catholic Church"
+            },
+            {
+              "name": "Amref"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94120304DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "John Adungosi"
+            },
+            {
+              "name": "Adungosi"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kilifi"
+            },
+            {
+              "name": "Kwale"
+            },
+            {
+              "name": "Mombasa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Coast Province"
+            },
+            {
+              "name": "Coast"
+            },
+            {
+              "name": "Mombasa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94121705DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "John Adungosi"
+            },
+            {
+              "name": "Adungosi"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kilifi"
+            },
+            {
+              "name": "Kwale"
+            },
+            {
+              "name": "Mombasa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Coast Province"
+            },
+            {
+              "name": "Coast"
+            },
+            {
+              "name": "Mombasa"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "94122221DN.txt",
       "children": [
         {
@@ -2757,6 +3349,30 @@
             },
             {
               "name": "Alpha & Omega Therapy Care Services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "94122428DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Barry Hart"
+            },
+            {
+              "name": "Peter Mwai"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "New Zealand"
             }
           ]
         }

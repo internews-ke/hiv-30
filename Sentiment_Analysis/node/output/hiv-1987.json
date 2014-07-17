@@ -1,0 +1,673 @@
+{
+  "name": "1987",
+  "children": [
+    {
+      "name": "87020517DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "J. O. Ndinya Achola"
+            },
+            {
+              "name": "N. N. Agata"
+            },
+            {
+              "name": "W. Cameron"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Kenya Medical Research"
+            },
+            {
+              "name": "Kenyatta National HospitaI"
+            },
+            {
+              "name": "University of Nairobi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87030508DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mann"
+            },
+            {
+              "name": "Jonathan Mann"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Geneva"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organisation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87031224DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mann"
+            },
+            {
+              "name": "Jonathan Mann"
+            },
+            {
+              "name": "Mr. Koinange"
+            },
+            {
+              "name": "Koinange"
+            },
+            {
+              "name": "Koinange"
+            },
+            {
+              "name": "Dr Mann"
+            },
+            {
+              "name": "Karuga Koinange"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "France"
+            },
+            {
+              "name": "United States"
+            },
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "US"
+            },
+            {
+              "name": "Tanzania"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "West Germany"
+            },
+            {
+              "name": "Brazil"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Europe"
+            },
+            {
+              "name": "Mombasa"
+            },
+            {
+              "name": "India"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organization"
+            },
+            {
+              "name": "OTULA OWUOR Nations"
+            },
+            {
+              "name": "Acquired Immune Deficiency Syndrome"
+            },
+            {
+              "name": "Director of Medical Services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87041309DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organization"
+            },
+            {
+              "name": "National"
+            },
+            {
+              "name": "KaposiÔøΩs Sarcoma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87050808DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Clavel"
+            },
+            {
+              "name": "Francois Clavel"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "West Africa"
+            },
+            {
+              "name": "Paris"
+            },
+            {
+              "name": "Cape Verde"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Central Africa"
+            },
+            {
+              "name": "Europe"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Pasteur Institute"
+            },
+            {
+              "name": "Pasteur ÔøΩInstitute"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87052505DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mann"
+            },
+            {
+              "name": "Jonathan Mann"
+            },
+            {
+              "name": "Mr. Pearce Wright"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "West Africa"
+            },
+            {
+              "name": "US"
+            },
+            {
+              "name": "Central Africa"
+            },
+            {
+              "name": "Asia"
+            },
+            {
+              "name": "London"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organisation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87060302DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Dr Sekeramayi"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Zaire"
+            },
+            {
+              "name": "Zambia"
+            },
+            {
+              "name": "Harare"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Harare"
+            },
+            {
+              "name": "Zimbabwe"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "African Union Against Venereal Diseases"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "Minister of Health Sydney Sekerameyi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87060409DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Dr. Okware"
+            },
+            {
+              "name": "Mann"
+            },
+            {
+              "name": "Davis"
+            },
+            {
+              "name": "James Cunan"
+            },
+            {
+              "name": "Okware"
+            },
+            {
+              "name": "Jonathan Mann"
+            },
+            {
+              "name": "DANIEL O. HANEY"
+            },
+            {
+              "name": "Dr. Sunita Jam"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "California"
+            },
+            {
+              "name": "San Francisco"
+            },
+            {
+              "name": "Washington"
+            },
+            {
+              "name": "Uganda"
+            },
+            {
+              "name": "Central Africa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "United State"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "Acquired Immune Deficiency Syndrome"
+            },
+            {
+              "name": "Centre Disease Control"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87060609DNSA.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "C. Everett Koop"
+            },
+            {
+              "name": "IRWIN ARIEFF"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "California"
+            },
+            {
+              "name": "Washington"
+            },
+            {
+              "name": "Canada"
+            },
+            {
+              "name": "Washington"
+            },
+            {
+              "name": "Connecticut"
+            },
+            {
+              "name": "San Anselmo"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Acquired Immune Deficiency Syndrome"
+            },
+            {
+              "name": "Reuters"
+            },
+            {
+              "name": "National Organisation of Circumcision Information"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87061916DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "J. O. Ndinya-Acbola"
+            },
+            {
+              "name": "J. D. Costa"
+            },
+            {
+              "name": "F. A. Plummer"
+            },
+            {
+              "name": "E. N. Ngugi"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Uganda"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "STD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87111121DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mr. Ayah"
+            },
+            {
+              "name": "Japheth Mati"
+            },
+            {
+              "name": "M. Mugambi"
+            },
+            {
+              "name": "Mati"
+            },
+            {
+              "name": "Mr Ayaiu"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Ngeria"
+            },
+            {
+              "name": "Cameroun"
+            },
+            {
+              "name": "Ethiopia"
+            },
+            {
+              "name": "Tanzania"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Zambia"
+            },
+            {
+              "name": "Senegal"
+            },
+            {
+              "name": "Botswana"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Uganda"
+            },
+            {
+              "name": "Mombasa"
+            },
+            {
+              "name": "Zimbabwe"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Department of Obstetrics"
+            },
+            {
+              "name": "Kenya National Committee"
+            },
+            {
+              "name": "Research"
+            },
+            {
+              "name": "University of Nairobi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87112813DNSA.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Geneva"
+            },
+            {
+              "name": "Switzerland"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Council of Churches"
+            },
+            {
+              "name": "Christian Medical Commission"
+            },
+            {
+              "name": "Ferney"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "87122920DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mann"
+            },
+            {
+              "name": "Jonathan Mann"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "Americas"
+            },
+            {
+              "name": "Oceania"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Australia"
+            },
+            {
+              "name": "Europe"
+            },
+            {
+              "name": "Asia"
+            },
+            {
+              "name": "New Zealand"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

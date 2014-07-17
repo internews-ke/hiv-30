@@ -1,0 +1,282 @@
+{
+  "name": "1983",
+  "children": [
+    {
+      "name": "83080906DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mr Roger Barilliet"
+            },
+            {
+              "name": "Juhan Likola"
+            },
+            {
+              "name": "Mr Frank Schnabel"
+            },
+            {
+              "name": "Hagen"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "North America"
+            },
+            {
+              "name": "US"
+            },
+            {
+              "name": "Western Europe"
+            },
+            {
+              "name": "Geneva"
+            },
+            {
+              "name": "United Slates"
+            },
+            {
+              "name": "Spain"
+            },
+            {
+              "name": "Paris"
+            },
+            {
+              "name": "Latin America"
+            },
+            {
+              "name": "Europe"
+            },
+            {
+              "name": "Zurich"
+            },
+            {
+              "name": "France"
+            },
+            {
+              "name": "Montreal"
+            },
+            {
+              "name": "America"
+            },
+            {
+              "name": "Canada"
+            },
+            {
+              "name": "Paris"
+            },
+            {
+              "name": "Asia"
+            },
+            {
+              "name": "Middle East"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Institute Pasteur Production"
+            },
+            {
+              "name": "French Association of Hemophiliacs"
+            },
+            {
+              "name": "Inter"
+            },
+            {
+              "name": "Shl"
+            },
+            {
+              "name": "Bayer"
+            },
+            {
+              "name": "Revlon"
+            },
+            {
+              "name": "Red Cross"
+            },
+            {
+              "name": "World Federation of Hemophilia"
+            },
+            {
+              "name": "International Federation of Pharmaceutical Manufactures Associations"
+            },
+            {
+              "name": "World Health Organisation Geneva"
+            },
+            {
+              "name": "Opec"
+            },
+            {
+              "name": "Administration"
+            },
+            {
+              "name": "Food and Drug Administration"
+            },
+            {
+              "name": "League of Red Cross Societies"
+            },
+            {
+              "name": "US Food"
+            },
+            {
+              "name": "French Government"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "83121206DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Ebbesen"
+            },
+            {
+              "name": "Dowdle"
+            },
+            {
+              "name": "Peter Ehijesen"
+            },
+            {
+              "name": "Walter Dowdle"
+            },
+            {
+              "name": "Michael"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "Mali"
+            },
+            {
+              "name": "Caribbean"
+            },
+            {
+              "name": "Europe"
+            },
+            {
+              "name": "Israel"
+            },
+            {
+              "name": "Eastern Europe"
+            },
+            {
+              "name": "Switzerland"
+            },
+            {
+              "name": "Haiti"
+            },
+            {
+              "name": "San Francisco"
+            },
+            {
+              "name": "Australia"
+            },
+            {
+              "name": "London"
+            },
+            {
+              "name": "Western Africa"
+            },
+            {
+              "name": "North America"
+            },
+            {
+              "name": "Americas"
+            },
+            {
+              "name": "United State"
+            },
+            {
+              "name": "Western Europe"
+            },
+            {
+              "name": "Zaire"
+            },
+            {
+              "name": "Geneva"
+            },
+            {
+              "name": "Atlanta"
+            },
+            {
+              "name": "Gabon"
+            },
+            {
+              "name": "Rwanda"
+            },
+            {
+              "name": "Czechoslovakia"
+            },
+            {
+              "name": "New York"
+            },
+            {
+              "name": "Canada"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Congo"
+            },
+            {
+              "name": "Japan"
+            },
+            {
+              "name": "Los Angeles"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "Acquired Immune Deficiency Syndrome"
+            },
+            {
+              "name": "Kaposi Sarcoma"
+            },
+            {
+              "name": "French Health Ministry"
+            },
+            {
+              "name": "Tel Aviv Medical Centre"
+            },
+            {
+              "name": "DenmnarkÔøΩs Institute of Cancer Research"
+            },
+            {
+              "name": "Centre for Disease Control"
+            },
+            {
+              "name": "CDC"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

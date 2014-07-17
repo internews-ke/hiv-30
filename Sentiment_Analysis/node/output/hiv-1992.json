@@ -40,7 +40,7 @@
               "name": "ABC News"
             },
             {
-              "name": "AMFAR"
+              "name": "amfAR"
             },
             {
               "name": "Warner"
@@ -332,6 +332,86 @@
       ]
     },
     {
+      "name": "92022904DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Rose Bwonya"
+            },
+            {
+              "name": "Mr Jeremiah Nyagah"
+            },
+            {
+              "name": "Joseph"
+            },
+            {
+              "name": "Mr M. Onditi"
+            },
+            {
+              "name": "Abdullah"
+            },
+            {
+              "name": "S. Abdullah"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Baringo"
+            },
+            {
+              "name": "Kisumu"
+            },
+            {
+              "name": "Kwale"
+            },
+            {
+              "name": "Kemri"
+            },
+            {
+              "name": "Mombasa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Ministry"
+            },
+            {
+              "name": "Budget Steering Committee"
+            },
+            {
+              "name": "Essential National Health Research"
+            },
+            {
+              "name": "Kenya Medical Research Institute"
+            },
+            {
+              "name": "ENHR"
+            },
+            {
+              "name": "Long-range Planning Division of the Ministry of Planning and National Development According"
+            },
+            {
+              "name": "Labour Force"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "92032611DN.txt",
       "children": [
         {
@@ -344,7 +424,7 @@
               "name": "Mr Nick Partridge"
             },
             {
-              "name": "PAUL REDFERN"
+              "name": "Paul Redfern"
             }
           ]
         },
@@ -447,6 +527,53 @@
             },
             {
               "name": "Kenya Women's Medical Association"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "92041809DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Michael Wandell"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "US"
+            },
+            {
+              "name": "Canada"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Europe"
+            },
+            {
+              "name": "Soviet Union"
+            },
+            {
+              "name": "India"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organisation"
             }
           ]
         }
@@ -630,6 +757,19 @@
             },
             {
               "name": "Out of School Youth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "92050217DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
             }
           ]
         }
@@ -942,6 +1082,19 @@
     },
     {
       "name": "92060819DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "92061317DN.txt",
       "children": [
         {
           "name": "places",
@@ -1438,6 +1591,59 @@
       ]
     },
     {
+      "name": "92083108LS.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Johnson"
+            },
+            {
+              "name": "Kevin Johnson"
+            },
+            {
+              "name": "Pat Riley"
+            },
+            {
+              "name": "Michael Jordan"
+            },
+            {
+              "name": "Larry"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "US"
+            },
+            {
+              "name": "New York"
+            },
+            {
+              "name": "Europe"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Lakers"
+            },
+            {
+              "name": "Ervin Magic Johnson"
+            },
+            {
+              "name": "Converse"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "92090610LS.txt",
       "children": [
         {
@@ -1895,6 +2101,59 @@
       ]
     },
     {
+      "name": "92111103WM 2.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mr Hungu"
+            },
+            {
+              "name": "Mr Johnson Hungu"
+            },
+            {
+              "name": "Mr Amos Wako"
+            },
+            {
+              "name": "Wako"
+            },
+            {
+              "name": "Lawi Imathiu"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Kenya"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Government"
+            },
+            {
+              "name": "Ministry of Manpower Development"
+            },
+            {
+              "name": "National"
+            },
+            {
+              "name": "Young Men's Christian Association"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "92111103WM.txt",
       "children": [
         {
@@ -2139,7 +2398,7 @@
               "name": "USA"
             },
             {
-              "name": "Bu"
+              "name": "BU"
             },
             {
               "name": "SIV"
@@ -2195,7 +2454,7 @@
               "name": "Ministry of Health"
             },
             {
-              "name": "National Aids Control Committee"
+              "name": "National AIDS Control Committee"
             }
           ]
         }
@@ -2323,6 +2582,71 @@
       ]
     },
     {
+      "name": "92112506WM.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "James Faulkland"
+            },
+            {
+              "name": "James"
+            },
+            {
+              "name": "Suzanne"
+            },
+            {
+              "name": "Faulkland"
+            },
+            {
+              "name": "Wangui Gachie"
+            },
+            {
+              "name": "Maurice Oyando"
+            },
+            {
+              "name": "Suzanne Gachukia"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "South Africa"
+            },
+            {
+              "name": "Phoenix"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "United Nations Children"
+            },
+            {
+              "name": "Mercy Wambugu"
+            },
+            {
+              "name": "Joy Mboya of Musikly Speaking"
+            },
+            {
+              "name": "Phoenix Players"
+            },
+            {
+              "name": "Attorney General Amos Wako"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "92112514DN.txt",
       "children": [
         {
@@ -2396,7 +2720,7 @@
               "name": "DP"
             },
             {
-              "name": "FORD-K"
+              "name": "Ford-K"
             },
             {
               "name": "Nyong"
@@ -2510,6 +2834,27 @@
       ]
     },
     {
+      "name": "92113007DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "HPI"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "92141104WM.txt",
       "children": [
         {
@@ -2563,6 +2908,154 @@
             },
             {
               "name": "National Basketball Association"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "92147008DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mays"
+            },
+            {
+              "name": "Howard Minkoff"
+            },
+            {
+              "name": "Vickie Maya"
+            },
+            {
+              "name": "Maya"
+            },
+            {
+              "name": "MALCOLM RITTE"
+            },
+            {
+              "name": "Minkoff"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "New York"
+            },
+            {
+              "name": "Brooklyn"
+            },
+            {
+              "name": "Los Angeles"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "University of California"
+            },
+            {
+              "name": "New York Health Science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "92436008SN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Kaprowaki"
+            },
+            {
+              "name": "Curtis"
+            },
+            {
+              "name": "Hilary Kaprowski"
+            },
+            {
+              "name": "Gerald Quinnan Jr."
+            },
+            {
+              "name": "Tom Curtis"
+            },
+            {
+              "name": "OPIYO OFULLA Aids"
+            },
+            {
+              "name": "Kaprowski"
+            },
+            {
+              "name": "Tom Curtis"
+            },
+            {
+              "name": "Cecil H. Fox"
+            },
+            {
+              "name": "Tom Curtis"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "US"
+            },
+            {
+              "name": "Zaire"
+            },
+            {
+              "name": "Philadelphia"
+            },
+            {
+              "name": "New England"
+            },
+            {
+              "name": "Burundi"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Rwanda"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "USA"
+            },
+            {
+              "name": "USA Laboratories"
+            },
+            {
+              "name": "Thomas Folks"
+            },
+            {
+              "name": "Disease Control"
+            },
+            {
+              "name": "SIV"
+            },
+            {
+              "name": "American Association"
+            },
+            {
+              "name": "CDC"
+            },
+            {
+              "name": "Wister Institute"
             }
           ]
         }

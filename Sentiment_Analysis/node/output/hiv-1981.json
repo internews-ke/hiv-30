@@ -1,0 +1,46 @@
+{
+  "name": "1981",
+  "children": [
+    {
+      "name": "81070814DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Dr. James Curran"
+            },
+            {
+              "name": "Dr. Curran"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "California"
+            },
+            {
+              "name": "US"
+            },
+            {
+              "name": "New York"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "KaposiÔøΩsÔøΩ Sarcoma"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

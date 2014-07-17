@@ -13,7 +13,7 @@
 ####LOCAL PROCESS (for Text Clean)
 * open OpenRefine
 * load output.csv 
-* value > edit cells > commmon transforms > collapse consecutive whitespace
+* value > edit cells > commmon transforms > collapse consecutive whitespace + trim leading whitespace
 * value dropdown text facet
 set choice count limit > ok
 * cluster > select all, check > merge selected than close
@@ -50,7 +50,9 @@ set choice count limit > ok
 * FINISHED: 2000s chambua process
 * FINISHED: 2010s chambua process\
 	* reformated script to run for dated files items: `ls *.txt | sed -e 's/\(..\)\(..\)\(..\)\(.\)/mv \1\2\3\4.txt \3\2\1\4/' | sh`
-* start node process
+* start node process (7/16/14)
+	* see "local process" above
+* moved all `output` .json files to 
 
 ####QUESTIONS
 * there was a folder of "corrected" files in the 1991 batch, why?
@@ -61,7 +63,18 @@ set choice count limit > ok
 * 2010s still have un processed special files with weird names
 * 2010s files with no date in `special`
 
+====
 
+###IN MEETING NOTES
+####GENERAL
+frequency of tags in figures for tableau visualizations
+tableau how do we incorporate those narratives - tableau
+qualitative analysis in dropbox
 
+###OTHER VIZ
+prevalence and testing > when you look at uptake of hiv services in kenya
 
-* `
+###TIMELINE
+last point in timeline...baby (today news broke that she's redetected
+2013 timline edit
+27 months later the hiv virus was redetected in her system

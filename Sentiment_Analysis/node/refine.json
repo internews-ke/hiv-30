@@ -39,22 +39,33 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "USAID",
-          "USAid",
-          "USaid",
-          "Usaid"
+          "Nairobi",
+          "NAIROBI",
+          "NaIrobI",
+          "NaIrobi",
+          "NairobI",
+          "Nairobi Nairobi",
+          "NAIROBI Nairobi",
+          "NAiROBI",
+          "Nairobi.",
+          "NaIrObI",
+          "NairObi"
         ],
-        "to": "USAID"
+        "to": "Nairobi"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "World Health Organisation",
-          "'World Health Organisation",
-          "World Health' Organisation"
+          "Ltd",
+          "Ltd.",
+          "/ Ltd",
+          "= Ltd",
+          "_Ltd",
+          "ltd",
+          "~LTD"
         ],
-        "to": "World Health Organisation"
+        "to": "Ltd"
       },
       {
         "fromBlank": false,
@@ -62,9 +73,313 @@
         "from": [
           "UNAids",
           "UNAIDS",
-          "Unaids"
+          "Unaids",
+          "UNaids",
+          "UNAIDs",
+          "UNAIds"
         ],
         "to": "UNAids"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ericsson",
+          "ERICSSON",
+          "ErICSSOn",
+          "ErICSson",
+          "ErIcsson",
+          "EricSson"
+        ],
+        "to": "Ericsson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "World Health Organisation",
+          "'World Health Organisation",
+          "WorLd Health Organisation",
+          "World Health' Organisation",
+          "World' Health Organisation"
+        ],
+        "to": "World Health Organisation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nairobi Kenya",
+          "Kenya Nairobi",
+          "NAIROBI KENYA",
+          "NAIROBI Kenya",
+          "Nairobi KENYA"
+        ],
+        "to": "Nairobi, Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nokia",
+          "NOKIA",
+          "NokIa",
+          "NOKIA NOKIA",
+          "NOkia"
+        ],
+        "to": "Nokia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "USAID",
+          "USAid",
+          "USaid",
+          "Usaid",
+          "UsAid"
+        ],
+        "to": "USAID"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gatome Associates",
+          "Gatome & Associates",
+          "Gatome AssoCiates",
+          "Gatome& AssoCIates",
+          "Gatome& Associates"
+        ],
+        "to": "Gatome Associates"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "London",
+          "LONDON",
+          "LoNDON",
+          "lOndOn"
+        ],
+        "to": "London"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mol",
+          "MOl",
+          "MoL",
+          "MOL"
+        ],
+        "to": "Mol"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Africa",
+          "AFRICA",
+          "'Africa",
+          "Africa Africa"
+        ],
+        "to": "Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Motorola",
+          "MOTOROLA",
+          "MOTOROlA",
+          "MotorOla"
+        ],
+        "to": "Motorola"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Aids Control Council",
+          "National AIDS Control Council",
+          "National Aids Control CouncIl",
+          "National AIDs Control Council"
+        ],
+        "to": "National Aids Control Council"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "M.O.",
+          "MO",
+          "Mo",
+          "Mo."
+        ],
+        "to": "M.O."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Daily Nation",
+          "Daily Nation!",
+          "Daily Nation ~",
+          "~ Daily Nation!"
+        ],
+        "to": "Daily Nation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "South Africa",
+          "SOUTH AFRICA",
+          "South AfrIca",
+          "South' Africa"
+        ],
+        "to": "South Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DFID",
+          "DFiD",
+          "DfID"
+        ],
+        "to": "DFID"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "John Koigi",
+          "JOHN KOIGI",
+          "Koigi John"
+        ],
+        "to": "John Koigi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Uganda",
+          "UGANDA",
+          "uganda"
+        ],
+        "to": "Uganda"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ksh",
+          "KSh",
+          "KSH"
+        ],
+        "to": "Ksh"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "US Government",
+          "U.S. Government",
+          "Us Government"
+        ],
+        "to": "US Government"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Parliament",
+          "PARLIAMENT",
+          "Parliament Parliament"
+        ],
+        "to": "Parliament"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Aids Committee",
+          "National AIDS Committee",
+          "National Aids committee"
+        ],
+        "to": "National Aids Committee"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Government",
+          "GOvernment",
+          "~ Government"
+        ],
+        "to": "Government"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sunday Nation",
+          "SUNDAY NATION",
+          "Sunday Nation!"
+        ],
+        "to": "Sunday Nation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "' Kenya National Chamber of Commerce and Industry",
+          "Kenya National Chamber of C.ommerce and Industry",
+          "Kenya National Chamber of Commerce and Industry"
+        ],
+        "to": "Kenya National Chamber of Commerce and Industry"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Central Kenya",
+          "Kenya Central",
+          "central Kenya"
+        ],
+        "to": "Central Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ministry of Education",
+          "Ministry -of Education",
+          "Ministry of ;Education"
+        ],
+        "to": "Ministry of Education"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Odhiambo",
+          "ODHIAMBO",
+          "_ Odhiambo"
+        ],
+        "to": "Odhiambo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mombasa",
+          "MOMBASA",
+          "Mombasa Mombasa"
+        ],
+        "to": "Mombasa"
       },
       {
         "fromBlank": false,
@@ -80,6 +395,16 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
+          "EA) Ltd",
+          "EA) Ltd.",
+          "EA Ltd"
+        ],
+        "to": "EA Ltd"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
           "North America",
           "' North America",
           "north America"
@@ -90,73 +415,289 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Sunday Nation",
-          "SUNDAY NATION"
+          "East Africa",
+          "Africa EAST AFRICA",
+          "EAST AFRICA"
         ],
-        "to": "Sunday Nation"
+        "to": "East Africa"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Boston",
-          "BOSTON"
+          "Inter-Continental Hotel",
+          "Hotel Inter-Continental",
+          "Hotel InterContinental"
         ],
-        "to": "Boston"
+        "to": "Inter-Continental Hotel"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "London",
-          "LONDON"
+          "Kampala Uganda",
+          "Uganda KAMPALA",
+          "Uganda Kampala"
         ],
-        "to": "London"
+        "to": "Kampala, Uganda"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
+          "India",
+          "IndIa",
+          "INDIA"
+        ],
+        "to": "India"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "University of Nairobi",
+          "University Of Nairobi",
+          "University of Nairobi\\"
+        ],
+        "to": "University of Nairobi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Zambia",
+          "ZambIa",
+          "ZAMBIA"
+        ],
+        "to": "Zambia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Ligali",
+          "Mr. Ligali",
+          "Mr. ligali"
+        ],
+        "to": "Mr. Ligali"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tanzania",
+          "TANZANIA",
+          "TanZania"
+        ],
+        "to": "Tanzania"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Addis Ababa",
+          "ADDIS Ababa",
+          "ADDIS ABABA"
+        ],
+        "to": "Addis Ababa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SA",
+          "S.A.",
+          "~SA"
+        ],
+        "to": "SA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Stockholm",
+          "STOCKHOLM",
+          "StockhoLm"
+        ],
+        "to": "Stockholm"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Italy",
+          "ITALY",
+          "ITALY Italy"
+        ],
+        "to": "Italy"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Co. Ltd",
+          "CO. LTD",
+          "CO. LTD."
+        ],
+        "to": "Co. Ltd"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "COMPAQ",
+          "Compaq",
+          "COMPAq"
+        ],
+        "to": "COMPAQ"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LA",
+          "La",
+          "la."
+        ],
+        "to": "LA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MR SHAMLAL",
+          "Mr. Shamlal",
+          "MR SHAMlAL"
+        ],
+        "to": "MR SHAMLAL"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nakuru",
+          "NAKURU",
+          "NAKURU Nakuru"
+        ],
+        "to": "Nakuru"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Narc Government",
+          "NARC Government",
+          "Narc government"
+        ],
+        "to": "Narc Government"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr",
+          "Mr.",
+          "Mr. ~"
+        ],
+        "to": "Mr"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Unicef",
+          "UNICEF",
+          "UnIcef"
+        ],
+        "to": "Unicef"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AMFAR",
+          "Amfar",
+          "amfAR"
+        ],
+        "to": "amfAR"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Zuma",
+          "Mr Zuma Mr Zuma",
+          "Mr. Zuma"
+        ],
+        "to": "Mr. Zuma"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Aids Council",
           "National AIDS Council",
-          "National Aids Council"
+          "NatIonal AIDS Council"
         ],
-        "to": "National AIDS Council"
+        "to": "National Aids Council"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "ARTHUR OKWEMBA",
-          "Arthur Okwemba"
+          "Durban",
+          "DURBAN",
+          "' Durban"
         ],
-        "to": "Arthur Okwemba"
+        "to": "Durban"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Tokyo",
-          "TOKYO"
+          "Kenya",
+          "KENYA",
+          "KENYA KENYA"
         ],
-        "to": "Tokyo"
+        "to": "Kenya"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Carol",
-          "Carol*"
+          "Federation of Kenya Employers",
+          "KENYA Federation of Kenya Employers",
+          "Kenya Federation of Employers"
         ],
-        "to": "Carol"
+        "to": "Federation of Kenya Employers"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "'Population Services International",
-          "Population Services International"
+          "Coast Guard",
+          "Coast guard",
+          "coast guard"
         ],
-        "to": "'Population Services International"
+        "to": "Coast Guard"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ZIANA",
+          "Ziana"
+        ],
+        "to": "Ziana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Europe",
+          "Europe Europe"
+        ],
+        "to": "Europe"
       },
       {
         "fromBlank": false,
@@ -171,10 +712,91 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Mrs Muloki",
-          "Mrs. Muloki"
+          "HYUNDAI",
+          "Hyundai"
         ],
-        "to": "Mrs Muloki"
+        "to": "Hyundai"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Lyon",
+          "LYON"
+        ],
+        "to": "Lyon"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Niamey",
+          "NIAMEY"
+        ],
+        "to": "Niamey"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Michael Jackson",
+          "MIchael Jackson"
+        ],
+        "to": "Michael Jackson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Egerton",
+          "Egerton ~"
+        ],
+        "to": "Egerton"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Lab & Allied Ltd",
+          "Lab &Allied Ltd"
+        ],
+        "to": "Lab & Allied Ltd"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "REBECCA NDUKU",
+          "Rebecca Nduku"
+        ],
+        "to": "Rebecca Nduku"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "G.G. Kariuki",
+          "GG Kariuki"
+        ],
+        "to": "G.G. Kariuki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Mohammed",
+          "Mr. Mohammed"
+        ],
+        "to": "Mr. Mohammed"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Catholic Relief Services Kenya",
+          "\\ Catholic Relief Services Kenya"
+        ],
+        "to": "Catholic Relief Services Kenya"
       },
       {
         "fromBlank": false,
@@ -189,37 +811,28 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Wang-oi Njau",
-          "Wangoi Njau"
+          "Kapchorua Tea Co",
+          "Kapchorua Tea Co."
         ],
-        "to": "Wang-oi Njau"
+        "to": "Kapchorua Tea Co"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Mr Angatia",
-          "Mr. Angatia"
+          "NGARA SHOPPING CENTRE",
+          "Ngara Shopping Centre"
         ],
-        "to": "Mr Angatia"
+        "to": "Ngara Shopping Centre"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "IGAD",
-          "Igad"
+          "Thika",
+          "THIKA"
         ],
-        "to": "IGAD"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
-          "International Conference On Population and Development",
-          "International Conference on Population and Development"
-        ],
-        "to": "International Conference On Population and Development"
+        "to": "Thika"
       },
       {
         "fromBlank": false,
@@ -234,19 +847,28 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "San Francisco",
-          "SAN FRANCISCO"
+          "Ma.ss Communications",
+          "Mass Communications"
         ],
-        "to": "San Francisco"
+        "to": "Mass Communications"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "STD Control Programme",
-          "Std Control Programme"
+          "Southeast Asia",
+          "South-east Asia"
         ],
-        "to": "STD Control Programme"
+        "to": "Southeast Asia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenyatta International Conference Centre",
+          "Kenyatta International Conference' Centre"
+        ],
+        "to": "Kenyatta International Conference Centre"
       },
       {
         "fromBlank": false,
@@ -261,73 +883,82 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Beijing",
-          "BEIJING"
+          "University",
+          "~ University"
         ],
-        "to": "Beijing"
+        "to": "University"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Hepatitis B",
-          "Hepatitis B Hepatitis B"
+          "SHINTARO ISHIHARA",
+          "Shintaro Ishihara"
         ],
-        "to": "Hepatitis B"
+        "to": "Shintaro Ishihara"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Africa",
-          "Africa Africa"
+          "Marsabit",
+          "MARSABIT"
         ],
-        "to": "Africa"
+        "to": "Marsabit"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Kisumu",
-          "KISUMU"
+          "GEORGINA",
+          "Georgina"
         ],
-        "to": "Kisumu"
+        "to": "Georgina"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "OCHIENG",
-          "Ochieng"
+          "Kinshasa",
+          "KINSHASA"
         ],
-        "to": "OCHIENG"
+        "to": "Kinshasa"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Nascop",
-          "NASCOP"
+          "Wanjiku",
+          "WanJIku"
         ],
-        "to": "Nascop"
+        "to": "Wanjiku"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Paris",
-          "PARIS"
+          "City Council",
+          "City' Council"
         ],
-        "to": "Paris"
+        "to": "City Council"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "USA",
-          "U.S.A."
+          "ITR",
+          "Itr"
         ],
-        "to": "USA"
+        "to": "ITR"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Finland",
+          "FInland"
+        ],
+        "to": "Finland"
       },
       {
         "fromBlank": false,
@@ -342,55 +973,55 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "NGOs",
-          "NGOS"
+          "Wajir",
+          "WAJIR"
         ],
-        "to": "NGOs"
+        "to": "Wajir"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "CHEGE",
-          "Chege"
+          "Edinburgh",
+          "EDINBURGH"
         ],
-        "to": "CHEGE"
+        "to": "Edinburgh"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "WINDHOEK",
-          "Windhoek"
+          "Naivasha",
+          "NAIVASHA"
         ],
-        "to": "Windhoek"
+        "to": "Naivasha"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Arusha",
-          "ARUSHA"
+          "Joint United Nations",
+          "United Nations Joint"
         ],
-        "to": "Arusha"
+        "to": "Joint United Nations"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Unicef",
-          "UNICEF"
+          "Dorothy Munyakho",
+          "DOROTHY MUNYAKHO"
         ],
-        "to": "Unicef"
+        "to": "Dorothy Munyakho"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Geneva",
-          "GENEVA"
+          "Baghdad",
+          "BAGHDAD"
         ],
-        "to": "Geneva"
+        "to": "Baghdad"
       },
       {
         "fromBlank": false,
@@ -405,37 +1036,37 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "DAVID KURIA",
-          "David Kuria"
+          "Dr Isahakia",
+          "Dr. Isahakia"
         ],
-        "to": "David Kuria"
+        "to": "Dr Isahakia"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "University of Nairobi",
-          "University Of Nairobi"
+          "LILONGWE",
+          "Lilongwe"
         ],
-        "to": "University of Nairobi"
+        "to": "Lilongwe"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "John",
-          "John*"
+          "Kisii",
+          "KISII"
         ],
-        "to": "John"
+        "to": "Kisii"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "UN Programme",
-          "U.N Programme"
+          "Hotel Inter Continental",
+          "Inter Continental Hotel"
         ],
-        "to": "UN Programme"
+        "to": "Hotel Inter Continental"
       },
       {
         "fromBlank": false,
@@ -450,28 +1081,10 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Blantyre",
-          "BLANTYRE"
+          "LORRAINE ANYANGO",
+          "Lorraine Anyango"
         ],
-        "to": "Blantyre"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
-          "Kenya",
-          "KENYA"
-        ],
-        "to": "Kenya"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
-          "Nairobi",
-          "NAIROBI"
-        ],
-        "to": "Nairobi"
+        "to": "Lorraine Anyango"
       },
       {
         "fromBlank": false,
@@ -486,19 +1099,37 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Zambia",
-          "ZambIa"
+          "Lucy Oriang",
+          "LUCY ORIANG"
         ],
-        "to": "Zambia"
+        "to": "Lucy Oriang"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Florence",
-          "FLORENCE"
+          "Services International",
+          "International Services"
         ],
-        "to": "Florence"
+        "to": "Services International"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Magic Johnson",
+          "MagiC Johnson"
+        ],
+        "to": "Magic Johnson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Peter",
+          "Mr. Peter"
+        ],
+        "to": "Mr Peter"
       },
       {
         "fromBlank": false,
@@ -513,15 +1144,6 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Ministry of Public Health",
-          "Ministry Of Public Health"
-        ],
-        "to": "Ministry of Public Health"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
           "Johnson",
           "Johnson & Johnson"
         ],
@@ -531,154 +1153,181 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "United States Food and Drug Administration",
-          "United States' Food and Drug Administration"
+          "Sagem",
+          "SAGEM"
         ],
-        "to": "United States Food and Drug Administration"
+        "to": "Sagem"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "VANCOUVER",
-          "Vancouver"
+          "Wainaina",
+          "WAINAINA"
         ],
-        "to": "Vancouver"
+        "to": "Wainaina"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Mr Michel Sidibe",
-          "Mr. Michel Sidibe"
+          "SHARPEVILLE",
+          "Sharpeville"
         ],
-        "to": "Mr Michel Sidibe"
+        "to": "Sharpeville"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "NATION Correspondent Aids",
-          "Nation Correspondent Aids"
+          "Kenya National Aids Control Programme",
+          "Kenya National AIDS Control Programme"
         ],
-        "to": "Nation Correspondent Aids"
+        "to": "Kenya National AIDS Control Programme"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "MIAMI",
-          "Miami"
+          "GIBSON KAMAU KURIA",
+          "Gibson Kamau Kuria"
         ],
-        "to": "Miami"
+        "to": "Gibson Kamau Kuria"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "CAPE TOWN",
-          "Cape Town"
+          "Graduate Diploma In Education",
+          "Graduate Diploma in Education"
         ],
-        "to": "Cape Town"
+        "to": "Graduate Diploma In Education"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "U.S. Census Bureau",
-          "US Census Bureau"
+          "Lake Victoria",
+          "~ Lake Victoria"
         ],
-        "to": "U.S. Census Bureau"
+        "to": "Lake Victoria"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "AMFAR",
-          "amfAR"
+          "NGERE TEA FACTORY CO. LTD",
+          "Ngere Tea Factory Co. Ltd"
         ],
-        "to": "AMFAR"
+        "to": "Ngere Tea Factory Co. Ltd"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "CHRIS ERASMUS",
-          "Chris Erasmus"
+          "Kenya Anti Corruption Commission",
+          "Kenya Anti- Corruption Commission"
         ],
-        "to": "Chris Erasmus"
+        "to": "Kenya Anti-Corruption Commission"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Mr Av√©rno",
-          "Mr. Av√©rno"
+          "Moscow",
+          "MOSCOW"
         ],
-        "to": "Mr Av√©rno"
+        "to": "Moscow"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Derrick",
-          "Derrick*"
+          "Inc",
+          "Inc."
         ],
-        "to": "Derrick"
+        "to": "Inc"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "New York",
-          "NEW YORK"
+          "Revlon",
+          "REVLON"
         ],
-        "to": "New York"
+        "to": "Revlon"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Pepfar",
-          "PEPFAR"
+          "Marakwet",
+          "MARAKWET"
         ],
-        "to": "Pepfar"
+        "to": "Marakwet"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Chris",
-          "Chris*"
+          "International Development Association",
+          "International Development & Association"
         ],
-        "to": "Chris"
+        "to": "International Development Association"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Mr Mugavana",
-          "Mr. Mugavana"
+          "Congress Party",
+          "Party Congress"
         ],
-        "to": "Mr Mugavana"
+        "to": "Congress Party"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "IDAHO",
-          "Idaho"
+          "Kilaikon",
+          "Kilaikon Kilaikon"
         ],
-        "to": "Idaho"
+        "to": "Kilaikon"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Uganda",
-          "uganda"
+          "NEPHAK",
+          "Nephak"
         ],
-        "to": "Uganda"
+        "to": "Nephak"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tom Mboya",
+          "TOM MBOYA"
+        ],
+        "to": "Tom Mboya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Magara",
+          "MAGARA"
+        ],
+        "to": "Magara"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Mwai Kibaki",
+          "Mr. Mwai Kibaki"
+        ],
+        "to": "Mr. Mwai Kibaki"
       },
       {
         "fromBlank": false,
@@ -693,10 +1342,10 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Virodene",
-          "Virodene Virodene"
+          "Brussels",
+          "BRUSSELS"
         ],
-        "to": "Virodene"
+        "to": "Brussels"
       },
       {
         "fromBlank": false,
@@ -720,10 +1369,10 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Asunta Wagura",
-          "ASUNTA WAGURA"
+          "Mwai Kibaki",
+          "Mwai' Kibaki"
         ],
-        "to": "Asunta Wagura"
+        "to": "Mwai Kibaki"
       },
       {
         "fromBlank": false,
@@ -738,19 +1387,865 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "East Africa",
-          "Africa EAST AFRICA"
+          "Act Of Parliament",
+          "Act of Parliament"
         ],
-        "to": "East Africa"
+        "to": "Act Of Parliament"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Paul Chuke",
-          "Paul' Chuke"
+          "JULIUS BOSIRE",
+          "Julius Bosire"
         ],
-        "to": "Paul Chuke"
+        "to": "Julius Bosire"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Benson Kimathi",
+          "BENSON KIMATHI"
+        ],
+        "to": "Benson Kimathi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Msa",
+          "MSA"
+        ],
+        "to": "Msa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MSC",
+          "MSc"
+        ],
+        "to": "MSC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Community Development",
+          "Development Community"
+        ],
+        "to": "Community Development"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kericho",
+          "KERICHO"
+        ],
+        "to": "Kericho"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kakamega",
+          "KAKAMEGA"
+        ],
+        "to": "Kakamega"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NIXON",
+          "Nixon"
+        ],
+        "to": "Nixon"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DENNIS ODUNGA",
+          "Dennis Odunga"
+        ],
+        "to": "Dennis Odunga"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DARMSTADT",
+          "Darmstadt"
+        ],
+        "to": "Darmstadt"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADA",
+          "Ada"
+        ],
+        "to": "ADA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "IPM",
+          "Ipm"
+        ],
+        "to": "IPM"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "STUTTGART",
+          "Stuttgart"
+        ],
+        "to": "Stuttgart"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "GAZA CITY",
+          "Gaza City"
+        ],
+        "to": "Gaza City"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "McIntyre",
+          "Mcintyre"
+        ],
+        "to": "McIntyre"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kimathi St. Tel",
+          "Kimathi St. Tel."
+        ],
+        "to": "Kimathi St. Tel"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jerusalem",
+          "JERUSALEM"
+        ],
+        "to": "Jerusalem"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mwingi",
+          "MWINGI"
+        ],
+        "to": "Mwingi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Harvard AIDS Institute",
+          "Harvard Aids Institute"
+        ],
+        "to": "Harvard AIDS Institute"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KEVIN J KELLEY",
+          "KEVIN J. KELLEY"
+        ],
+        "to": "Kevin J. Kelley"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ActionAid",
+          "ACTIONAID"
+        ],
+        "to": "ActionAid"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "EVAN MWANGI",
+          "Evan Mwangi"
+        ],
+        "to": "Evan Mwangi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mary Robinson",
+          "MARY ROBINSON"
+        ],
+        "to": "Mary Robinson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ethiopia",
+          "EthIopIa"
+        ],
+        "to": "Ethiopia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Population Services International",
+          "'Population Services International"
+        ],
+        "to": "Population Services International"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Northern Kenya",
+          "northern Kenya"
+        ],
+        "to": "Northern Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PATRICK MATHANGANI",
+          "Patrick Mathangani"
+        ],
+        "to": "Patrick Mathangani"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "French Association of Hemophiliacs",
+          "Association of French Hemophiliacs"
+        ],
+        "to": "French Association of Hemophiliacs"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Project Uhuru",
+          "Uhuru Project"
+        ],
+        "to": "Project Uhuru"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AHMEDABAD",
+          "Ahmedabad"
+        ],
+        "to": "Ahmedabad"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jomo Kenyatta",
+          "JOMO KENYATTA"
+        ],
+        "to": "Jomo Kenyatta"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nyanza",
+          "NYANZA"
+        ],
+        "to": "Nyanza"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "U.S. Centers for Disease Control and Prevention",
+          "US Centers for Disease Control and Prevention"
+        ],
+        "to": "U.S. Centers for Disease Control and Prevention"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Angatia",
+          "Mr. Angatia"
+        ],
+        "to": "Mr. Angatia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "IGAD",
+          "Igad"
+        ],
+        "to": "Igad"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "S. N Peter Designers",
+          "S. N. Peter Designers"
+        ],
+        "to": "S. N. Peter Designers"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Lesotho",
+          "Lesotho Lesotho"
+        ],
+        "to": "Lesotho"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "San Francisco",
+          "SAN FRANCISCO"
+        ],
+        "to": "San Francisco"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Unep",
+          "UNEP"
+        ],
+        "to": "Unep"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SCANIA",
+          "Scania"
+        ],
+        "to": "Scania"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Aids Control",
+          "National AIDS Control"
+        ],
+        "to": "National Aids Control"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DOROTHY KWEYU",
+          "Dorothy Kweyu"
+        ],
+        "to": "Dorothy Kweyu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BUJUMBURA",
+          "Bujumbura"
+        ],
+        "to": "Bujumbura"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Government",
+          "Government Kenya"
+        ],
+        "to": "Kenya Government"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CountyCounciVADC House",
+          "CountyCouncivADC House"
+        ],
+        "to": "CountyCounciVADC House"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Narok",
+          "NAROK"
+        ],
+        "to": "Narok"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BASEL",
+          "Basel"
+        ],
+        "to": "Basel"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JAMES RATEMO",
+          "James Ratemo"
+        ],
+        "to": "James Ratemo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "General Election",
+          "General ElectIOn"
+        ],
+        "to": "General Election"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kiama",
+          "KIAMA"
+        ],
+        "to": "Kiama"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ouagadougou",
+          "OUAGADOUGOU"
+        ],
+        "to": "Ouagadougou"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "John Kamau",
+          "JOHN KAMAU"
+        ],
+        "to": "John Kamau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nbo",
+          "Nbo Nbo"
+        ],
+        "to": "Nbo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Speaker",
+          "Mr. Speaker"
+        ],
+        "to": "Mr. Speaker"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AIC",
+          "Aic"
+        ],
+        "to": "AIC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ADNOC",
+          "Adnoc"
+        ],
+        "to": "ADNOC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UNGA",
+          "Unga"
+        ],
+        "to": "UNGA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "John",
+          "John*"
+        ],
+        "to": "John"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SEVERIN",
+          "Severin"
+        ],
+        "to": "Severin"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Human Rights Commission",
+          "Kenya Human RIghts Commission"
+        ],
+        "to": "Kenya Human Rights Commission"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NATION Correspondent",
+          "Nation Correspondent"
+        ],
+        "to": "Nation Correspondent"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mandera",
+          "MANDERA"
+        ],
+        "to": "Mandera"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Napster",
+          "NAPSTER"
+        ],
+        "to": "Napster"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nbi",
+          "NBI"
+        ],
+        "to": "Nbi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Samsung",
+          "SAMSUNG"
+        ],
+        "to": "Samsung"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Unifem",
+          "UNIFEM"
+        ],
+        "to": "Unifem"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dr Kinuthia",
+          "Dr. Kinuthia"
+        ],
+        "to": "Dr. Kinuthia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Busia",
+          "BUSIA"
+        ],
+        "to": "Busia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mogadishu",
+          "MOGADISHU"
+        ],
+        "to": "Mogadishu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ANTANANARIVO",
+          "Antananarivo"
+        ],
+        "to": "Antananarivo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Daily NATION Nairobi",
+          "DAILY NATION Nairobi"
+        ],
+        "to": "Daily NATION Nairobi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Congo BRAZZAVILLE",
+          "Congo Brazzaville"
+        ],
+        "to": "Congo Brazzaville"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Banker's Association",
+          "Bankers' Association"
+        ],
+        "to": "Banker's Association"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SmithKline Beecham",
+          "Smithkline Beecham"
+        ],
+        "to": "SmithKline Beecham"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JOSEPH MATHENGE",
+          "Joseph Mathenge"
+        ],
+        "to": "Joseph Mathenge"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PETER NG",
+          "Peter Ng"
+        ],
+        "to": "Peter Ng"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hungary",
+          "HungarY"
+        ],
+        "to": "Hungary"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DANIEL KAMAU",
+          "Daniel Kamau"
+        ],
+        "to": "Daniel Kamau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Denmark",
+          "DENMARK"
+        ],
+        "to": "Denmark"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Norton",
+          "NORTON"
+        ],
+        "to": "Norton"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Amani Amani Counselling Centre and Training Institute",
+          "Amani Counselling Centre and Training Institute"
+        ],
+        "to": "Amani Amani Counselling Centre and Training Institute"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Toronto",
+          "TORONTO"
+        ],
+        "to": "Toronto"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cosatu",
+          "COSATU"
+        ],
+        "to": "Cosatu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "New York",
+          "NEW YORK"
+        ],
+        "to": "New York"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "James Njoroge",
+          "JAMES NJOROGE"
+        ],
+        "to": "James Njoroge"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Medical Practitioners and Dentists Board",
+          "Medical Practitioners And Dentists Board"
+        ],
+        "to": "Medical Practitioners and Dentists Board"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mary",
+          "~ Mary"
+        ],
+        "to": "Mary"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gumbihi Hudson",
+          "Hudson Gumbihi"
+        ],
+        "to": "Gumbihi Hudson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PAULINE NGUNJIRI",
+          "Pauline Ngunjiri"
+        ],
+        "to": "Pauline Ngunjiri"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PEPFAR",
+          "Pepfar"
+        ],
+        "to": "Pepfar"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ENA",
+          "Ena"
+        ],
+        "to": "ENA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Iel",
+          "IEl"
+        ],
+        "to": "IEl"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Medical Research Institute",
+          "KENYA Kenya Medical Research InstItute"
+        ],
+        "to": "Kenya Medical Research Institute"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "US State Department",
+          "U.S. State Department"
+        ],
+        "to": "U.S. State Department"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kim Dae-Jung",
+          "Kim Dae-jung"
+        ],
+        "to": "Kim Dae-Jung"
       },
       {
         "fromBlank": false,
@@ -765,46 +2260,46 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "National Aids/STD Control Programme",
-          "National AIDS/STD Control Programme"
+          "Panasonic",
+          "PANASONIC"
         ],
-        "to": "National Aids/STD Control Programme"
+        "to": "Panasonic"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "International AIDS Conference",
-          "International Aids Conference"
+          "Asmara",
+          "ASMARA"
         ],
-        "to": "International AIDS Conference"
+        "to": "Asmara"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Mulindi",
-          "MULINDI"
+          "Patrick Ngugi",
+          "PATRICK NGUGI"
         ],
-        "to": "Mulindi"
+        "to": "Patrick Ngugi"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "HARARE",
-          "Harare"
+          "National Assembly",
+          "NatIOnal Assembly"
         ],
-        "to": "Harare"
+        "to": "National Assembly"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "US",
-          "U.S."
+          "SHAMLAL PURl",
+          "Shamlal Purl"
         ],
-        "to": "US"
+        "to": "Shamlal Purl"
       },
       {
         "fromBlank": false,
@@ -819,64 +2314,28 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Los Angeles",
-          "LOS ANGELES"
+          "Fawe",
+          "FAWE"
         ],
-        "to": "Los Angeles"
+        "to": "Fawe"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "DARMSTADT",
-          "Darmstadt"
+          "DAN TENG",
+          "Dan Teng"
         ],
-        "to": "DARMSTADT"
+        "to": "Dan Teng"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Kenya Institute of Education",
-          "Kenya Institute Of Education"
+          "North Eastern Province",
+          "North Eastern province"
         ],
-        "to": "Kenya Institute of Education"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
-          "UK",
-          "U.K."
-        ],
-        "to": "UK"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
-          "Eastern Africa",
-          "eastern Africa"
-        ],
-        "to": "Eastern Africa"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
-          "JOHN OYWA",
-          "John Oywa"
-        ],
-        "to": "John Oywa"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
-          "Mr Otieno",
-          "Mr. Otieno"
-        ],
-        "to": "Mr Otieno"
+        "to": "North Eastern Province"
       },
       {
         "fromBlank": false,
@@ -900,8 +2359,1745 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "GABORONE",
-          "Gaborone"
+          "Ali Taib",
+          "Taib Ali Taib"
+        ],
+        "to": "Ali Taib"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Lesetedi",
+          "Mr. Lesetedi"
+        ],
+        "to": "Mr Lesetedi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TONY KAGO",
+          "Tony Kago"
+        ],
+        "to": "Tony Kago"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ELISHA OTIENO",
+          "Elisha Otieno"
+        ],
+        "to": "Elisha Otieno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "GeorgetoWn University",
+          "Georgetown University"
+        ],
+        "to": "Georgetown University"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Co-operative Bank",
+          "Cooperative Bank"
+        ],
+        "to": "Cooperative Bank"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ASTANA",
+          "Astana"
+        ],
+        "to": "Astana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Moody Awori",
+          "Moody Aw.ori"
+        ],
+        "to": "Moody Awori"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Chicago",
+          "CHICAGO"
+        ],
+        "to": "Chicago"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Epi",
+          "EPI"
+        ],
+        "to": "EPI"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kisumu District",
+          "KIsumu District"
+        ],
+        "to": "Kisumu District"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Lagos",
+          "LAGOS"
+        ],
+        "to": "Lagos"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Boeing",
+          "BOEING"
+        ],
+        "to": "Boeing"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Maua",
+          "MAUA"
+        ],
+        "to": "Maua"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "South",
+          "South ~"
+        ],
+        "to": "South"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Belgrade",
+          "BELGRADE"
+        ],
+        "to": "Belgrade"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tanganyika",
+          "TanganYika"
+        ],
+        "to": "Tanganyika"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "World Health Organisa",
+          "W.orld Health Organisa"
+        ],
+        "to": "World Health Organisation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TOYOTA EAST AFRICA",
+          "Toyota East Africa"
+        ],
+        "to": "Toyota East Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Thomson",
+          "THOMSON"
+        ],
+        "to": "Thomson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Oduor",
+          "ODUOR"
+        ],
+        "to": "Oduor"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tokyo",
+          "TOKYO"
+        ],
+        "to": "Tokyo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Phil",
+          "Phil!"
+        ],
+        "to": "Phil"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Carol",
+          "Carol*"
+        ],
+        "to": "Carol"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Council of Women",
+          "National Council of Women of"
+        ],
+        "to": "National Council of Women"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bombay",
+          "BOMBAY"
+        ],
+        "to": "Bombay"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "FDD",
+          "Fdd"
+        ],
+        "to": "FDD"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mauritius",
+          "MAURITIUS"
+        ],
+        "to": "Mauritius"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Congo",
+          "~ Congo"
+        ],
+        "to": "Congo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Daniel Toroitich",
+          "DANIEL TOROITICH"
+        ],
+        "to": "Daniel Toroitich"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Finance and Administration",
+          "Administration and Finance"
+        ],
+        "to": "Finance and Administration"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Maina",
+          "MAINA"
+        ],
+        "to": "Maina"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "VICTOR BWIRE",
+          "Victor Bwire"
+        ],
+        "to": "Victor Bwire"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PricewaterhouseCoopers",
+          "PriceWaterhouseCoopers"
+        ],
+        "to": "PricewaterhouseCoopers"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Margaret Gachara",
+          "MARGARET GACHARA"
+        ],
+        "to": "Margaret Gachara"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mtwapa",
+          "MTWAPA"
+        ],
+        "to": "Mtwapa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TOSHIBA",
+          "Toshiba"
+        ],
+        "to": "TOSHIBA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "WANGUI GACHIE",
+          "Wangui Gachie"
+        ],
+        "to": "Wangui Gachie"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "VOA",
+          "VoA"
+        ],
+        "to": "VOA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "& School Nairobi",
+          "Nairobi School"
+        ],
+        "to": "Nairobi School"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kisumu",
+          "KISUMU"
+        ],
+        "to": "Kisumu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ochieng",
+          "OCHIENG"
+        ],
+        "to": "Ochieng"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ICL",
+          "Icl"
+        ],
+        "to": "ICL"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Patasse",
+          "Mr Patasse."
+        ],
+        "to": "Mr. Patasse"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PAUL UDOTO",
+          "Paul Udoto"
+        ],
+        "to": "Paul Udoto"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nascop",
+          "NASCOP"
+        ],
+        "to": "Nascop"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Barcelona",
+          "BARCELONA"
+        ],
+        "to": "Barcelona"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Green Card",
+          "Green Card Green Card"
+        ],
+        "to": "Green Card"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Reuters",
+          "Reuters Reuters"
+        ],
+        "to": "Reuters"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Seattle",
+          "SEATTLE"
+        ],
+        "to": "Seattle"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Medical Women's Association",
+          "Kenya Women's Medical Association"
+        ],
+        "to": "Kenya Women's Medical Association"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Levell",
+          "Levell *"
+        ],
+        "to": "Levell"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Morocco",
+          "' Morocco"
+        ],
+        "to": "Morocco"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "WERU",
+          "Weru"
+        ],
+        "to": "Weru"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nicholas Alipui",
+          "NICHOLAS ALIPUI"
+        ],
+        "to": "Nicholas Alipui"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Lome",
+          "LOME"
+        ],
+        "to": "Lome"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Homecare Jingles& General",
+          "Homecare Jingles General"
+        ],
+        "to": "Homecare Jingles General"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "British Department for International Development",
+          "British Department For International Development"
+        ],
+        "to": "British Department for International Development"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Services",
+          "~ Services"
+        ],
+        "to": "Services"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JOSEPH MUTUA",
+          "Joseph Mutua"
+        ],
+        "to": "Joseph Mutua"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "University College",
+          "Univers.ity College"
+        ],
+        "to": "University College"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Merck",
+          "~ Merck &"
+        ],
+        "to": "Merck"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ministry of Education, Science and Technology",
+          "Ministry Of Education Science and Technology"
+        ],
+        "to": "Ministry of Education, Science and Technology"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Science Teachers College",
+          "Kenya Science' Teachers College"
+        ],
+        "to": "Kenya Science Teachers College"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "United States Food and Drug Administration",
+          "United States' Food and Drug Administration"
+        ],
+        "to": "United States Food and Drug Administration"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mbabane",
+          "MBABANE"
+        ],
+        "to": "Mbabane"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Thuo",
+          "Mr. Thuo"
+        ],
+        "to": "Mr. Thuo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Malaki Owili",
+          "Owili Malaki"
+        ],
+        "to": "Malaki Owili"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Athi River",
+          "ATHI River"
+        ],
+        "to": "Athi River"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bob Odalo",
+          "BOB ODALO"
+        ],
+        "to": "Bob Odalo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bethlehem",
+          "BETHLEHEM"
+        ],
+        "to": "Bethlehem"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Education Ministry",
+          "Ministry Education"
+        ],
+        "to": "Education Ministry"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "GEORGE MUNENE",
+          "George Munene"
+        ],
+        "to": "George Munene"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Anyang' Nyong",
+          "Anyang Nyong"
+        ],
+        "to": "Anyang Nyong"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ngugi Wa Thiong",
+          "Ngugi wa Thiong"
+        ],
+        "to": "Ngugi Wa Thiong"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NatIOnal Examinations Council",
+          "National Examinations Council"
+        ],
+        "to": "National Examinations Council"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mau Mau",
+          "Mau Mau Mau"
+        ],
+        "to": "Mau Mau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Animal Science or Dairy Technology Qualifications",
+          "Qualifications Dairy Technology or Animal Science"
+        ],
+        "to": "Animal Science or Dairy Technology Qualifications"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Securicor",
+          "SECURICOR"
+        ],
+        "to": "Securicor"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CONAKRY",
+          "Conakry"
+        ],
+        "to": "Conakry"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Armed Forces",
+          "~ Armed Forces"
+        ],
+        "to": "Armed Forces"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Matiba",
+          "Mr. Matiba"
+        ],
+        "to": "Mr. Matiba"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Libya TRIPOLI",
+          "TRIPOLI Libya"
+        ],
+        "to": "Libya Tripoli"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LORESHO",
+          "Loresho"
+        ],
+        "to": "Loresho"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UNICEF Kenya Country Office",
+          "Unicef Kenya Country Office"
+        ],
+        "to": "UNICEF Kenya Country Office"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kasarani",
+          "KASARANI"
+        ],
+        "to": "Kasarani"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Brazil",
+          "BraziL"
+        ],
+        "to": "Brazil"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NJoro Campus",
+          "Njoro Campus"
+        ],
+        "to": "NJoro Campus"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Paul Chuke",
+          "Paul' Chuke"
+        ],
+        "to": "Paul Chuke"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TII",
+          "Tii"
+        ],
+        "to": "TII"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Athens",
+          "ATHENS"
+        ],
+        "to": "Athens"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Baltimore David Baltimore",
+          "David Baltimore"
+        ],
+        "to": "Baltimore David Baltimore"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Paul Waweru",
+          "PAUL WAWERU"
+        ],
+        "to": "Paul Waweru"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Health Organisation",
+          "Health OrganIsatIon"
+        ],
+        "to": "Health Organisation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Loreto",
+          "LORETO"
+        ],
+        "to": "Loreto"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nacada",
+          "NACADA"
+        ],
+        "to": "Nacada"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sony",
+          "SONY"
+        ],
+        "to": "Sony"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Seat Upholstery Care",
+          "& & Seat Upholstery Care"
+        ],
+        "to": "Seat Upholstery Care"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cosmos Ltd",
+          "Cosmos Ltd."
+        ],
+        "to": "Cosmos Ltd."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Institute of Primate Research",
+          "Institute of Primate Research!"
+        ],
+        "to": "Institute of Primate Research"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Julius Gikony.o Kiano",
+          "Julius Gikonyo Kiano"
+        ],
+        "to": "Julius Gikonyo Kiano"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kamau",
+          "KAMAU"
+        ],
+        "to": "Kamau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Lima",
+          "LIMA"
+        ],
+        "to": "Lima"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Peter Piot",
+          "Peter piot"
+        ],
+        "to": "Peter Piot"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fla",
+          "Fla."
+        ],
+        "to": "Fla"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Kaparo",
+          "Mr Mr Kaparo"
+        ],
+        "to": "Mr Kaparo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Uganda Aids Commission",
+          "Uganda AIDS Commission"
+        ],
+        "to": "Uganda AIDS Commission"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KEMSA",
+          "Kemsa"
+        ],
+        "to": "Kemsa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kencell",
+          "KenCell"
+        ],
+        "to": "Kencell"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JEFF OTIENO",
+          "Jeff Otieno"
+        ],
+        "to": "Jeff Otieno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Alex",
+          "Alex."
+        ],
+        "to": "Alex"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Godfrey",
+          "Mr. Godfrey"
+        ],
+        "to": "Mr. Godfrey"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PAUL REDFERN",
+          "Paul Redfern"
+        ],
+        "to": "Paul Redfern"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Coast",
+          "~ Coast"
+        ],
+        "to": "Coast"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KCS",
+          "Kcs"
+        ],
+        "to": "KCS"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Erling Refsum",
+          "Mr. Erling Refsum"
+        ],
+        "to": "Mr. Erling Refsum"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hanoi",
+          "HANOI"
+        ],
+        "to": "Hanoi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "T.he University of Eastern Africa",
+          "The University of Eastern Africa"
+        ],
+        "to": "The University of Eastern Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mary Makokha",
+          "MARY MAKOKHA"
+        ],
+        "to": "Mary Makokha"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Kisumu",
+          "Kisumu Kenya"
+        ],
+        "to": "Kenya Kisumu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Head Office",
+          "~ Head Office"
+        ],
+        "to": "Head Office"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "COPENHAGEN",
+          "Copenhagen"
+        ],
+        "to": "Copenhagen"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BULAWAYO",
+          "Bulawayo"
+        ],
+        "to": "Bulawayo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Reliance Bank Ltd",
+          "Reliance Bank Ltd."
+        ],
+        "to": "Reliance Bank Ltd."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Time Part TIme &",
+          "~ TIme& Part Time"
+        ],
+        "to": "Time Part TIme"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AWA",
+          "Awa"
+        ],
+        "to": "AWA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MaryAnne",
+          "Maryanne"
+        ],
+        "to": "Maryanne"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "STD Control Programme",
+          "Std Control Programme"
+        ],
+        "to": "STD Control Programme"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Coca-Cola",
+          "Coca-cola"
+        ],
+        "to": "Coca-Cola"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cisco",
+          "CISCO"
+        ],
+        "to": "Cisco"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Goransson",
+          "GORANSSON"
+        ],
+        "to": "Goransson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "North Coast",
+          "north Coast"
+        ],
+        "to": "North Coast"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "United States",
+          "United' States"
+        ],
+        "to": "United States"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "B.P.",
+          "BP"
+        ],
+        "to": "B.P."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dubai",
+          "DUBAI"
+        ],
+        "to": "Dubai"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Opec",
+          "OPEC"
+        ],
+        "to": "Opec"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TMA",
+          "tmA"
+        ],
+        "to": "TMA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Millicent Mwololo",
+          "MILLICENT MWOLOLO"
+        ],
+        "to": "Millicent Mwololo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Opel",
+          "OPEL"
+        ],
+        "to": "Opel"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nyatike",
+          "NYATIKE"
+        ],
+        "to": "Nyatike"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Moses",
+          "Moses*"
+        ],
+        "to": "Moses"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Philomena Njoki",
+          "Philomena Njoki*"
+        ],
+        "to": "Philomena Njoki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Paris",
+          "PARIS"
+        ],
+        "to": "Paris"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Vatican",
+          "VATICAN"
+        ],
+        "to": "Vatican"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Elisa",
+          "ELISA"
+        ],
+        "to": "Elisa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BU",
+          "Bu"
+        ],
+        "to": "BU"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NGOs",
+          "NGOS"
+        ],
+        "to": "NGOs"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Arusha",
+          "ARUSHA"
+        ],
+        "to": "Arusha"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Eastern Europe",
+          "eastern Europe"
+        ],
+        "to": "Eastern Europe"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Shinyalu",
+          "SHINYALU"
+        ],
+        "to": "Shinyalu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "A.M",
+          "A.M."
+        ],
+        "to": "A.M."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Baringo",
+          "BARINGO"
+        ],
+        "to": "Baringo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MoU",
+          "MOU"
+        ],
+        "to": "MoU"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ngara",
+          "NGARA"
+        ],
+        "to": "Ngara"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BA",
+          "B.A."
+        ],
+        "to": "BA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mozambique",
+          "MOZAMBIQUE"
+        ],
+        "to": "Mozambique"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Stephen Munyiri",
+          "STEPHEN MUNYIRI"
+        ],
+        "to": "Stephen Munyiri"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TelPosta Towers",
+          "Telposta Towers"
+        ],
+        "to": "TelPosta Towers"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "John Ndirangu",
+          "JOHN NDIRANGU"
+        ],
+        "to": "John Ndirangu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Tourist Board",
+          "_ Kenya Tourist Board"
+        ],
+        "to": "Kenya Tourist Board"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kajiado",
+          "KAJIADO"
+        ],
+        "to": "Kajiado"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ACEH",
+          "Aceh"
+        ],
+        "to": "ACEH"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Beth Mugo",
+          "BETH MUGO"
+        ],
+        "to": "Beth Mugo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NYOKABI KAMAU",
+          "Nyokabi Kamau"
+        ],
+        "to": "Nyokabi Kamau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Acer",
+          "ACER"
+        ],
+        "to": "Acer"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "University of The",
+          "University of The University"
+        ],
+        "to": "University of The"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Chama Cha Mapinduzi",
+          "Chama cha Mapinduzi"
+        ],
+        "to": "Chama Cha Mapinduzi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bernard Otieno",
+          "BERNARD OTIENO"
+        ],
+        "to": "Bernard Otieno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Certificate of Secondary Education",
+          "Kenya Secondary Certificate of Education"
+        ],
+        "to": "Kenya Certificate of Secondary Education"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Miami",
+          "MIAMI"
+        ],
+        "to": "Miami"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "The National AIDS Control Council",
+          "The National Aids Control Council"
+        ],
+        "to": "The National AIDS Control Council"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TOEFL",
+          "Toefl"
+        ],
+        "to": "TOEFL"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Joint United Nations Programme",
+          "United Nations Joint Programme"
+        ],
+        "to": "Joint United Nations Programme"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bungoma",
+          "BUNGOMA"
+        ],
+        "to": "Bungoma"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KFW",
+          "KfW"
+        ],
+        "to": "KFW"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Thatcher",
+          "Thatcher Mr Thatcher"
+        ],
+        "to": "Mr Thatcher"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Unesco",
+          "UNESCO"
+        ],
+        "to": "Unesco"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Cancer Institute",
+          "National Cancer Institute Cancer"
+        ],
+        "to": "National Cancer Institute"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tana River",
+          "River Tana"
+        ],
+        "to": "Tana River"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Djibouti",
+          "DJIBOUTI"
+        ],
+        "to": "Djibouti"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ford-K",
+          "FORD-K"
+        ],
+        "to": "Ford-K"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PETER KIMANI",
+          "Peter Kimani"
+        ],
+        "to": "Peter Kimani"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kapenguria",
+          "KAPENGURIA"
+        ],
+        "to": "Kapenguria"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Taipei",
+          "TAIPEI"
+        ],
+        "to": "Taipei"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "HTV",
+          "HtV"
+        ],
+        "to": "HTV"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UHT & Fresh MIlk",
+          "UHT & Fresh Milk"
+        ],
+        "to": "UHT & Fresh MIlk"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tech",
+          "Tech."
+        ],
+        "to": "Tech"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PHILIP MWANIKI",
+          "Philip Mwaniki"
+        ],
+        "to": "Philip Mwaniki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenyatta National Hospital",
+          "Kenyatta NatIOnal HospItal"
+        ],
+        "to": "Kenyatta National Hospital"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Eastern Africa",
+          "eastern Africa"
+        ],
+        "to": "Eastern Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Laikipia",
+          "LAIKIPIA"
+        ],
+        "to": "Laikipia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Commercial Bank",
+          "~ Commercial Bank"
+        ],
+        "to": "Commercial Bank"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ribeiro House Clinic",
+          "Ribeiro House Clinic Ribeiro House"
+        ],
+        "to": "Ribeiro House Clinic"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gaborone",
+          "GABORONE"
         ],
         "to": "Gaborone"
       },
@@ -909,19 +4105,19 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Isiolo",
-          "ISIOLO"
+          "Force",
+          "~~ Force"
         ],
-        "to": "Isiolo"
+        "to": "Force"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "JERUSALEM",
-          "Jerusalem"
+          "National Water Conservation",
+          "National Water Conservation &"
         ],
-        "to": "Jerusalem"
+        "to": "National Water Conservation"
       },
       {
         "fromBlank": false,
@@ -936,19 +4132,838 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Kari",
-          "KARI"
+          "Kamukunji",
+          "Kamukunji Kamukunji"
         ],
-        "to": "Kari"
+        "to": "Kamukunji"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "MWINGI",
-          "Mwingi"
+          "Kia",
+          "KIA"
         ],
-        "to": "MWINGI"
+        "to": "Kia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Joseph Kaguthi",
+          "JOSEPH KAGUTHI"
+        ],
+        "to": "Joseph Kaguthi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "WANDERA OJANJI",
+          "Wandera Ojanji"
+        ],
+        "to": "Wandera Ojanji"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kephis",
+          "KEPHIS"
+        ],
+        "to": "Kephis"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Robert Ouko",
+          "Ouko Robert"
+        ],
+        "to": "Robert Ouko"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "North Eastern",
+          "North Eastern & Eastern"
+        ],
+        "to": "North Eastern"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nahon",
+          "naHon"
+        ],
+        "to": "Nahon"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Boston",
+          "BOSTON"
+        ],
+        "to": "Boston"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "World Vision Kenya",
+          "World Vision World Vision Kenya"
+        ],
+        "to": "World Vision Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "J.J",
+          "Jj."
+        ],
+        "to": "J.J."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ZENITH",
+          "Zenith"
+        ],
+        "to": "ZENITH"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Botswana",
+          "BOTSWANA"
+        ],
+        "to": "Botswana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CEPA",
+          "Cepa"
+        ],
+        "to": "CEPA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Kimani",
+          "Mr. Kimani"
+        ],
+        "to": "Mr. Kimani"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "I.T.",
+          "It."
+        ],
+        "to": "I.T."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr. Dalmas Otieno",
+          "Mr Dalmas Otieno"
+        ],
+        "to": "Mr. Dalmas Otieno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mbugua",
+          "MBUGUA"
+        ],
+        "to": "Mbugua"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mau Mau Research Centre Mau Mau",
+          "Mau Research Centre"
+        ],
+        "to": "Mau Mau Research Centre Mau Mau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Togo",
+          "toGO"
+        ],
+        "to": "Togo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ISTANBUL",
+          "Istanbul"
+        ],
+        "to": "Istanbul"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Charles Gachuhi",
+          "Gachuhi Charles"
+        ],
+        "to": "Charles Gachuhi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "K.K.",
+          "KK"
+        ],
+        "to": "K.K."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nyahururu",
+          "NYAHURURU"
+        ],
+        "to": "Nyahururu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "George W. Bush",
+          "GEORGE W. BUSH"
+        ],
+        "to": "George W. Bush"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Abuja",
+          "ABUJA"
+        ],
+        "to": "Abuja"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "John Otieno",
+          "JOHN OTIENO"
+        ],
+        "to": "John Otieno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jakarta",
+          "JAKARTA"
+        ],
+        "to": "Jakarta"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "International Conference On Population and Development",
+          "International Conference on Population and Development"
+        ],
+        "to": "International Conference On Population and Development"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Wellington",
+          "WELLINGTON"
+        ],
+        "to": "Wellington"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Genoa",
+          "GENOA"
+        ],
+        "to": "Genoa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kimani",
+          "KIMANI"
+        ],
+        "to": "Kimani"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "august House",
+          "August House"
+        ],
+        "to": "August House"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SOFIA",
+          "Sofia"
+        ],
+        "to": "SOFIA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DAVID ADUDA",
+          "David Aduda"
+        ],
+        "to": "David Aduda"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Leakey",
+          "LEAKEY"
+        ],
+        "to": "Leakey"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Claire Gatheru",
+          "CLAIRE GATHERU"
+        ],
+        "to": "Claire Gatheru"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Devki Steel Mills Ltd.",
+          "Devki Steel Mills Ltd"
+        ],
+        "to": "Devki Steel Mills Ltd."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Association",
+          "~Association"
+        ],
+        "to": "Association"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "HF",
+          "& Hf"
+        ],
+        "to": "HF"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kibera",
+          "KIBERA"
+        ],
+        "to": "Kibera"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "The Kenya Medical Association",
+          "The Kenya Medical Association!"
+        ],
+        "to": "The Kenya Medical Association"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "GN",
+          "gN"
+        ],
+        "to": "GN"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Susan Kamau",
+          "SUSAN KAMAU"
+        ],
+        "to": "Susan Kamau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Khartoum",
+          "KHARTOUM"
+        ],
+        "to": "Khartoum"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ST. TERESA",
+          "St Teresa"
+        ],
+        "to": "St. Teresa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MURIITHI",
+          "Muriithi"
+        ],
+        "to": "Muriithi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nakuru Nakuru Town",
+          "Nakuru Town"
+        ],
+        "to": "Nakuru Nakuru Town"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DAVID KURIA",
+          "David Kuria"
+        ],
+        "to": "DAVID KURIA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fifa",
+          "FIFA"
+        ],
+        "to": "Fifa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bangui",
+          "BANGUI"
+        ],
+        "to": "Bangui"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UN Programme",
+          "U.N Programme"
+        ],
+        "to": "U.N Programme"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dakar",
+          "DAKAR"
+        ],
+        "to": "Dakar"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ministry of Tourism",
+          "~ Ministry of Tourism"
+        ],
+        "to": "Ministry of Tourism"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Blantyre",
+          "BLANTYRE"
+        ],
+        "to": "Blantyre"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dell",
+          "DELL"
+        ],
+        "to": "Dell"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Gates",
+          "Mr Mr Gates"
+        ],
+        "to": "Mr Gates"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Goma",
+          "GOMA"
+        ],
+        "to": "Goma"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KYOCERA",
+          "Kyocera"
+        ],
+        "to": "Kyocera"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Florence",
+          "FLORENCE"
+        ],
+        "to": "Florence"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Anniel Njoka & AP",
+          "Anniel Njoka &AP"
+        ],
+        "to": "Anniel Njoka & AP"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Coalition for Access to Essential Medicines",
+          "Kenya Coalition For Access to Essential Medicines"
+        ],
+        "to": "Kenya Coalition for Access to Essential Medicines"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "St John",
+          "St. John"
+        ],
+        "to": "St. John"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Buru Buru Police Station",
+          "Buru Police Station"
+        ],
+        "to": "Buru Buru Police Station"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KITSEPILE NYATHI",
+          "Kitsepile Nyathi"
+        ],
+        "to": "Kitsepile Nyathi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BERMUDA",
+          "Bermuda"
+        ],
+        "to": "Bermuda"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LTO",
+          "LTo"
+        ],
+        "to": "LTO"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Owuor",
+          "Mr. Owuor"
+        ],
+        "to": "Mr Owuor"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "FUJITSU",
+          "Fujitsu"
+        ],
+        "to": "Fujitsu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NJoroge & Kwach Advocates",
+          "Njoroge & Kwach Advocates"
+        ],
+        "to": "NJoroge & Kwach Advocates"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Bush",
+          "Bush Mr Bush"
+        ],
+        "to": "Mr Bush"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "GM",
+          "gM"
+        ],
+        "to": "GM"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "WAWERU MUGO",
+          "Waweru Mugo"
+        ],
+        "to": "Waweru Mugo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Health Ministry",
+          "Ministry Health"
+        ],
+        "to": "Health Ministry"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Office Administration",
+          "Administration Office"
+        ],
+        "to": "Office Administration"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Idaho",
+          "IDAHO"
+        ],
+        "to": "Idaho"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hussein",
+          "HusSein"
+        ],
+        "to": "Hussein"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Uchumi",
+          "UCHUMI"
+        ],
+        "to": "Uchumi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Associates",
+          "&Associates"
+        ],
+        "to": "Associates"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KABETE TECHNICAL TRAINING INSTITUTE Training",
+          "Kabete Technical Training Institute"
+        ],
+        "to": "Kabete Technical Training Institute"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BIS",
+          "Bis"
+        ],
+        "to": "BIS"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Nyachae",
+          "Mr Mr Nyachae"
+        ],
+        "to": "Mr Nyachae"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DC",
+          "D.C."
+        ],
+        "to": "DC"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Maputo",
+          "MAPUTO"
+        ],
+        "to": "Maputo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Aids/STD Control Programme",
+          "National AIDS/STD Control Programme"
+        ],
+        "to": "National Aids/STD Control Programme"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "International Aids Conference",
+          "International AIDS Conference"
+        ],
+        "to": "International Aids Conference"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ERIC ORINA",
+          "Eric Orina"
+        ],
+        "to": "Eric Orina"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Co",
+          "Co."
+        ],
+        "to": "Co"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Kibaki",
+          "Mr. Kibaki"
+        ],
+        "to": "Mr. Kibaki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "International Community",
+          "InternatIOnal Community"
+        ],
+        "to": "International Community"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CAROLINE NJUNG",
+          "Caroline Njung"
+        ],
+        "to": "Caroline Njung"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JOHN OYWA",
+          "John Oywa"
+        ],
+        "to": "John Oywa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "E.A.",
+          "EA"
+        ],
+        "to": "E.A."
       },
       {
         "fromBlank": false,
@@ -963,28 +4978,964 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "National Aids Control Council",
-          "National AIDs Control Council"
+          "International Aids Society",
+          "International AIDS Society"
         ],
-        "to": "National Aids Control Council"
+        "to": "International Aids Society"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Ngugi",
-          "NGUGI"
+          "DP",
+          "dP"
         ],
-        "to": "Ngugi"
+        "to": "DP"
       },
       {
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "CHICAGO",
-          "Chicago"
+          "Nairobi Women",
+          "NaIrobI Women"
         ],
-        "to": "Chicago"
+        "to": "Nairobi Women"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Arthur Okwemba",
+          "ARTHUR OKWEMBA"
+        ],
+        "to": "Arthur Okwemba"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "HeI",
+          "Hei"
+        ],
+        "to": "HeI"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Health Minister Charity Ngilu",
+          "Health minister Charity Ngilu"
+        ],
+        "to": "Health Minister Charity Ngilu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "University Senate",
+          "UniverSity Senate"
+        ],
+        "to": "University Senate"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Oriental Chinese Herbal Co. Ltd",
+          "Oriental Chinese Herbal Co. Ltd."
+        ],
+        "to": "Oriental Chinese Herbal Co. Ltd"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jomo Kenyatta International Airport",
+          "Jomo Kenyatta International A.irport"
+        ],
+        "to": "Jomo Kenyatta International Airport"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BARNABAS",
+          "Barnabas"
+        ],
+        "to": "Barnabas"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Muriithi Muriuki",
+          "Muriuki Muriithi"
+        ],
+        "to": "Muriithi Muriuki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Musyoka",
+          "Mr Mr Musyoka"
+        ],
+        "to": "Mr Musyoka"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pretoria",
+          "PRETORIA"
+        ],
+        "to": "Pretoria"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Central Africa",
+          "central Africa"
+        ],
+        "to": "Central Africa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Phnom Penh",
+          "PHNOM PENH"
+        ],
+        "to": "Phnom Penh"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Njoro",
+          "NJORO"
+        ],
+        "to": "Njoro"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "WANGULU ELIEZER",
+          "Wangulu Eliezer"
+        ],
+        "to": "Wangulu Eliezer"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Haki",
+          "HAKI HAKI"
+        ],
+        "to": "Haki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UAE",
+          "U.A.E."
+        ],
+        "to": "UAE"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jose Esparza",
+          "JosE Esparza"
+        ],
+        "to": "Jose Esparza"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Wang-oi Njau",
+          "Wangoi Njau"
+        ],
+        "to": "Wang-oi Njau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pasteur Institute",
+          "Institute Pasteur"
+        ],
+        "to": "Pasteur Institute"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Prof Markowitz Prof Martin Markowitz",
+          "Prof Martin Markowitz"
+        ],
+        "to": "Prof Markowitz Prof Martin Markowitz"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Shahnaz Shariff",
+          "Shariff Shahnaz"
+        ],
+        "to": "Shahnaz Shariff"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UN UNITED NATIONS",
+          "UN United Nations"
+        ],
+        "to": "UN United Nations"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "The United States",
+          "The The United States"
+        ],
+        "to": "The United States"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MASESE WINSLEY",
+          "Masese Winsley"
+        ],
+        "to": "Masese Winsley"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National AIDS Control Committee",
+          "National Aids Control Committee"
+        ],
+        "to": "National AIDS Control Committee"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Beijing",
+          "BEIJING"
+        ],
+        "to": "Beijing"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Isuzu",
+          "ISUZU"
+        ],
+        "to": "Isuzu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hepatitis B Hepatitis B",
+          "Hepatitis B"
+        ],
+        "to": "Hepatitis B"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kitui",
+          "KITUI"
+        ],
+        "to": "Kitui"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Embu",
+          "EMBU"
+        ],
+        "to": "Embu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "P.A.",
+          "PA"
+        ],
+        "to": "P.A."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Siemens",
+          "SIEMENS"
+        ],
+        "to": "Siemens"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Programme Management",
+          "Management Programme"
+        ],
+        "to": "Programme Management"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tripoli",
+          "TRIPOLI"
+        ],
+        "to": "Tripoli"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PLI",
+          "Pli"
+        ],
+        "to": "PLI"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr John",
+          "Mr. John"
+        ],
+        "to": "Mr John"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya National Union",
+          "Kenya National Union Kenya"
+        ],
+        "to": "Kenya National Union"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Monrovia",
+          "MONROVIA"
+        ],
+        "to": "Monrovia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nissan",
+          "NISSAN"
+        ],
+        "to": "Nissan"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PS",
+          "P.S."
+        ],
+        "to": "PS"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "P.O.",
+          "P.O"
+        ],
+        "to": "P.O."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "New Delhi",
+          "NEW DELHI"
+        ],
+        "to": "New Delhi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Comesa",
+          "COMESA"
+        ],
+        "to": "Comesa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Chege",
+          "CHEGE"
+        ],
+        "to": "Chege"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Windhoek",
+          "WINDHOEK"
+        ],
+        "to": "Windhoek"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "U.S. Centers for Disease Control",
+          "US Centers for Disease Control"
+        ],
+        "to": "U.S. Centers for Disease Control"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ICASA",
+          "Icasa"
+        ],
+        "to": "ICASA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Inter-Continental",
+          "InterContinental"
+        ],
+        "to": "Inter-Continental"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bank of Kenya",
+          "BANK OF KENYA KENYA KENYA KENYA"
+        ],
+        "to": "Bank of Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Geneva",
+          "GENEVA"
+        ],
+        "to": "Geneva"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "OCs",
+          "OCS"
+        ],
+        "to": "OCs"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dar-es-Salaam",
+          "Dar-es-salaam"
+        ],
+        "to": "Dar-es-Salaam"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Western",
+          "& Western"
+        ],
+        "to": "Western"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Natsios",
+          "Mr. Natsios"
+        ],
+        "to": "Mr. Natsios"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Eastleigh",
+          "EASTLEIGH"
+        ],
+        "to": "Eastleigh"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Rome",
+          "ROME"
+        ],
+        "to": "Rome"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DANIDA",
+          "Danida"
+        ],
+        "to": "Danida"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tehran",
+          "TEHRAN"
+        ],
+        "to": "Tehran"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "George Saitoti",
+          "George Saitoti."
+        ],
+        "to": "George Saitoti"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "The International Federation of Red Cross",
+          "The International Federation of the Red Cross"
+        ],
+        "to": "The International Federation of Red Cross"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NATION Correspondent Local",
+          "Nation Correspondent Local"
+        ],
+        "to": "Nation Correspondent Local"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "STEPHEN MUIRURI",
+          "Stephen Muiruri"
+        ],
+        "to": "Stephen Muiruri"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Vancouver",
+          "VANCOUVER"
+        ],
+        "to": "Vancouver"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Michel Sidibe",
+          "Mr. Michel Sidibe"
+        ],
+        "to": "Mr. Michel Sidibe"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MARTIN TELEWA",
+          "Martin Telewa"
+        ],
+        "to": "Martin Telewa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "FIDELITY",
+          "Fidelity"
+        ],
+        "to": "Fidelity"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Muranga",
+          "MURANGA"
+        ],
+        "to": "Muranga"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "U.S. Census Bureau",
+          "US Census Bureau"
+        ],
+        "to": "U.S. Census Bureau"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CHRIS ERASMUS",
+          "Chris Erasmus"
+        ],
+        "to": "Chris Erasmus"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Av√©rno",
+          "Mr. Av√©rno"
+        ],
+        "to": "Mr Averno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Derrick",
+          "Derrick*"
+        ],
+        "to": "Derrick"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Riyadh",
+          "RIYADH"
+        ],
+        "to": "Riyadh"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LILIAN",
+          "Lilian"
+        ],
+        "to": "Lilian"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MAGGIE FOX",
+          "Maggie Fox"
+        ],
+        "to": "Maggie Fox"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MUCHEMI WACHIRA",
+          "Muchemi Wachira"
+        ],
+        "to": "Muchemi Wachira"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Salim Ahmed Salim",
+          "Ahmed Salim"
+        ],
+        "to": "Salim Ahmed Salim"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Chris",
+          "Chris*"
+        ],
+        "to": "Chris"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Mugavana",
+          "Mr. Mugavana"
+        ],
+        "to": "Mr Mugavana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dentists Board",
+          "Dentists' Board"
+        ],
+        "to": "Dentists Board"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "FIDA",
+          "Fida"
+        ],
+        "to": "FIDA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Treasury",
+          "~ Treasury"
+        ],
+        "to": "Treasury"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Foundation for AIDS Research",
+          "Foundation for Aids Research"
+        ],
+        "to": "Foundation for AIDS Research"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Health and Finance",
+          "Finance and Health"
+        ],
+        "to": "Health and Finance"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Algiers",
+          "ALGIERS"
+        ],
+        "to": "Algiers"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pfizer Inc",
+          "Pfizer Inc."
+        ],
+        "to": "Pfizer Inc."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Malawi",
+          "MalawI"
+        ],
+        "to": "Malawi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JAMES MWANGI",
+          "James Mwangi"
+        ],
+        "to": "James Mwangi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NGO Co-ordination Board",
+          "NGO Coordination Board"
+        ],
+        "to": "NGO Co-ordination Board"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Harold Wackman",
+          "Mr. Harold Wackman"
+        ],
+        "to": "Mr. Harold Wackman"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LR",
+          "L.R."
+        ],
+        "to": "LR"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mulindi",
+          "MULINDI"
+        ],
+        "to": "Mulindi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BAE",
+          "BAe"
+        ],
+        "to": "BAE"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Kamande Mwangi",
+          "Mr Mwangi Kamande"
+        ],
+        "to": "Mr. Kamande Mwangi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Los Angeles",
+          "LOS ANGELES"
+        ],
+        "to": "Los Angeles"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sarajevo",
+          "SARAJEVO"
+        ],
+        "to": "Sarajevo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Foundation Agency For Rural Development",
+          "Foundation Agency for Rural Development"
+        ],
+        "to": "Foundation Agency For Rural Development"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Institute of Education",
+          "Kenya Institute Of Education"
+        ],
+        "to": "Kenya Institute of Education"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Mugambi",
+          "Mr. Mugambi"
+        ],
+        "to": "Mr. Mugambi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Seoul",
+          "SEOUL"
+        ],
+        "to": "Seoul"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NATION Reporter The Government",
+          "Nation Reporter The Government"
+        ],
+        "to": "The Nation Reporter Government"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Abidjan",
+          "ABIDJAN"
+        ],
+        "to": "Abidjan"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Odinga",
+          "Mr. Odinga"
+        ],
+        "to": "Mr. Odinga"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Taita",
+          "TAITA"
+        ],
+        "to": "Taita"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kapsabet",
+          "KAPSABET"
+        ],
+        "to": "Kapsabet"
       },
       {
         "fromBlank": false,
@@ -999,19 +5950,10 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "Uganda Aids Commission",
-          "Uganda AIDS Commission"
+          "Oracle",
+          "ORACLE"
         ],
-        "to": "Uganda Aids Commission"
-      },
-      {
-        "fromBlank": false,
-        "fromError": false,
-        "from": [
-          "LAGOS",
-          "Lagos"
-        ],
-        "to": "Lagos"
+        "to": "Oracle"
       },
       {
         "fromBlank": false,
@@ -1020,7 +5962,736 @@
           "US Agency for International Development",
           "U.S. Agency for International Development"
         ],
-        "to": "US Agency for International Development"
+        "to": "U.S. Agency for International Development"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nyanza Province",
+          "NYANZA PROVINCE"
+        ],
+        "to": "Nyanza Province"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "VaxGen Inc",
+          "VaxGen Inc."
+        ],
+        "to": "VaxGen Inc."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Cooke",
+          "Mr Mr Cooke"
+        ],
+        "to": "Mr Cooke"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hotel Salama",
+          "Salama Hotel"
+        ],
+        "to": "Hotel Salama"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr G.G. Kariuki",
+          "Mr G.G Kariuki"
+        ],
+        "to": "Mr G.G. Kariuki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Jackson",
+          "~ Jackson"
+        ],
+        "to": "Jackson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Entebbe",
+          "ENTEBBE"
+        ],
+        "to": "Entebbe"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hong Kong",
+          "HONG KONG"
+        ],
+        "to": "Hong Kong"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Criminology & Social Order",
+          "Criminology &Social Order"
+        ],
+        "to": "Criminology & Social Order"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bangkok",
+          "BANGKOK"
+        ],
+        "to": "Bangkok"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cipla",
+          "CIPLA"
+        ],
+        "to": "Cipla"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Githaiga",
+          "GITHAIGA"
+        ],
+        "to": "Githaiga"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "& H Services",
+          "H & H Services"
+        ],
+        "to": "H & H Services"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Wildlife Service",
+          "Kenya Wildlife Service Kenya Wildlife Service"
+        ],
+        "to": "Kenya Wildlife Service"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "St. Louis",
+          "St Louis"
+        ],
+        "to": "St. Louis"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "National Development Party",
+          "National development Party"
+        ],
+        "to": "National Development Party"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KIPKOECH",
+          "Kipkoech"
+        ],
+        "to": "Kipkoech"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "WIlfert",
+          "Wilfert"
+        ],
+        "to": "WIlfert"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "District Election Co-ordinators",
+          "District Election Coordinators"
+        ],
+        "to": "District Election Co-ordinators"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "VaxGen",
+          "Vaxgen"
+        ],
+        "to": "VaxGen"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Martin Luther King Jr",
+          "Martin Luther King Jr."
+        ],
+        "to": "Martin Luther King Jr."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenyatta University",
+          "~ Kenyatta University"
+        ],
+        "to": "Kenyatta University"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "The United Nations",
+          "United Nations The United Nations"
+        ],
+        "to": "The United Nations"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KEN OPALA",
+          "Ken Opala"
+        ],
+        "to": "Ken Opala"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Postbank",
+          "POSTBANK"
+        ],
+        "to": "Postbank"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mexico",
+          "MeXico"
+        ],
+        "to": "Mexico"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr AmbrOse Rachier",
+          "Mr Ambrose Rachier"
+        ],
+        "to": "Mr. AmbrOse Rachier"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NATION Correspondent Kenya",
+          "NATION CORRESPONDENT Kenya"
+        ],
+        "to": "Nation Correspondent Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Central KISII",
+          "Central Kisii"
+        ],
+        "to": "Central KISII"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Ravalomanana",
+          "Mr Ravalomanana Ravalomanana"
+        ],
+        "to": "Mr Ravalomanana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KwaZulu Natal",
+          "Kwa-Zulu Natal"
+        ],
+        "to": "KwaZulu Natal"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Franklin Volvovitz",
+          "Mr. Franklin Volvovitz"
+        ],
+        "to": "Mr. Franklin Volvovitz"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tony Blair",
+          "TONY BLAIR"
+        ],
+        "to": "Tony Blair"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kakuma",
+          "KAKUMA"
+        ],
+        "to": "Kakuma"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Avenue HealthCare",
+          "Avenue Healthcare"
+        ],
+        "to": "Avenue HealthCare"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ahmed Shabir Shakeel",
+          "Shakeel Ahmed Shabir"
+        ],
+        "to": "Ahmed Shabir Shakeel"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NATION Correspondent Aids",
+          "Nation Correspondent Aids"
+        ],
+        "to": "Nation Correspondent Aids"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dep Nbo",
+          "Nbo dep Nbo"
+        ],
+        "to": "Dep Nbo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Maitha",
+          "Mr. Maitha"
+        ],
+        "to": "Mr. Maitha"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "K-Rep Development Agency",
+          "K-rep Development Agency"
+        ],
+        "to": "K-Rep Development Agency"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Makhulo",
+          "Mr. Makhulo"
+        ],
+        "to": "Mr. Makhulo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cultural Organisation",
+          "Cultural Organisation, Organisation"
+        ],
+        "to": "Cultural Organisation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NGA",
+          "Nga"
+        ],
+        "to": "NGA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Philip",
+          "PHILIP"
+        ],
+        "to": "Philip"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kabete",
+          "KABETE"
+        ],
+        "to": "Kabete"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UK & USA",
+          "USA & UK"
+        ],
+        "to": "UK & USA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "World Health Organi",
+          "W.orld Health Organi"
+        ],
+        "to": "World Health Organisation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenwa",
+          "KENWA"
+        ],
+        "to": "Kenwa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Accra",
+          "ACCRA"
+        ],
+        "to": "Accra"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "WorldSpace",
+          "Worldspace"
+        ],
+        "to": "WorldSpace"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Njeri Rugene",
+          "NJERI RUGENE"
+        ],
+        "to": "Njeri Rugene"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya The Kenya",
+          "The Kenya"
+        ],
+        "to": "Kenya The Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Daniel Arap Moi",
+          "Daniel arap Moi"
+        ],
+        "to": "Daniel Arap Moi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hon Prof Anyang Nyong",
+          "Hon. Prof Anyang Nyong"
+        ],
+        "to": "Hon. Prof Anyang Nyong"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Teachers Service Commis",
+          "Teachers' Service Commis"
+        ],
+        "to": "Teachers Service Commis"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Young Nation",
+          "'Young Nation"
+        ],
+        "to": "Young Nation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Julius Sunkuli",
+          "JULIUS SUNKULI"
+        ],
+        "to": "Julius Sunkuli"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kigali",
+          "KIGALI"
+        ],
+        "to": "Kigali"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KENYA Supreme Council of Kenya Muslims",
+          "Supreme Council of Kenya Muslims"
+        ],
+        "to": "Supreme Council of Kenya Muslims"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Virodene",
+          "Virodene Virodene"
+        ],
+        "to": "Virodene"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "United Nations Development",
+          "United Nations Development ~"
+        ],
+        "to": "United Nations Development"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kanco",
+          "KANCO"
+        ],
+        "to": "Kanco"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BERNARD NAMUNANE",
+          "Bernard Namunane"
+        ],
+        "to": "Bernard Namunane"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Asunta Wagura",
+          "ASUNTA WAGURA"
+        ],
+        "to": "Asunta Wagura"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AMBROSE MURUNGA",
+          "Ambrose Murunga"
+        ],
+        "to": "AMBROSE MURUNGA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CAPETOWN",
+          "Capetown"
+        ],
+        "to": "Capetown"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Mugabe",
+          "Mr Mugabe Mugabe"
+        ],
+        "to": "Mr Mugabe"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Wilson",
+          "Mr Wilso.n"
+        ],
+        "to": "Mr. Wilson"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NDP",
+          "NDp"
+        ],
+        "to": "NDP"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "US",
+          "U.S."
+        ],
+        "to": "US"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MICHAEL NJUGUNA",
+          "Michael Njuguna"
+        ],
+        "to": "Michael Njuguna"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UN",
+          "U.N."
+        ],
+        "to": "UN"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UK",
+          "U.K."
+        ],
+        "to": "UK"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dr Mulandi",
+          "Dr. Mulandi"
+        ],
+        "to": "Dr. Mulandi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Koinange",
+          "KOINANGE"
+        ],
+        "to": "Koinange"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Otieno",
+          "Mr. Otieno"
+        ],
+        "to": "Mr Otieno"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Isiolo",
+          "ISIOLO"
+        ],
+        "to": "Isiolo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SHETH",
+          "Sheth"
+        ],
+        "to": "Sheth"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ngugi",
+          "NGUGI"
+        ],
+        "to": "Ngugi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "EFI",
+          "EFi"
+        ],
+        "to": "EFI"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Prague",
+          "PRAGUE"
+        ],
+        "to": "Prague"
       },
       {
         "fromBlank": false,
@@ -1035,10 +6706,820 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
+          "EPSON",
+          "Epson"
+        ],
+        "to": "EPSON"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "City & Guilds",
+          "City Guilds"
+        ],
+        "to": "City & Guilds"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "GlaxoWellcome",
+          "Glaxo-Wellcome"
+        ],
+        "to": "GlaxoWellcome"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Garissa",
+          "GARISSA"
+        ],
+        "to": "Garissa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UPS",
+          "Ups"
+        ],
+        "to": "UPS"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya School of Monetary Studies Nairobi",
+          "NAIROBI Kenya School of Monetary Studies"
+        ],
+        "to": "Kenya School of Monetary Studies Nairobi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Colombo",
+          "COLOMBO"
+        ],
+        "to": "Colombo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Unilever Kenya",
+          "Unilever Kenya Unilever"
+        ],
+        "to": "Unilever Kenya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Silas Nthiga",
+          "SILAS NTHIGA"
+        ],
+        "to": "Silas Nthiga"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mrs Muloki",
+          "Mrs. Muloki"
+        ],
+        "to": "Mrs. Muloki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "St Petersburg",
+          "St. Petersburg"
+        ],
+        "to": "St. Petersburg"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KIAMBAA",
+          "Kiambaa"
+        ],
+        "to": "Kiambaa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Group Life Assurance",
+          "Life Assurance Group"
+        ],
+        "to": "Group Life Assurance"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "BusinessWeek Daily Nation",
+          "BusinessWeek Daily Nation!"
+        ],
+        "to": "BusinessWeek Daily Nation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Janice",
+          "Janice*"
+        ],
+        "to": "Janice"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Njenga",
+          "NJENGA"
+        ],
+        "to": "Njenga"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ANTHONY NJAGI",
+          "Anthony Njagi"
+        ],
+        "to": "Anthony Njagi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Trimeris Inc",
+          "Trimeris Inc."
+        ],
+        "to": "Trimeris Inc."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Hassan Noor Hassan",
+          "Noor Hassan Noor"
+        ],
+        "to": "Hassan Noor Hassan"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "PEUGEOT",
+          "Peugeot"
+        ],
+        "to": "Peugeot"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "NRB",
+          "Nrb"
+        ],
+        "to": "NRB"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Boeing Co",
+          "Boeing Co."
+        ],
+        "to": "Boeing Co."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "GlaxoSmithKline",
+          "GlaxoSmithkline"
+        ],
+        "to": "Glaxo Smith Kline"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Human Resources",
+          "~ Human Resources"
+        ],
+        "to": "Human Resources"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Kirwa",
+          "Mr Mr Kirwa"
+        ],
+        "to": "Mr. Kirwa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Siaya",
+          "SIAYA"
+        ],
+        "to": "Siaya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Education Science and Technology",
+          "Education, Science and Technology"
+        ],
+        "to": "Education Science and Technology"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JAMES KARIUKI",
+          "James Kariuki"
+        ],
+        "to": "James Kariuki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sia",
+          "SIA"
+        ],
+        "to": "Sia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Washington DC",
+          "Washington D.C."
+        ],
+        "to": "Washington D.C."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Judith Mariasy",
+          "JUDITH MARIASY"
+        ],
+        "to": "Judith Mariasy"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Los Angeles Lakers",
+          "LOS Angeles Lakers"
+        ],
+        "to": "Los Angeles Lakers"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Toyota",
+          "TOYOTA"
+        ],
+        "to": "Toyota"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Power",
+          "Kenya Power &"
+        ],
+        "to": "Kenya Power"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dr. Koech",
+          "Dr Koech"
+        ],
+        "to": "Dr. Koech"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "USA",
+          "U.S.A."
+        ],
+        "to": "USA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kijana",
+          "KIJANA"
+        ],
+        "to": "Kijana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nyeri",
+          "NYERI"
+        ],
+        "to": "Nyeri"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "AVAYA",
+          "Avaya"
+        ],
+        "to": "Avaya"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Coast and Western",
+          "Western and Coast"
+        ],
+        "to": "Coast and Western"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Eldoret",
+          "ELDORET"
+        ],
+        "to": "Eldoret"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dhaka",
+          "DHAKA"
+        ],
+        "to": "Dhaka"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "P. Datta",
+          "p. Datta"
+        ],
+        "to": "P. Datta"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Universities of Nairobi",
+          "Universities of Nairobi\\"
+        ],
+        "to": "Universities of Nairobi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dr Mulindi",
+          "Dr. Mulindi"
+        ],
+        "to": "Dr. Mulindi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kavi",
+          "KAVI"
+        ],
+        "to": "Kavi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kiswahili",
+          "Kiswahili &"
+        ],
+        "to": "Kiswahili"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DAGI KIMANI",
+          "Dagi Kimani"
+        ],
+        "to": "Dagi Kimani"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Kenneth Matiba",
+          "Mr. Kenneth Matiba"
+        ],
+        "to": "Mr. Kenneth Matiba"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kitale",
+          "KITALE"
+        ],
+        "to": "Kitale"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ministry of Public Health",
+          "Ministry Of Public Health"
+        ],
+        "to": "Ministry of Public Health"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "MR. Guo",
+          "Mr. Guo"
+        ],
+        "to": "MR. Guo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ROSEMARY OKELLO",
+          "Rosemary Okello"
+        ],
+        "to": "Rosemary Okello"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "JICA",
+          "Jica"
+        ],
+        "to": "JICA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nation",
+          "'Nation"
+        ],
+        "to": "Nation"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bamako",
+          "BAMAKO"
+        ],
+        "to": "Bamako"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Cape Town",
+          "CAPE TOWN"
+        ],
+        "to": "Cape Town"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "US National Institute of Allergy and Infectious Diseases",
+          "US National' Institute of Allergy and Infectious Diseases"
+        ],
+        "to": "U.S. National Institute of Allergy and Infectious Diseases"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Virginia",
+          "VIRGINIA"
+        ],
+        "to": "Virginia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SAP",
+          "Sap"
+        ],
+        "to": "SAP"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dr Maina",
+          "Dr. Maina"
+        ],
+        "to": "Dr. Maina"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kwale",
+          "KWALE"
+        ],
+        "to": "Kwale"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ALICO",
+          "Alico"
+        ],
+        "to": "ALICO"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "International Women",
+          "International Women\\"
+        ],
+        "to": "International Women"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Intel",
+          "INTEL"
+        ],
+        "to": "Intel"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pirelli",
+          "PIRELLI"
+        ],
+        "to": "Pirelli"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Health",
+          "Health &"
+        ],
+        "to": "Health"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "United Nations",
+          "~ United Nations"
+        ],
+        "to": "United Nations"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Council",
+          "~ Council"
+        ],
+        "to": "Council"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "China",
+          "CHINA"
+        ],
+        "to": "China"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nyayo National Stadium",
+          "Nyayo National StadIUm"
+        ],
+        "to": "Nyayo National Stadium"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mrs Lucy Kibaki",
+          "Mrs. Lucy Kibaki"
+        ],
+        "to": "Mrs. Lucy Kibaki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kiambu",
+          "KIAMBU"
+        ],
+        "to": "Kiambu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TURBO Health Centre",
+          "Turbo Health Centre"
+        ],
+        "to": "Turbo Health Centre"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Conservative Party",
+          "\\ Conservative Party"
+        ],
+        "to": "Conservative Party"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kenya Limited",
+          "LIMITED Kenya"
+        ],
+        "to": "Kenya Limited"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sec",
+          "SEC"
+        ],
+        "to": "Sec"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Odhiambo Orlale",
+          "ODHIAMBO ORLALE"
+        ],
+        "to": "Odhiambo Orlale"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Harare",
+          "HARARE"
+        ],
+        "to": "Harare"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Australia",
+          "AUSTRALIA"
+        ],
+        "to": "Australia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Joe Ombuor",
+          "JOE OMBUOR"
+        ],
+        "to": "Joe Ombuor"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "D.T. Dobie",
+          "DT Dobie"
+        ],
+        "to": "D.T. Dobie"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Japan International Co-operation Agency",
+          "Japan International Cooperation Agency"
+        ],
+        "to": "Japan International Co-operation Agency"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Paul Kagame",
+          "Paul] Kagame"
+        ],
+        "to": "Paul Kagame"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kari",
+          "KARI"
+        ],
+        "to": "Kari"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LAVINGTON",
+          "Lavington"
+        ],
+        "to": "Lavington"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SAN VICENTE",
+          "San Vicente"
+        ],
+        "to": "San Vicente"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ngara Tel.",
+          "Ngara Tel"
+        ],
+        "to": "Ngara Tel."
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr Kiratu",
+          "Mr. Kiratu"
+        ],
+        "to": "Mr Kiratu"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
           "Ministry of Health",
           "'Ministry of Health"
         ],
         "to": "Ministry of Health"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mr. Mung",
+          "Mr Mung"
+        ],
+        "to": "Mr. Mung"
       }
     ]
   }

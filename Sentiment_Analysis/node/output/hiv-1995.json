@@ -73,6 +73,19 @@
       ]
     },
     {
+      "name": "95010709DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Washington"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95010804LS.txt",
       "children": [
         {
@@ -269,7 +282,7 @@
           "name": "people",
           "children": [
             {
-              "name": "PATRICK NGUGI"
+              "name": "Patrick Ngugi"
             },
             {
               "name": "Norman Olembo"
@@ -351,6 +364,53 @@
       ]
     },
     {
+      "name": "95021505DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mr Ngugi Muthotho"
+            },
+            {
+              "name": "Muthotho"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organization"
+            },
+            {
+              "name": "Health Sciences Congress"
+            },
+            {
+              "name": "Kenya Medical Research Institute"
+            },
+            {
+              "name": "Global Strategy for Health"
+            },
+            {
+              "name": "Mututho Nairobi"
+            },
+            {
+              "name": "Kenyatta National"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95021601SS.txt",
       "children": [
         {
@@ -425,7 +485,7 @@
               "name": "Samson Kaunga"
             },
             {
-              "name": "ANTHONY NJAGI"
+              "name": "Anthony Njagi"
             },
             {
               "name": "Erastus Owuor"
@@ -939,6 +999,56 @@
       ]
     },
     {
+      "name": "95042902DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mugambi"
+            },
+            {
+              "name": "Mutama Mugambi"
+            },
+            {
+              "name": "Angatia"
+            },
+            {
+              "name": "Mr Joshua Angatia"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Mombasa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "National Aids Control Programmes"
+            },
+            {
+              "name": "Travelers Beach Hotel"
+            },
+            {
+              "name": "Ministry of Health"
+            },
+            {
+              "name": "23rd Annual Scientific Conference of the Kenya Medical Association"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95050109DN.txt",
       "children": [
         {
@@ -1096,7 +1206,7 @@
               "name": "Prof Mugambi"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Prof Mutama Mugambi"
@@ -1131,6 +1241,166 @@
             },
             {
               "name": "23rd Annual Scientific Conference of the Kenya Medical Association"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95051306DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Patrick Osewe"
+            },
+            {
+              "name": "Joshua Angatia"
+            },
+            {
+              "name": "Mr. Angatia"
+            },
+            {
+              "name": "Gallileo"
+            },
+            {
+              "name": "Angatia"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Kisii"
+            },
+            {
+              "name": "Atlanta"
+            },
+            {
+              "name": "Siaya"
+            },
+            {
+              "name": "Homa Bay"
+            },
+            {
+              "name": "Kenyatta"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "CPK"
+            },
+            {
+              "name": "Government"
+            },
+            {
+              "name": "Afya House"
+            },
+            {
+              "name": "US-based Centre for Disease Control"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95051308DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Lindsay Griffiths"
+            },
+            {
+              "name": "Guido van der Groen"
+            },
+            {
+              "name": "Richard Preston"
+            },
+            {
+              "name": "Dustin Hoffman"
+            },
+            {
+              "name": "Groen"
+            },
+            {
+              "name": "Hoffman"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "Britain"
+            },
+            {
+              "name": "Zaire"
+            },
+            {
+              "name": "Belgium"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "United States"
+            },
+            {
+              "name": "London"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Reuters"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95051525DN 2.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "SHACKEE TAURO"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Health Organization"
+            },
+            {
+              "name": "FDA"
+            },
+            {
+              "name": "Ministry of Health"
+            },
+            {
+              "name": "Food and Drug Administration of the United States"
             }
           ]
         }
@@ -1180,7 +1450,7 @@
               "name": "Fred Sai"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Mr. Basil Criticos"
@@ -1232,7 +1502,7 @@
               "name": "International Planned Parenthood Federation"
             },
             {
-              "name": "US Agency for International Development"
+              "name": "U.S. Agency for International Development"
             },
             {
               "name": "Census Bureau"
@@ -1612,6 +1882,83 @@
       ]
     },
     {
+      "name": "95061002DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Bank"
+            },
+            {
+              "name": "Director of Medical Services"
+            },
+            {
+              "name": "Ministry of Health"
+            },
+            {
+              "name": "Coast FROM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95061025DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Marinus O'Kunguru"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "BA"
+            },
+            {
+              "name": "B.S."
+            },
+            {
+              "name": "Africa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Centre for Human Growth and Development"
+            },
+            {
+              "name": "Health Counseling"
+            },
+            {
+              "name": "Eastern"
+            },
+            {
+              "name": "Extended Studies Programme"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95062204DN.txt",
       "children": [
         {
@@ -1700,6 +2047,53 @@
             },
             {
               "name": "University of Nairobi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95070103DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "James Mwanzia"
+            },
+            {
+              "name": "Mwanzia"
+            },
+            {
+              "name": "JACINTA SEKOH"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Africa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Safari Park Hotel"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "National Aids Control Programmes"
+            },
+            {
+              "name": "Director of Medical Services"
             }
           ]
         }
@@ -2187,6 +2581,31 @@
       ]
     },
     {
+      "name": "95072905DN.txt",
+      "children": [
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "FDA"
+            },
+            {
+              "name": "Ministry of Health"
+            },
+            {
+              "name": "Food and Drug Administration of the United States"
+            },
+            {
+              "name": "Human Immuno"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95080219DN.txt",
       "children": [
         {
@@ -2263,7 +2682,7 @@
           "name": "people",
           "children": [
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Mr Joshua Angatia"
@@ -2324,6 +2743,53 @@
           "children": [
             {
               "name": "Department"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95081204DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Anne Mpyisi"
+            },
+            {
+              "name": "Mr James Luwalira"
+            },
+            {
+              "name": "David Musisi"
+            },
+            {
+              "name": "James Luwalira"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nyali"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Mombasa Chief Magistrate Joseph Kanyi"
+            },
+            {
+              "name": "Mombasa Resident Magistrate Joseph Kanyi"
+            },
+            {
+              "name": "United Nations High Commissioner"
+            },
+            {
+              "name": "UNHCR"
             }
           ]
         }
@@ -2580,6 +3046,19 @@
       ]
     },
     {
+      "name": "95082204DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Washington"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95082717SN.txt",
       "children": [
         {
@@ -2710,7 +3189,7 @@
               "name": "Gideon Mutiso"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Prof Saitoti"
@@ -2842,7 +3321,7 @@
               "name": "Kenyatta International Conference Centre"
             },
             {
-              "name": "REBECCA NDUKU"
+              "name": "Rebecca Nduku"
             },
             {
               "name": "International Students Conference"
@@ -2980,13 +3459,40 @@
       ]
     },
     {
+      "name": "95092102DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Martin Kayo"
+            },
+            {
+              "name": "Kayo"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "UNAids"
+            },
+            {
+              "name": "National Aids Control Programme"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95092104SS.txt",
       "children": [
         {
           "name": "people",
           "children": [
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Mr Joshua Angatia"
@@ -3140,6 +3646,195 @@
       ]
     },
     {
+      "name": "95092305DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Joshua Angatia"
+            },
+            {
+              "name": "Nicholas Biwott"
+            },
+            {
+              "name": "Biwott"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Eldoret"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Hotel Sirikwa"
+            },
+            {
+              "name": "Rift Valley"
+            },
+            {
+              "name": "Public Works Minister Prof Jonathan Ng"
+            },
+            {
+              "name": "Ministry of Health"
+            },
+            {
+              "name": "Members of Parliament"
+            },
+            {
+              "name": "District Commissioners"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95092309DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Joshua Angatia"
+            },
+            {
+              "name": "Angatia"
+            },
+            {
+              "name": "Nicholas Biwott"
+            },
+            {
+              "name": "Biwott"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Eldoret"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Hotel Sirikwa"
+            },
+            {
+              "name": "UNAids"
+            },
+            {
+              "name": "UN Development Programme"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "Unicef"
+            },
+            {
+              "name": "Global Programme"
+            },
+            {
+              "name": "Ministry of Health"
+            },
+            {
+              "name": "Rift Valley Province"
+            },
+            {
+              "name": "Members of Parliament"
+            },
+            {
+              "name": "District Commissioners"
+            },
+            {
+              "name": "World Bank"
+            },
+            {
+              "name": "Unesco"
+            },
+            {
+              "name": "Public Works Minister Prof Jonathan Ng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95092320DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mr Ephraim Imaya"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Tanzania"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Uganda"
+            },
+            {
+              "name": "South Africa"
+            },
+            {
+              "name": "Rwanda"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Family Life Education"
+            },
+            {
+              "name": "Home Science"
+            },
+            {
+              "name": "Conference Centre"
+            },
+            {
+              "name": "University Students Aids Control Association"
+            },
+            {
+              "name": "Church"
+            },
+            {
+              "name": "Makerere University"
+            },
+            {
+              "name": "Religious Education"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95092406SN.txt",
       "children": [
         {
@@ -3155,7 +3850,7 @@
               "name": "Michael Kennedy"
             },
             {
-              "name": "Mr Mwai Kibaki"
+              "name": "Mr. Mwai Kibaki"
             },
             {
               "name": "Ethel Kennedy"
@@ -3889,7 +4584,7 @@
               "name": "UNDP"
             },
             {
-              "name": "UN Programme"
+              "name": "U.N Programme"
             },
             {
               "name": "Continental Hotel"
@@ -3996,7 +4691,7 @@
           "name": "organizations",
           "children": [
             {
-              "name": "InterContinental"
+              "name": "Inter-Continental"
             },
             {
               "name": "Government"
@@ -4241,7 +4936,7 @@
           "name": "organizations",
           "children": [
             {
-              "name": "ZIANA"
+              "name": "Ziana"
             },
             {
               "name": "Zimbabwean Health and Child Welfare"
@@ -4360,7 +5055,7 @@
               "name": "Matiba"
             },
             {
-              "name": "Mr Matiba"
+              "name": "Mr. Matiba"
             }
           ]
         },
@@ -4506,6 +5201,323 @@
       ]
     },
     {
+      "name": "95120203DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Joshua Angatia"
+            },
+            {
+              "name": "Lilian Kochola"
+            },
+            {
+              "name": "Nyachae"
+            },
+            {
+              "name": "Simeon Nyachae"
+            },
+            {
+              "name": "Angatia"
+            },
+            {
+              "name": "P. Chuke"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Kisii"
+            },
+            {
+              "name": "Kisumu"
+            },
+            {
+              "name": "Marsabit"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Bandani Market"
+            },
+            {
+              "name": "Kisumu District Medical Officer of Health"
+            },
+            {
+              "name": "Nairobi Provincial Medical Officer"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "District Medical Officer of Health Matayo Dawas"
+            },
+            {
+              "name": "National Aids Control Programme"
+            },
+            {
+              "name": "Acting Kisumu Municipal Officer of Health Fredrick Odero"
+            },
+            {
+              "name": "Gusii Stadium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95120211DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mr Durgadas Sengupta"
+            },
+            {
+              "name": "Mr Piot"
+            },
+            {
+              "name": "Haryono Suyono"
+            },
+            {
+              "name": "Mr Peter Godwin"
+            },
+            {
+              "name": "Peter Piot"
+            },
+            {
+              "name": "Godwin"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "Madras"
+            },
+            {
+              "name": "Bandung"
+            },
+            {
+              "name": "Western Europe"
+            },
+            {
+              "name": "Jakarta"
+            },
+            {
+              "name": "Pacific"
+            },
+            {
+              "name": "Indonesia"
+            },
+            {
+              "name": "New Delhi"
+            },
+            {
+              "name": "Asia"
+            },
+            {
+              "name": "NACO"
+            },
+            {
+              "name": "India"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Health Ministry"
+            },
+            {
+              "name": "National Aids Control Organization"
+            },
+            {
+              "name": "World Bank"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "UNAids"
+            },
+            {
+              "name": "UNDP"
+            },
+            {
+              "name": "UN United Nations"
+            },
+            {
+              "name": "NACO"
+            },
+            {
+              "name": "Reuter"
+            },
+            {
+              "name": "National Family Health Survey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95120228DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Dr. Hiroshima Nakayama"
+            },
+            {
+              "name": "Martin Kayo"
+            },
+            {
+              "name": "Kayo"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Kisumu"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Kenya Institute of Education"
+            },
+            {
+              "name": "National Aids Control"
+            },
+            {
+              "name": "Unicef"
+            },
+            {
+              "name": "NACP"
+            },
+            {
+              "name": "Nascop"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "National Aids/STD Control Programme"
+            },
+            {
+              "name": "Non-Governmental Organisations"
+            },
+            {
+              "name": "Dr. Martin Kayo"
+            },
+            {
+              "name": "Ministry of Labour and Manpower Development"
+            },
+            {
+              "name": "Other United Nations"
+            },
+            {
+              "name": "NACP Programme"
+            },
+            {
+              "name": "Federation of Kenya Employers"
+            },
+            {
+              "name": "Senior Director of Medical Services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95120229DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mukami Mugo"
+            },
+            {
+              "name": "Mukami"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Kisii"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Minister for Health Mr. Joshua Angatia"
+            },
+            {
+              "name": "PSI"
+            },
+            {
+              "name": "Government"
+            },
+            {
+              "name": "Population Services International"
+            },
+            {
+              "name": "National Aids Committee"
+            },
+            {
+              "name": "United Nations International Year for Tolerance"
+            },
+            {
+              "name": "Ministry of Health"
+            },
+            {
+              "name": "National"
+            },
+            {
+              "name": "National Aids Control Programme"
+            },
+            {
+              "name": "ACP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95120405DN.txt",
       "children": [
         {
@@ -4585,7 +5597,7 @@
               "name": "Parliament"
             },
             {
-              "name": "LILONGWE"
+              "name": "Lilongwe"
             },
             {
               "name": "Malawi"
@@ -4725,7 +5737,7 @@
               "name": "Samson Kaunga"
             },
             {
-              "name": "ANTHONY NJAGI"
+              "name": "Anthony Njagi"
             },
             {
               "name": "Erastus Owuor"
@@ -4763,6 +5775,164 @@
       ]
     },
     {
+      "name": "95120928DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mr Ephraim M. Gathaiya"
+            },
+            {
+              "name": "Mr Stephen Muriu"
+            },
+            {
+              "name": "Mr Brian Hodgson"
+            },
+            {
+              "name": "Mr Charles Wanyoike Rubia"
+            },
+            {
+              "name": "Mr Gathaiya"
+            },
+            {
+              "name": "Mrs Lena Thuntorg"
+            },
+            {
+              "name": "Okoth"
+            },
+            {
+              "name": "Muriu"
+            },
+            {
+              "name": "Andrew Okoth"
+            },
+            {
+              "name": "Mr Okoth"
+            },
+            {
+              "name": "Mr Muriu"
+            },
+            {
+              "name": "Mrs Rachael Mzera"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Turkana"
+            },
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Kakamega"
+            },
+            {
+              "name": "Nyandarua"
+            },
+            {
+              "name": "Geneva"
+            },
+            {
+              "name": "Kilifi"
+            },
+            {
+              "name": "Garissa"
+            },
+            {
+              "name": "Nakuru"
+            },
+            {
+              "name": "West Pokot District"
+            },
+            {
+              "name": "Rwanda"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Homa Bay"
+            },
+            {
+              "name": "West Pokot"
+            },
+            {
+              "name": "Somalia"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "ANNIVERSARY Congratulations International Committee of The Red Cross"
+            },
+            {
+              "name": "St Johns Gate"
+            },
+            {
+              "name": "Red Cross These"
+            },
+            {
+              "name": "Red Cross"
+            },
+            {
+              "name": "St John Ambulance"
+            },
+            {
+              "name": "National Society"
+            },
+            {
+              "name": "Federation"
+            },
+            {
+              "name": "White Highland"
+            },
+            {
+              "name": "ICRC"
+            },
+            {
+              "name": "First Aid"
+            },
+            {
+              "name": "Red Cross"
+            },
+            {
+              "name": "Health Care"
+            },
+            {
+              "name": "International Federation"
+            },
+            {
+              "name": "International Federation of Red Cross"
+            },
+            {
+              "name": "Swedish Red Cross"
+            },
+            {
+              "name": "International Committee of the Red Cross"
+            },
+            {
+              "name": "First Mayor of Nairobi"
+            },
+            {
+              "name": "Household"
+            },
+            {
+              "name": "Act Of Parliament"
+            },
+            {
+              "name": "British Red Cross Society"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "95121207DN.txt",
       "children": [
         {
@@ -4787,6 +5957,202 @@
             },
             {
               "name": "Lady Justice Owuor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95121602DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Francoise Mewl"
+            },
+            {
+              "name": "Jaramogi Oginga Qdingas"
+            },
+            {
+              "name": "Melea Otieno"
+            },
+            {
+              "name": "Darius Mbela"
+            },
+            {
+              "name": "Mr Joseph Mugo"
+            },
+            {
+              "name": "Raphael Munavu"
+            },
+            {
+              "name": "Francis Gichaga"
+            },
+            {
+              "name": "Gichaga"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Kibichiku"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Mulago"
+            },
+            {
+              "name": "Kampala"
+            },
+            {
+              "name": "Thika"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Inter¬∑Africa Council of Philosophy"
+            },
+            {
+              "name": "Minister for Energy"
+            },
+            {
+              "name": "The University"
+            },
+            {
+              "name": "Tav Project of Mombasa"
+            },
+            {
+              "name": "Population Council"
+            },
+            {
+              "name": "Philosophical Asssociation of Kenya"
+            },
+            {
+              "name": "NGO Consortium"
+            },
+            {
+              "name": "International Comrnunity of People Living"
+            },
+            {
+              "name": "College ofHealth Sciences"
+            },
+            {
+              "name": "National Aids Control Programme"
+            },
+            {
+              "name": "World Federation of Philosophical Societies"
+            },
+            {
+              "name": "University"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "95121603DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Francoise Mewl"
+            },
+            {
+              "name": "Jaramogi Oginga Qdingas"
+            },
+            {
+              "name": "Melea Otieno"
+            },
+            {
+              "name": "Darius Mbela"
+            },
+            {
+              "name": "Mr Joseph Mugo"
+            },
+            {
+              "name": "Raphael Munavu"
+            },
+            {
+              "name": "Francis Gichaga"
+            },
+            {
+              "name": "Gichaga"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Kibichiku"
+            },
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Mulago"
+            },
+            {
+              "name": "Kampala"
+            },
+            {
+              "name": "Thika"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Inter¬∑Africa Council of Philosophy"
+            },
+            {
+              "name": "Minister for Energy"
+            },
+            {
+              "name": "The University"
+            },
+            {
+              "name": "Tav Project of Mombasa"
+            },
+            {
+              "name": "Population Council"
+            },
+            {
+              "name": "Philosophical Asssociation of Kenya"
+            },
+            {
+              "name": "NGO Consortium"
+            },
+            {
+              "name": "International Comrnunity of People Living"
+            },
+            {
+              "name": "College ofHealth Sciences"
+            },
+            {
+              "name": "National Aids Control Programme"
+            },
+            {
+              "name": "World Federation of Philosophical Societies"
+            },
+            {
+              "name": "University"
             }
           ]
         }

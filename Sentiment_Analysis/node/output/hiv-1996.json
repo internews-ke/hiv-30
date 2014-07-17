@@ -143,7 +143,7 @@
               "name": "NGO"
             },
             {
-              "name": "National AIDS Council"
+              "name": "National Aids Council"
             },
             {
               "name": "Zambia National Aids Network"
@@ -272,6 +272,39 @@
       ]
     },
     {
+      "name": "96020304DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "D'Agostino"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Malembe Stars"
+            },
+            {
+              "name": "Legacy Africa Restaurant"
+            },
+            {
+              "name": "Bora Bora Sounds Band"
+            },
+            {
+              "name": "Nyumbani Home"
+            },
+            {
+              "name": "Bogos Musica"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "96020414SN.txt",
       "children": [
         {
@@ -290,7 +323,7 @@
               "name": "JOE OMBUO"
             },
             {
-              "name": "JOE OMBUOR"
+              "name": "Joe Ombuor"
             }
           ]
         },
@@ -310,7 +343,7 @@
               "name": "Washington"
             },
             {
-              "name": "Washington DC"
+              "name": "Washington D.C."
             },
             {
               "name": "Garches"
@@ -333,7 +366,7 @@
               "name": "Third Conference of Retroviruses"
             },
             {
-              "name": "Glaxo-Wellcome"
+              "name": "GlaxoWellcome"
             },
             {
               "name": "New York University"
@@ -355,6 +388,41 @@
             },
             {
               "name": "Ministry of Health"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96020505DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Joshua Kimani"
+            },
+            {
+              "name": "Majengo"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "University of Nairobi"
+            },
+            {
+              "name": "Nairobi University"
             }
           ]
         }
@@ -767,6 +835,53 @@
       ]
     },
     {
+      "name": "96021728DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Morrison"
+            },
+            {
+              "name": "Morison"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Las Vegas"
+            },
+            {
+              "name": "Oklahoma"
+            },
+            {
+              "name": "TULSA"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Friday Boxer Tommy Morrison"
+            },
+            {
+              "name": "Los Angeles Lakers"
+            },
+            {
+              "name": "Reuter"
+            },
+            {
+              "name": "Dawn Freeman"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "96022118DN.txt",
       "children": [
         {
@@ -969,7 +1084,7 @@
               "name": "Wambur Chege"
             },
             {
-              "name": "CHEGE"
+              "name": "Chege"
             }
           ]
         },
@@ -1013,6 +1128,171 @@
             },
             {
               "name": "NATION Correspondent The Programme for Appropriate Technology in Health"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96022405DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Mr David Pasquarelli"
+            },
+            {
+              "name": "Michael Belefonte"
+            },
+            {
+              "name": "Mr Jim Niedel"
+            },
+            {
+              "name": "Dr. Scott Hammer"
+            },
+            {
+              "name": "Mr John de Wit"
+            },
+            {
+              "name": "Arnaud Fontanet"
+            },
+            {
+              "name": "William Paul"
+            },
+            {
+              "name": "Michelle Daniels"
+            },
+            {
+              "name": "Taylor"
+            },
+            {
+              "name": "Fontanet"
+            },
+            {
+              "name": "Robert Gallo"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "United States"
+            },
+            {
+              "name": "US"
+            },
+            {
+              "name": "Washington"
+            },
+            {
+              "name": "Vancouver"
+            },
+            {
+              "name": "Third World"
+            },
+            {
+              "name": "Boston"
+            },
+            {
+              "name": "Europe"
+            },
+            {
+              "name": "France"
+            },
+            {
+              "name": "San Francisco"
+            },
+            {
+              "name": "Princeton"
+            },
+            {
+              "name": "Canada"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "New Jersey"
+            },
+            {
+              "name": "Netherlands"
+            },
+            {
+              "name": "Asia"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Conference Abbott"
+            },
+            {
+              "name": "University of Utrecht"
+            },
+            {
+              "name": "Wellcome Pic"
+            },
+            {
+              "name": "Roche Holding Ltd."
+            },
+            {
+              "name": "Harvard Medical School"
+            },
+            {
+              "name": "National"
+            },
+            {
+              "name": "US Health Secretary Donna Shalala"
+            },
+            {
+              "name": "Reuter"
+            },
+            {
+              "name": "Glaxo"
+            },
+            {
+              "name": "11th International Conference"
+            },
+            {
+              "name": "US Office for Aids Research"
+            },
+            {
+              "name": "American Foundation for Aids Research"
+            },
+            {
+              "name": "Abbott Laboratories"
+            },
+            {
+              "name": "Glaxo Wellcome Pic"
+            },
+            {
+              "name": "Elizabeth Taylor"
+            },
+            {
+              "name": "United Nations"
+            },
+            {
+              "name": "Deaconess Hospital"
+            },
+            {
+              "name": "Abbott Laboratori'es Inc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96022406DN.txt",
+      "children": [
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Uganda"
             }
           ]
         }
@@ -1631,7 +1911,7 @@
           "name": "organizations",
           "children": [
             {
-              "name": "Harvard Aids Institute"
+              "name": "Harvard AIDS Institute"
             },
             {
               "name": "Harvard"
@@ -1683,6 +1963,62 @@
             },
             {
               "name": "Prof Obel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96032310DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Piot"
+            },
+            {
+              "name": "Nunn"
+            },
+            {
+              "name": "Paul Nunn"
+            },
+            {
+              "name": "Peter Piot"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Zaire"
+            },
+            {
+              "name": "Geneva"
+            },
+            {
+              "name": "Geneva"
+            },
+            {
+              "name": "Asia"
+            },
+            {
+              "name": "India"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "United Nations"
+            },
+            {
+              "name": "Reuter"
             }
           ]
         }
@@ -1887,7 +2223,7 @@
               "name": "Basil Criticos"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Aurther Obel"
@@ -1958,7 +2294,7 @@
               "name": "Basil Criticos"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Prof Arthur Obel"
@@ -1987,6 +2323,80 @@
             },
             {
               "name": "House"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96050402DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Joshua Angatia"
+            },
+            {
+              "name": "Muliro"
+            },
+            {
+              "name": "Ndambiri"
+            },
+            {
+              "name": "Obel"
+            },
+            {
+              "name": "Mr Muliro"
+            },
+            {
+              "name": "Mr Ndambiri"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Helsinki"
+            },
+            {
+              "name": "Kenya"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Poisons Board"
+            },
+            {
+              "name": "Pearl Omega"
+            },
+            {
+              "name": "Peral Omega"
+            },
+            {
+              "name": "Parliament"
+            },
+            {
+              "name": "National Aids Committee"
+            },
+            {
+              "name": "Board"
+            },
+            {
+              "name": "Medical Practitioners and Dentists Board"
+            },
+            {
+              "name": "Director of Medical Services"
+            },
+            {
+              "name": "Omega"
+            },
+            {
+              "name": "Scientific Steering Committee the Kenya Medical Research Institute National Ethical Review Committee"
             }
           ]
         }
@@ -2022,6 +2432,41 @@
           "children": [
             {
               "name": "Pearl Omega"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96051107DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Joshua Kimani"
+            },
+            {
+              "name": "Majengo"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "University of Nairobi"
+            },
+            {
+              "name": "Nairobi University"
             }
           ]
         }
@@ -2096,6 +2541,77 @@
           "children": [
             {
               "name": "Kayole Catholic Church"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96060105DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Jude J. Ongonga"
+            },
+            {
+              "name": "Arthur Obel"
+            },
+            {
+              "name": "George Eshiwani"
+            },
+            {
+              "name": "LILIAN NDUTA"
+            },
+            {
+              "name": "Obel"
+            },
+            {
+              "name": "F.M. Muthuri"
+            },
+            {
+              "name": "James Waithaka"
+            },
+            {
+              "name": "K. Wambari"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kenya"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Mombasa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Pearl Omega"
+            },
+            {
+              "name": "World Health Organisation"
+            },
+            {
+              "name": "Kenyatta University"
+            },
+            {
+              "name": "Pharmaceutical Society of Kenya"
+            },
+            {
+              "name": "Rogers Abete"
+            },
+            {
+              "name": "Moi University"
             }
           ]
         }
@@ -2810,7 +3326,7 @@
           "name": "people",
           "children": [
             {
-              "name": "MAGGIE FOX"
+              "name": "Maggie Fox"
             },
             {
               "name": "Roche"
@@ -3134,6 +3650,110 @@
       ]
     },
     {
+      "name": "96071311DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Marcus Conant"
+            },
+            {
+              "name": "David Ho"
+            },
+            {
+              "name": "Mr Nathanial Landau"
+            },
+            {
+              "name": "Mr Silverman"
+            },
+            {
+              "name": "Mervyn Silverman"
+            },
+            {
+              "name": "Mr David Dingwall"
+            },
+            {
+              "name": "Michael Summers"
+            },
+            {
+              "name": "Jean Chretien"
+            },
+            {
+              "name": "Mr David Cooper"
+            },
+            {
+              "name": "Mr Landau"
+            },
+            {
+              "name": "Dingwall"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "San Francisco"
+            },
+            {
+              "name": "New York"
+            },
+            {
+              "name": "Vancouver"
+            },
+            {
+              "name": "Geneva"
+            },
+            {
+              "name": "Washington"
+            },
+            {
+              "name": "Vancouver"
+            },
+            {
+              "name": "Africa"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "University of Utah"
+            },
+            {
+              "name": "International Aids Society"
+            },
+            {
+              "name": "Conant Medical Group"
+            },
+            {
+              "name": "University of Maryland-Baltimore County"
+            },
+            {
+              "name": "American Foundation for Aids Research"
+            },
+            {
+              "name": "Prof Summers"
+            },
+            {
+              "name": "Aaron Diamond Aids Research Center"
+            },
+            {
+              "name": "Howard Hughes Medical Institute"
+            },
+            {
+              "name": "Reuter"
+            },
+            {
+              "name": "l1th International Conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "96071420SN.txt",
       "children": [
         {
@@ -3328,6 +3948,44 @@
             },
             {
               "name": "11th International Conference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96072005DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Gatiri"
+            },
+            {
+              "name": "George Galiri"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Western Kenya"
+            },
+            {
+              "name": "Nakuru"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Nakuru District"
+            },
+            {
+              "name": "NATION Reporter Naivasha Division"
             }
           ]
         }
@@ -3551,7 +4209,7 @@
               "name": "Research Director of the Christian Health Association of Kenya"
             },
             {
-              "name": "Western and Coast"
+              "name": "Coast and Western"
             }
           ]
         }
@@ -3645,6 +4303,65 @@
           "children": [
             {
               "name": "Nairobi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96081704DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Joshua Angatia"
+            },
+            {
+              "name": "Kamwithi Munyi"
+            },
+            {
+              "name": "Arthur Obel"
+            },
+            {
+              "name": "Mwanzia"
+            },
+            {
+              "name": "Nicholas Biwott"
+            },
+            {
+              "name": "Obel"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Parliament"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Poisons Board"
+            },
+            {
+              "name": "Government"
+            },
+            {
+              "name": "Pearl Omega"
+            },
+            {
+              "name": "Director of Medical Services James Mwanzia"
+            },
+            {
+              "name": "Health Assistant Minister Basil Criticos"
+            },
+            {
+              "name": "Ministry of Health"
             }
           ]
         }
@@ -4029,6 +4746,65 @@
       ]
     },
     {
+      "name": "96092604SS.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Gibson M. Gitachu"
+            },
+            {
+              "name": "Mr Allan Ragis"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Kitale"
+            },
+            {
+              "name": "United States"
+            },
+            {
+              "name": "Britain"
+            },
+            {
+              "name": "Nairobi"
+            },
+            {
+              "name": "Parliament"
+            },
+            {
+              "name": "Africa"
+            },
+            {
+              "name": "Mombasa"
+            },
+            {
+              "name": "Japan"
+            },
+            {
+              "name": "South Korea"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Parliament"
+            },
+            {
+              "name": "Members of Parliament"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "96100303DN.txt",
       "children": [
         {
@@ -4041,7 +4817,7 @@
               "name": "Mr Mutiso"
             },
             {
-              "name": "PAUL WAWERU"
+              "name": "Paul Waweru"
             },
             {
               "name": "Gedion Mutiso"
@@ -4187,7 +4963,7 @@
               "name": "Chuke"
             },
             {
-              "name": "KEN OPALA"
+              "name": "Ken Opala"
             },
             {
               "name": "Mwanzia"
@@ -4449,7 +5225,7 @@
               "name": "Martin Shikuku of FORD Asili"
             },
             {
-              "name": "FORD-K"
+              "name": "Ford-K"
             },
             {
               "name": "Parliament"
@@ -4751,7 +5527,7 @@
               "name": "Martin Shikuku of FORD Asili"
             },
             {
-              "name": "FORD-K"
+              "name": "Ford-K"
             },
             {
               "name": "Parliament"
@@ -4838,7 +5614,7 @@
               "name": "Mbuta"
             },
             {
-              "name": "ANTHONY NJAGI"
+              "name": "Anthony Njagi"
             },
             {
               "name": "Sammy"
@@ -4876,6 +5652,50 @@
           "children": [
             {
               "name": "Omena"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "96113004DN.txt",
+      "children": [
+        {
+          "name": "people",
+          "children": [
+            {
+              "name": "Karen"
+            }
+          ]
+        },
+        {
+          "name": "places",
+          "children": [
+            {
+              "name": "Nairobi"
+            }
+          ]
+        },
+        {
+          "name": "organizations",
+          "children": [
+            {
+              "name": "Nation Correspondent Kenya"
+            },
+            {
+              "name": "Population Service International"
+            },
+            {
+              "name": "USAID/Kenya Mission Director George Jones"
+            },
+            {
+              "name": "United Nations Secretary-General Boutros Boutros-Ghali"
+            },
+            {
+              "name": "Second Annual Trust Cycle Race"
+            },
+            {
+              "name": "Ngong"
             }
           ]
         }
@@ -4983,7 +5803,7 @@
               "name": "Ochieng Kabaselle"
             },
             {
-              "name": "Mr Angatia"
+              "name": "Mr. Angatia"
             },
             {
               "name": "Okatch Biggy"
@@ -5099,7 +5919,7 @@
               "name": "June Jacobsen Steen"
             },
             {
-              "name": "PETER KIMANI"
+              "name": "Peter Kimani"
             },
             {
               "name": "Kena Njoya"
@@ -5194,7 +6014,7 @@
               "name": "Mr Muloki"
             },
             {
-              "name": "Mrs Muloki"
+              "name": "Mrs. Muloki"
             },
             {
               "name": "Mr"
@@ -5203,7 +6023,7 @@
               "name": "Mrs Mukiki"
             },
             {
-              "name": "Mrs Muloki"
+              "name": "Mrs. Muloki"
             }
           ]
         },
