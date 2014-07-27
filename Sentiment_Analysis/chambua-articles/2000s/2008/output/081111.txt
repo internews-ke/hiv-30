@@ -1,0 +1,1 @@
+{"people":["Andy Sewell","Dan Barouch"],"organizations":["Beth Israel Deaconess Medical Centre","Reuters","Cardiff University","Harvard Medical School"],"places":[{"name":"Britain","latitude":54.0,"longitude":-4.0,"place_type":"Country"},{"name":"Boston","latitude":42.35347,"longitude":-71.06094,"place_type":"GisFeature"}]}

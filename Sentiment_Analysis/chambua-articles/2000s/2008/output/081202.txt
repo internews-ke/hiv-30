@@ -1,0 +1,1 @@
+{"people":["Mr Siganga","Sheikh Dor","Waudo Siganga"],"organizations":["ARV","Coast Province","National Aids Control Council","Coast","Mombasa Municipal Stadium","Council of Imams and Preachers of Kenya"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"}]}

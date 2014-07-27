@@ -1,0 +1,1 @@
+{"people":["Kinuthia Mbugua","MACHARIA MWANGI","Mr Mbugua"],"organizations":["Administration Police Training College","Administration Police"],"places":[{"name":"Naivasha","latitude":-0.71667,"longitude":36.43591,"place_type":"City"}]}

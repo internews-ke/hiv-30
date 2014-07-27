@@ -1,0 +1,1 @@
+{"people":["Cherutich","Peter Cherutich","JOHN NGIRACHU","James Gesami"],"organizations":["Melinda Gates Foundation","US Government","Panafric Hotel"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"}]}

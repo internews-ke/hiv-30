@@ -1,0 +1,1 @@
+{"organizations":["St. marks Teachers","SILAS NTHIGA Nine Anglican Church of Kenya"],"places":[{"name":"Embu","latitude":-23.64664,"longitude":-46.85386,"place_type":"Adm"}]}

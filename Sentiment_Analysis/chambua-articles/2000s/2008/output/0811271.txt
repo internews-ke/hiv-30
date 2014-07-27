@@ -1,0 +1,1 @@
+{"people":["Nana Warinda","Moi"],"organizations":["NAKURU Beauty","Waterbuck Hotel","Nyayo Garden"],"places":[{"name":"Nakuru","latitude":-0.28333,"longitude":36.06667,"place_type":"City"}]}

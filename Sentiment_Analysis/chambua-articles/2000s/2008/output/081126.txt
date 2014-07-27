@@ -1,0 +1,1 @@
+{"organizations":["Meru Central District Hospital","Githongo District Hospital"],"places":[{"name":"Anyang","latitude":36.09944,"longitude":114.32889,"place_type":"City"}]}

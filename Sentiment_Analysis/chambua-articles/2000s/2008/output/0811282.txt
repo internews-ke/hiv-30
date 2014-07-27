@@ -1,0 +1,1 @@
+{"people":["Willis Akhwale","Beth Mugo","MIKE MWANIKI"],"organizations":["Government","Public Health","IDV","Nyanza","Kenya Aids Indicator Survey"],"places":[{"name":"Kenya","latitude":1.0,"longitude":38.0,"place_type":"Country"},{"name":"Nyanza","latitude":-0.5,"longitude":34.5,"place_type":"Adm"},{"name":"North Eastern","latitude":9.75,"longitude":80.08333,"place_type":"Adm"}]}
