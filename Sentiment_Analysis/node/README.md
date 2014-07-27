@@ -14,5 +14,6 @@ A series of node scripts to clean up Daily Nation (Kenya) articles for the HIV@3
 	* value > edit cells > common transforms > collapse consecutive (and leading) whitespace
 	* value > text facet > set choice count > ok
 	* cluster > select all, check > merge selected, then close
+	* to apply previous macro got to Undo/Redo > Apply ... > copy refine.json to the window > click apply
 	* copy changes from window to another file, save
 

@@ -65637,6 +65637,857 @@ year,file,cluster,value
 2006,061223DN017.txt,places,Kampala
 2006,061223DN017.txt,organizations,US National Institutes of Health
 2006,061223DN017.txt,organizations,Reuters
+2007,070420.txt,people,Larissa
+2007,070420.txt,people,Larissa Timbobler
+2007,070420.txt,people,Mohamed Abdulralunan
+2007,070420.txt,people,Yigal Amir
+2007,070420.txt,people,Rabin
+2007,070420.txt,people,Yitzhak Rabin
+2007,070420.txt,people,Khalid Maqbool
+2007,070420.txt,places,California
+2007,070420.txt,places,New York
+2007,070420.txt,places,Washington
+2007,070420.txt,places,Parchman
+2007,070420.txt,places,Kenya
+2007,070420.txt,places,Canada
+2007,070420.txt,places,Brazil
+2007,070420.txt,places,Russia
+2007,070420.txt,places,Israel
+2007,070420.txt,places,New Mexico
+2007,070420.txt,places,Connecticut
+2007,070420.txt,organizations,Mississippi State Penitentiary
+2007,070420.txt,organizations,Shima la Tewa Prison
+2007,070420.txt,organizations,MSP
+2007,070420.txt,organizations,Prison Warden
+2007,070425.txt,places,LONDON
+2007,070425.txt,organizations,World Health Organisation
+2007,070425.txt,organizations,Reuters
+2007,0704311.txt,places,Kenya
+2007,0704311.txt,organizations,Kenya Prison Service
+2007,0704311.txt,organizations,THE POLICY The Kenya Prisons Service
+2007,0704311.txt,organizations,National Agency for Campaign Against Drug Abuse
+2007,0704311.txt,organizations,Kenya Prisons Service
+2007,0704311.txt,organizations,"Ministry of Health, Ministry of Home Affairs"
+2007,0704311.txt,organizations,Prisons Staff Training College
+2007,0704311.txt,organizations,National Clinical Manual
+2007,0704311.txt,organizations,ARV
+2007,0704311.txt,organizations,AlC Kijabe Hospital
+2007,0704311.txt,organizations,Public Sector Workplace Policy
+2007,0704311.txt,organizations,Prisons Service
+2007,0704311.txt,organizations,Department
+2007,0704311.txt,organizations,National AlDS Control Council
+2007,0704311.txt,organizations,Comprehensive Care Centres
+2007,0704311.txt,organizations,Naivasha Prison
+2007,070501.txt,people,Mr Awon
+2007,070501.txt,people,Mr. Awori
+2007,070501.txt,organizations,National Aids Control
+2007,070501.txt,organizations,Kenya Prison Service
+2007,070501.txt,organizations,Moody Awori
+2007,070504.txt,people,Primus Ochieng
+2007,070504.txt,people,Nyamu
+2007,070504.txt,people,Homepark
+2007,070504.txt,people,Mumma
+2007,070504.txt,people,Catherine Mumma
+2007,070504.txt,people,Mr Amollo
+2007,070504.txt,organizations,Michael Murungi
+2007,070504.txt,organizations,Justice J.B Ojwang
+2007,070504.txt,organizations,Justice Ojwangwere
+2007,070504.txt,organizations,Justice Ojwang
+2007,070504.txt,organizations,l'JBk Force
+2007,070504.txt,organizations,Thsk Force
+2007,070504.txt,organizations,Task Force
+2007,070504.txt,organizations,National Thsk Force
+2007,070504.txt,organizations,High Court
+2007,070505.txt,people,Miriam
+2007,070505.txt,people,Ngwenya
+2007,070505.txt,people,Phillle Gumbi
+2007,070505.txt,people,REBECCA HARRISON
+2007,070505.txt,people,Miriam Tembe
+2007,070505.txt,people,Tembe
+2007,070505.txt,places,MTUBATUBA
+2007,070505.txt,places,Africa
+2007,070505.txt,places,South Africa
+2007,070505.txt,organizations,Research Foundation
+2007,070505.txt,organizations,ARV
+2007,070505.txt,organizations,AMREF
+2007,070505.txt,organizations,Reuters
+2007,070505.txt,organizations,Health Minister Manto Tshabalala-Msimang
+2007,070505.txt,organizations,Ivy Mdletshe
+2007,070505.txt,organizations,Tryphina Ngwenya
+2007,070508.txt,people,Mr Moldenhauer
+2007,070508.txt,people,Oliver Moldenhaner
+2007,070508.txt,places,Heiligendamm
+2007,070508.txt,places,Brazil
+2007,070508.txt,places,Germany
+2007,070508.txt,places,Mica
+2007,070508.txt,organizations,MSF
+2007,0705081.txt,people,Gerry Bodeker
+2007,0705081.txt,people,Yabya Jammeh
+2007,0705081.txt,people,Hodgkins
+2007,0705081.txt,people,Sandra Anderson
+2007,0705081.txt,people,Yahya Jammeh
+2007,0705081.txt,places,United States
+2007,0705081.txt,places,South East Asia
+2007,0705081.txt,places,Tshabalala
+2007,0705081.txt,places,Nigeria
+2007,0705081.txt,places,East Africa
+2007,0705081.txt,places,Harare
+2007,0705081.txt,places,Uganda
+2007,0705081.txt,places,India
+2007,0705081.txt,places,Mediterranean
+2007,0705081.txt,places,Zambia
+2007,0705081.txt,places,Mozambique
+2007,0705081.txt,places,Africa
+2007,0705081.txt,places,Australia
+2007,0705081.txt,places,South Africa
+2007,0705081.txt,places,China
+2007,0705081.txt,places,Madagascar
+2007,0705081.txt,places,Zimbabwe
+2007,0705081.txt,organizations,Blair Research Institute Clinic
+2007,0705081.txt,organizations,World Health Organisation's Quality of Life Scale
+2007,0705081.txt,organizations,Joint Clinical Research Centre \n Kampala
+2007,0705081.txt,organizations,Commission
+2007,0705081.txt,organizations,ARV
+2007,0705081.txt,organizations,Modern Health Practitioners Together
+2007,0705081.txt,organizations,Institute for Pharmaceutical Research PLWHA
+2007,0705081.txt,organizations,Kaposi's Sarcoma
+2007,070515.txt,people,James D. Wolfensohn
+2007,070515.txt,places,West Africa
+2007,070515.txt,places,Tanzania
+2007,070515.txt,places,Zambia
+2007,070515.txt,places,West
+2007,070515.txt,places,Africa
+2007,070515.txt,places,Uganda
+2007,070515.txt,organizations,USAID
+2007,070515.txt,organizations,World Bank
+2007,070515.txt,organizations,Western Uganda's Ministry of Health
+2007,070515.txt,organizations,UNAIDS
+2007,070515.txt,organizations,United Nations Programme
+2007,070515.txt,organizations,Oxfam
+2007,070515.txt,organizations,NGO
+2007,070515.txt,organizations,Media Group's Africa Media Network Project
+2007,070515.txt,organizations,Indigenous Knowledge for Development
+2007,070515.txt,organizations,Ministry of Health
+2007,070519.txt,people,Zeng Jinyan
+2007,070519.txt,people,Mr Hu
+2007,070519.txt,places,Hong Kong
+2007,070519.txt,places,Beijing
+2007,070519.txt,places,BEIJING
+2007,070519.txt,organizations,NGOs
+2007,070519.txt,organizations,Reuters
+2007,070519.txt,organizations,Communist Party
+2007,0705201.txt,people,Farida Asindua
+2007,0705201.txt,people,Asindua
+2007,0705201.txt,organizations,Government
+2007,0705201.txt,organizations,Culture and Social Services
+2007,0705201.txt,organizations,Leonard Cheshire International
+2007,0705221.txt,people,Samwel Mburu
+2007,0705221.txt,people,Dan Waweru
+2007,0705221.txt,people,Ronald Otieno
+2007,0705221.txt,people,Thomas Sigei
+2007,0705221.txt,organizations,Kericho Youth Center
+2007,0705221.txt,organizations,Kericho District Aids Day Soccer
+2007,070524.txt,people,Ms. Tshabala Msimang
+2007,070524.txt,people,Ms. Tshabalala- Msimang
+2007,070524.txt,places,Cape town
+2007,070524.txt,places,South Africa
+2007,070524.txt,places,CAPETOWN
+2007,070524.txt,organizations,Reuters
+2007,070525.txt,places,Gujarat
+2007,070525.txt,places,India
+2007,070528.txt,people,Pinheiro
+2007,070528.txt,people,Victor Chinyama
+2007,070528.txt,people,Sergio Pinheiro
+2007,070528.txt,people,Mr Chinyama
+2007,070528.txt,people,LUCAS BARASA Seventy
+2007,070528.txt,places,Nairobi
+2007,070528.txt,places,Gigiri
+2007,070528.txt,places,Kenya
+2007,070528.txt,places,Uganda
+2007,070528.txt,organizations,UN
+2007,070528.txt,organizations,Kenyan Coast
+2007,0705281.txt,places,United States
+2007,0705281.txt,places,Libya
+2007,0705281.txt,places,TRIPOLI
+2007,0705281.txt,organizations,European Union
+2007,0705281.txt,organizations,AFRICA NEWS Libya Court
+2007,070530.txt,people,SARAH ONYANGO
+2007,070530.txt,places,Nairobi
+2007,0705301.txt,people,Mr. Bush
+2007,0705301.txt,people,George W. Bush
+2007,0705301.txt,places,US
+2007,0705301.txt,organizations,Nation Correspondent NEW YORK  Several
+2007,0705301.txt,organizations,White House Rose
+2007,0705302.txt,people,Mr. Kilonzo
+2007,0705302.txt,people,Mr Musilu Kilonzo
+2007,0705302.txt,places,Busia
+2007,0705303.txt,places,Nairobi
+2007,0705303.txt,organizations,VCT
+2007,0705303.txt,organizations,Kenya Network of Women
+2007,070531.txt,places,Africa
+2007,070531.txt,organizations,NACC
+2007,070531.txt,organizations,Directorate of Personnel Management
+2007,070531.txt,organizations,The Ministry of Home Affairs
+2007,070531.txt,organizations,Child Transmission
+2007,070531.txt,organizations,National Aids Control Council
+2007,070531.txt,organizations,Kenya National HJV
+2007,070531.txt,organizations,National Strategic Plan
+2007,070531.txt,organizations,GK Prison Naivasha
+2007,070531.txt,organizations,Kenya Government
+2007,070531.txt,organizations,ARV
+2007,070531.txt,organizations,Prisons Department
+2007,070531.txt,organizations,Department
+2007,070531.txt,organizations,Health Care Providers
+2007,070531.txt,organizations,VCT Centres
+2007,070531.txt,organizations,Justice
+2007,070531.txt,organizations,Kenya Prisons Service
+2007,070531.txt,organizations,National Development
+2007,070531.txt,organizations,Kenya Government National Aids Control Council
+2007,070531.txt,organizations,VCT Counselors
+2007,070531.txt,organizations,VCT
+2007,070531.txt,organizations,Government
+2007,070531.txt,organizations,Behaviour Change Communication
+2007,070531.txt,organizations,National Disaster
+2007,070531.txt,organizations,Centres for Disease Control and Prevention
+2007,070531.txt,organizations,Ministry of Home Affairs
+2007,070531.txt,organizations,Constella
+2007,070531.txt,organizations,TOWA
+2007,070601.txt,people,Bishup Alfred Rotich
+2007,070601.txt,people,Sulumeti
+2007,070601.txt,people,EDITH
+2007,070601.txt,people,Miriam Were
+2007,070601.txt,people,Mr John Munyes
+2007,070601.txt,people,Erasmus Morah
+2007,070601.txt,people,Mr Adam Lagerstedt
+2007,070601.txt,people,Morall
+2007,070601.txt,people,Rotich
+2007,070601.txt,places,US
+2007,070601.txt,places,Kenya
+2007,070601.txt,organizations,NACC
+2007,070601.txt,organizations,Government
+2007,070601.txt,organizations,Kenya Institute of Education
+2007,070601.txt,organizations,UNAids
+2007,070601.txt,organizations,Minister of State for Special Projects
+2007,070601.txt,organizations,Bank
+2007,070601.txt,organizations,Ministry of Health
+2007,070601.txt,organizations,Church
+2007,070601.txt,organizations,Catholic Church
+2007,070601.txt,organizations,National Aids Control Cmmcil
+2007,070603.txt,people,GIDEON GITONGA
+2007,070603.txt,organizations,Masinde Muliro University
+2007,0706061.txt,places,Cameroon
+2007,0706061.txt,places,South Africa
+2007,0706061.txt,organizations,Equal Reaper
+2007,0706061.txt,organizations,Kenya Airways
+2007,0706062.txt,people,Mr Chirambo
+2007,0706062.txt,places,Zambia
+2007,0706062.txt,places,Senegal
+2007,0706062.txt,places,Durban
+2007,0706062.txt,places,Africa
+2007,0706062.txt,places,Malawi
+2007,0706062.txt,places,South Africa
+2007,0706062.txt,places,Namibia
+2007,0706062.txt,places,JOHANNESBURG
+2007,0706062.txt,organizations,Reaters
+2007,0706062.txt,organizations,Kondwani Chirambo
+2007,0706062.txt,organizations,Nation
+2007,0706062.txt,organizations,IDASA
+2007,070614.txt,people,Kaloleni
+2007,070614.txt,people,Kirinyaga
+2007,070614.txt,places,Migori
+2007,070614.txt,places,Kakamega
+2007,070614.txt,places,Nairobi
+2007,070614.txt,places,Kenya
+2007,070614.txt,places,Kilifi
+2007,070614.txt,places,Bondo
+2007,070614.txt,places,Kwale
+2007,070614.txt,places,Kisumu
+2007,070614.txt,places,Embu
+2007,070614.txt,places,Bungoma
+2007,070614.txt,places,Nyanza
+2007,070614.txt,places,Mombasa
+2007,070614.txt,organizations,Central
+2007,070614.txt,organizations,Hopkins University
+2007,070614.txt,organizations,Safari Park Hotel
+2007,070614.txt,organizations,Eastern
+2007,070614.txt,organizations,Meru Central
+2007,070614.txt,organizations,2003 Kenya Demographic and Health Survey
+2007,070614.txt,organizations,School of Hygiene and Public Health
+2007,070614.txt,organizations,EU
+2007,070614.txt,organizations,Meru South
+2007,070614.txt,organizations,VCT
+2007,070614.txt,organizations,DSW
+2007,070614.txt,organizations,European Union
+2007,070614.txt,organizations,Coast
+2007,070614.txt,organizations,Nyanza Provi
+2007,070614.txt,organizations,VCTs
+2007,070624.txt,people,Priscilla
+2007,070624.txt,people,John Paul II
+2007,070624.txt,people,Priscilla Maitha
+2007,070624.txt,people,Pricilla
+2007,070624.txt,people,John Njue
+2007,070624.txt,people,Vincent Wambugu
+2007,070624.txt,people,Philip Sulumeti
+2007,070624.txt,places,Tanzania
+2007,070624.txt,places,Ethiopia
+2007,070624.txt,places,Kenya
+2007,070624.txt,places,Zambia
+2007,070624.txt,places,Kilifi
+2007,070624.txt,places,Africa
+2007,070624.txt,places,Eritrea
+2007,070624.txt,places,Uganda
+2007,070624.txt,places,Malawi
+2007,070624.txt,places,Kampala
+2007,070624.txt,places,Sudan
+2007,070624.txt,places,Mombasa
+2007,070624.txt,organizations,Caritas Social development Commission
+2007,070624.txt,organizations,& Peace Commission
+2007,070624.txt,organizations,National Catholic
+2007,070624.txt,organizations,Kenya Catholic Secretariat
+2007,070624.txt,organizations,THE KENYA INSITUTE OF EDUCATION NAIROBI  Church
+2007,070624.txt,organizations,National and International
+2007,070624.txt,organizations,Social Communications Commission
+2007,070624.txt,organizations,Gospel
+2007,070624.txt,organizations,Catholic Health Commission
+2007,070624.txt,organizations,National Catholic AIDS Conference
+2007,070624.txt,organizations,Trocaire
+2007,070624.txt,organizations,KEC~ Catholic
+2007,070624.txt,organizations,Kenya Episcopal Conference
+2007,070624.txt,organizations,Catholic Church
+2007,070624.txt,organizations,KEC
+2007,070624.txt,organizations,Conference
+2007,070624.txt,organizations,Education Commission
+2007,070624.txt,organizations,Samba Catholic Church
+2007,070624.txt,organizations,Early Childhood Development Centres
+2007,070624.txt,organizations,GTZ
+2007,070624.txt,organizations,Association of Member Episcopal Conferences in Eastern Africa
+2007,070624.txt,organizations,Vincent Wambugu Rt
+2007,070624.txt,organizations,Catholic Secretariat
+2007,070624.txt,organizations,Christain Relief Services
+2007,070624.txt,organizations,Lay Apostolate Commission
+2007,070624.txt,organizations,Church
+2007,070624.txt,organizations,Archdiocese of Mombasa
+2007,070624.txt,organizations,KEC~CatholicHealth Commission First
+2007,070624.txt,organizations,Catholic Relief Services
+2007,070626.txt,people,Nzimbi
+2007,070626.txt,places,Nairobi
+2007,070626.txt,organizations,Kenya Institute of Education
+2007,070626.txt,organizations,Kenya Episcopal Conference
+2007,070626.txt,organizations,All Saints Cathedral
+2007,070626.txt,organizations,Catholic Church
+2007,070626.txt,organizations,General Election
+2007,070626.txt,organizations,Nzimbi
+2007,070627.txt,people,Oprah
+2007,070627.txt,people,Asunta Wagura
+2007,070627.txt,people,Oprah Winfrey
+2007,070627.txt,organizations,Kenya Network of Women
+2007,070706.txt,people,Robbie Nelson
+2007,070706.txt,people,CAROLINE WAFULA
+2007,070706.txt,people,Piot
+2007,070706.txt,people,Peter Piot
+2007,070706.txt,people,PaulineMuchina
+2007,070706.txt,places,Nairobi
+2007,070706.txt,places,Latin America
+2007,070706.txt,places,Asia
+2007,070706.txt,places,London
+2007,070706.txt,organizations,YWCA International Women
+2007,070706.txt,organizations,World Young Women ChristianAssociation
+2007,070706.txt,organizations,Kenyatta International Conference Centre
+2007,070706.txt,organizations,Joint Uuited Nations Progranune
+2007,070706.txt,organizations,UNAids
+2007,070706.txt,organizations,Female Health Company
+2007,070706.txt,organizations,Population Services International and Family Health International
+2007,070706.txt,organizations,UNFPA
+2007,0707061.txt,places,New Delhi
+2007,0707061.txt,organizations,Reuters
+2007,070707.txt,organizations,BCC
+2007,070707.txt,organizations,SRH
+2007,070707.txt,organizations,IEC
+2007,070707.txt,organizations,Ministry of Health
+2007,070707.txt,organizations,EC ~ European Commission ~
+2007,0707071.txt,people,Cyprian Awiti
+2007,0707071.txt,people,Mr. Cyprian Awiti
+2007,0707071.txt,people,Marie Stopes Kenya
+2007,0707071.txt,people,Mr. Awiti
+2007,0707071.txt,people,Marie Stopes
+2007,0707071.txt,people,Arona
+2007,0707071.txt,places,KENYA
+2007,0707071.txt,places,Kilifi
+2007,0707071.txt,places,Latin America
+2007,0707071.txt,places,Siaya
+2007,0707071.txt,places,Europe
+2007,0707071.txt,places,Busia
+2007,0707071.txt,places,Bungoma
+2007,0707071.txt,places,United Kingdom
+2007,0707071.txt,places,Pangani
+2007,0707071.txt,places,Kenya
+2007,0707071.txt,places,Western Kenya
+2007,0707071.txt,places,Bondo
+2007,0707071.txt,places,Africa
+2007,0707071.txt,places,Embu
+2007,0707071.txt,places,Asia
+2007,0707071.txt,places,South Asia
+2007,0707071.txt,places,Machakos
+2007,0707071.txt,organizations,Marie Stopes Programme
+2007,0707071.txt,organizations,Ministry of Health's Division of Reproductive Health
+2007,0707071.txt,organizations,NGOs
+2007,0707071.txt,organizations,Service
+2007,0707071.txt,organizations,Marie Stopes International of London
+2007,0707071.txt,organizations,Marie Stopes Kenya
+2007,0707071.txt,organizations,Activities Marie Stopes Kenya
+2007,0707071.txt,organizations,North Eastern Province
+2007,0707071.txt,organizations,NGO
+2007,0707071.txt,organizations,National Co
+2007,0707071.txt,organizations,Ministry of Health
+2007,0707071.txt,organizations,Agency for Population and Development
+2007,0707072.txt,people,Mike Mukula
+2007,0707072.txt,people,Janet Museveni
+2007,0707072.txt,people,Alex Kamugisha
+2007,0707072.txt,people,SOLOMON MUYITA
+2007,0707072.txt,people,Alice Kaboyo
+2007,0707072.txt,people,Jim Muhwezl
+2007,0707072.txt,places,Gavi
+2007,0707072.txt,places,Uganda
+2007,0707072.txt,places,Kampala
+2007,0707072.txt,places,KAMPALA
+2007,0707072.txt,organizations,Global Alliance for Vaccines and Immunisation
+2007,0707073.txt,people,Phurnzile Miambo-Ngcuka
+2007,0707073.txt,places,Durban
+2007,0707073.txt,places,South Africa
+2007,0707073.txt,organizations,Reuters
+2007,0707074.txt,people,Mr Piot
+2007,0707074.txt,people,Piot
+2007,0707074.txt,people,Rose Migiro
+2007,0707074.txt,people,Margaret Chan
+2007,0707074.txt,people,Migiro
+2007,0707074.txt,people,Peter Piot
+2007,0707074.txt,places,Nairobi
+2007,0707074.txt,organizations,ARV
+2007,0707074.txt,organizations,Kenyatta International Conference Centre
+2007,0707074.txt,organizations,Young Christian Association
+2007,0707074.txt,organizations,UNAids
+2007,0707074.txt,organizations,Young Women Christian Association
+2007,0707074.txt,organizations,Joint United Programme
+2007,0707074.txt,organizations,United Nations
+2007,0707074.txt,organizations,Nations
+2007,0707075.txt,people,Elizabeth Mataka
+2007,0707075.txt,people,Zeda Rosenberg
+2007,0707075.txt,people,ZEDA ROSENBERG
+2007,0707075.txt,places,Nairobi
+2007,0707075.txt,places,US
+2007,0707075.txt,places,Kenya
+2007,0707075.txt,places,Africa
+2007,0707075.txt,places,ZAMBIA
+2007,0707075.txt,organizations,United Nations Secretary General
+2007,0707075.txt,organizations,International Women's Health Summit
+2007,0707075.txt,organizations,International Partnership for Microbicide
+2007,070708.txt,people,Michael Mutahi
+2007,070708.txt,people,Jordan
+2007,070708.txt,people,Wariri
+2007,070708.txt,people,Wariri Muhungi
+2007,070708.txt,places,Nairobi
+2007,070708.txt,places,Jordan
+2007,070708.txt,places,Geneva
+2007,070708.txt,places,London
+2007,070708.txt,organizations,UNICEF
+2007,070708.txt,organizations,"Public Mairs, M1V Networks International"
+2007,070708.txt,organizations,Georgia Arnold
+2007,070708.txt,organizations,International Women
+2007,0707081.txt,people,Bryan Barber
+2007,0707081.txt,people,Mhoone Umbina
+2007,0707081.txt,people,Sotie Dilmitris
+2007,0707081.txt,people,Michael
+2007,0707081.txt,places,Nairobi
+2007,0707081.txt,places,Mexico
+2007,0707081.txt,places,Kenya
+2007,0707081.txt,places,Canada
+2007,0707081.txt,places,Africa
+2007,0707081.txt,places,Uganda
+2007,0707081.txt,places,Bulgaria
+2007,0707081.txt,places,Guyana
+2007,0707081.txt,places,China
+2007,0707081.txt,places,India
+2007,0707081.txt,places,Toronto
+2007,0707081.txt,places,Zimbabwe
+2007,0707081.txt,organizations,UNAids
+2007,0707081.txt,organizations,NewYork Film Festival
+2007,0707081.txt,organizations,Lucile Packard Foundation
+2007,0707081.txt,organizations,MTV Networks International
+2007,0707081.txt,organizations,NewYorkAids Film Festival
+2007,0707081.txt,organizations,Hilton
+2007,0707081.txt,organizations,UNFPA
+2007,070709.txt,people,Solomon Orero
+2007,070709.txt,people,Enoch Kibunguchy
+2007,070709.txt,people,MILDRED NGESA
+2007,070709.txt,people,ProfJoseph Karanja
+2007,070709.txt,people,Karanja
+2007,070709.txt,places,US
+2007,070709.txt,places,Kenya
+2007,070709.txt,places,Southern Sudan
+2007,070709.txt,places,Africa
+2007,070709.txt,places,Nyeri
+2007,070709.txt,organizations,Wardill of Kenyatta National Hospital
+2007,070709.txt,organizations,"Ministry of Health, Kenya Medical Association"
+2007,070709.txt,organizations,Population Reference Bureau
+2007,070709.txt,organizations,University ofNalrobi
+2007,070712.txt,people,Benita FerreroWaldner
+2007,070712.txt,people,Fathi Dhan
+2007,070712.txt,people,Sergei Stanishev
+2007,070712.txt,people,Georgi Parvanov
+2007,070712.txt,people,Muammar Gaddaft
+2007,070712.txt,people,Parvanov
+2007,070712.txt,places,Benghazi
+2007,070712.txt,places,Libya
+2007,070712.txt,places,Bulgaria
+2007,070712.txt,places,Sofia
+2007,070712.txt,places,Tripoli
+2007,070712.txt,places,TRIPOLI
+2007,070712.txt,organizations,High Judicial Council
+2007,070712.txt,organizations,Gaddafi Foundation
+2007,070712.txt,organizations,Council
+2007,070712.txt,organizations,HighJudicial Council
+2007,070712.txt,organizations,Reuters
+2007,070712.txt,organizations,EU
+2007,070712.txt,organizations,Gaddaft Foundation
+2007,070712.txt,organizations,Supreme Court
+2007,0707121.txt,places,Kenya
+2007,0707121.txt,places,Africa
+2007,070714.txt,people,Jack Nyamongo
+2007,070714.txt,people,Mr Nick Tanui
+2007,070714.txt,people,Miyuki Tamura
+2007,070714.txt,places,Nairobi
+2007,070714.txt,places,Kenya
+2007,070714.txt,places,Nakuru
+2007,070714.txt,places,Japan
+2007,070714.txt,organizations,Koibatek District Hospital and Naivasha District Hospital
+2007,070714.txt,organizations,Nobel Laureate ProfWangari Maathai
+2007,070714.txt,organizations,National Blood Transfusion Centre
+2007,070714.txt,organizations,Japan International Cooperation Agency
+2007,070714.txt,organizations,National Blood Transfusion Service
+2007,070714.txt,organizations,JICA
+2007,070714.txt,organizations,First to Expire
+2007,070714.txt,organizations,Nakuru Regional Blood Transfusion Centre
+2007,070714.txt,organizations,Blood Safety Project
+2007,070714.txt,organizations,Ministry of Health
+2007,070714.txt,organizations,National
+2007,070714.txt,organizations,Regional Blood Transfusion Centre
+2007,070714.txt,organizations,Nakuru Provincial General Hospital
+2007,0707141.txt,places,Nairobi
+2007,0707141.txt,places,Kenya
+2007,0707141.txt,places,Mathare
+2007,0707141.txt,places,Paris
+2007,0707141.txt,places,Coast
+2007,0707141.txt,places,Uganda
+2007,0707141.txt,places,Nyanza
+2007,0707141.txt,organizations,Millennium Development Goals
+2007,0707141.txt,organizations,VCT
+2007,0707141.txt,organizations,DSW
+2007,0707141.txt,organizations,Poverty Reduction Strategies Papers
+2007,0707141.txt,organizations,Valley and Coastal Province
+2007,0707141.txt,organizations,Coast Province
+2007,0707141.txt,organizations,European Union's Country Strategies Papers
+2007,0707141.txt,organizations,DSW Kenya Country Office
+2007,0707141.txt,organizations,DSW Kenya
+2007,0707141.txt,organizations,Eastern
+2007,0707141.txt,organizations,OSW
+2007,0707141.txt,organizations,Control Programme
+2007,0707152.txt,people,Mhoone Umbina
+2007,0707152.txt,organizations,Sunday Nation
+2007,070719.txt,people,Faniee Komen
+2007,070719.txt,people,Rosenberg
+2007,070719.txt,people,Zeda Rosenberg
+2007,070719.txt,people,Pauline Irungu
+2007,070719.txt,people,Silvester Kimaiyo
+2007,070719.txt,people,Steve Lewis
+2007,070719.txt,people,Hanna Tadayo
+2007,070719.txt,places,US
+2007,070719.txt,places,Tanzania
+2007,070719.txt,places,Eldoret
+2007,070719.txt,places,Africa
+2007,070719.txt,places,Uganda
+2007,070719.txt,places,South Africa
+2007,070719.txt,places,North Rift
+2007,070719.txt,places,Rwanda
+2007,070719.txt,organizations,ARV
+2007,070719.txt,organizations,Moi University School of Medicine
+2007,070719.txt,organizations,GlaxoSmithKline
+2007,070719.txt,organizations,Indiana University
+2007,070719.txt,organizations,Florence Mirembe of Makerere University
+2007,070719.txt,organizations,"Gilead Sciences, Inc."
+2007,070719.txt,organizations,International Partner~
+2007,070719.txt,organizations,WFP
+2007,070719.txt,organizations,Moi Teaching and Referral Hospital
+2007,070719.txt,organizations,World Food
+2007,070719.txt,organizations,Johnson and Johnson
+2007,070719.txt,organizations,IPM
+2007,0707191.txt,people,Amos Kimunya
+2007,0707191.txt,places,KENYA
+2007,0707191.txt,places,Kenya
+2007,0707191.txt,organizations,World Bank
+2007,0707191.txt,organizations,Government
+2007,0707191.txt,organizations,National Aids
+2007,0707191.txt,organizations,Control Council
+2007,0707191.txt,organizations,Colin Bruce
+2007,070729.txt,people,Agnes Buya
+2007,070729.txt,places,Sudan
+2007,070806.txt,people,Nyambura
+2007,070806.txt,people,Joshua
+2007,070806.txt,people,Peter
+2007,070806.txt,people,Josh\
+2007,070806.txt,people,Kadogo
+2007,070806.txt,people,Richard
+2007,070806.txt,people,Asunta Wagura
+2007,070806.txt,places,Joshua
+2007,070806.txt,organizations,Kenya Network of Women
+2007,970719.txt,places,South Africa
+2007,970719.txt,organizations,Reuters
+2008,080905.txt,people,Peter
+2008,080905.txt,people,Asunta Wagura
+2008,080905.txt,organizations,VCT
+2008,080905.txt,organizations,Kenya Network of Women
+2008,080905.txt,organizations,Kiswahili
+2008,081022.txt,places,Nairobi
+2008,081022.txt,places,Kenya
+2008,081022.txt,places,Belgium
+2008,081022.txt,places,East Africa
+2008,081022.txt,organizations,Position Title                   PROCUREMENT & LOGISTICS
+2008,081022.txt,organizations,NACC
+2008,081022.txt,organizations,Ksh
+2008,081022.txt,organizations,Duty Station                     Regional Office
+2008,081022.txt,organizations,CIPS
+2008,081022.txt,organizations,Council
+2008,081022.txt,organizations,Business Administration
+2008,081022.txt,organizations,Duty Station                             Regional Office
+2008,081022.txt,organizations,NGO
+2008,081022.txt,organizations,Education                                                                                                           •      University Degree in Bachelor of Commerce
+2008,081022.txt,organizations,Microsoft
+2008,081022.txt,organizations,VSF-Belgium                                Landmark Plaza 8th & 9th Floors                                    P.O.
+2008,081022.txt,organizations,Control
+2008,081022.txt,organizations,National AIDS Control Council
+2008,081022.txt,organizations,Position Title                           PROCUREMENT & LOGISTICS
+2008,081022.txt,organizations,Internal Audit Division
+2008,081022.txt,organizations,Commerce
+2008,0810221.txt,people,Mageria
+2008,0810221.txt,people,Elizabeth Ragui
+2008,0810221.txt,people,King Solomon
+2008,0810221.txt,people,M. Wangari
+2008,0810221.txt,people,Kariuki
+2008,0810221.txt,places,Bible
+2008,0810221.txt,places,Nairobi
+2008,0810221.txt,places,Kenya
+2008,0810221.txt,organizations,Spylink International
+2008,081029.txt,people,Charles Rubia Nyaga
+2008,081029.txt,people,Tabitha Wairimu
+2008,081029.txt,people,Gathoni Wamwitha
+2008,081029.txt,people,Benard
+2008,081029.txt,people,Andrew M. Theuri
+2008,081029.txt,people,Joshua
+2008,081029.txt,people,Lea Kithara                                                                                                 Your
+2008,081029.txt,people,Dorcas Koikai
+2008,081029.txt,people,Leah Ngesa
+2008,081029.txt,places,Kitale
+2008,081029.txt,places,Nairobi
+2008,081029.txt,places,Kiambu
+2008,081029.txt,places,P.O.
+2008,081029.txt,places,Narok
+2008,081029.txt,places,Nyeri
+2008,081029.txt,organizations,M.M. Mombasa
+2008,081029.txt,organizations,Shaddy Musyoka
+2008,081101.txt,people,Beth Mugo
+2008,081101.txt,people,Mugo
+2008,081101.txt,places,Kenya
+2008,081101.txt,places,Geneva
+2008,081101.txt,organizations,Government
+2008,081101.txt,organizations,Public Health
+2008,081101.txt,organizations,CAROLINE WAFULA Whether Kenya
+2008,081101.txt,organizations,Anyang Nyong
+2008,0811091.txt,people,Angela
+2008,0811091.txt,people,Kigotho
+2008,0811091.txt,people,Angela Mueni
+2008,0811091.txt,people,Sandra
+2008,0811091.txt,people,Patrick Mbaja
+2008,0811091.txt,people,Stephen Mugambi
+2008,0811091.txt,places,Nairobi
+2008,0811091.txt,places,Machakos
+2008,0811091.txt,places,Eastern Province
+2008,0811091.txt,organizations,Angela
+2008,0811091.txt,organizations,Kilimambogo Secondary School
+2008,0811091.txt,organizations,Kenya Literature Bureau Reviewed
+2008,0811091.txt,organizations,Wahome Mutahi Prize for Literature
+2008,0811091.txt,organizations,University of Nairobi
+2008,0811091.txt,organizations,Wangu
+2008,0811092.txt,people,Eric Ochieng
+2008,0811092.txt,people,Yvonne Agnes Nasiondo
+2008,0811092.txt,places,Nairobi
+2008,0811092.txt,places,City Primary
+2008,0811092.txt,organizations,USAID
+2008,0811092.txt,organizations,City Primary School
+2008,0811092.txt,organizations,NC Chill Club
+2008,0811092.txt,organizations,Population Services International
+2008,0811092.txt,organizations,Southern Africa
+2008,0811092.txt,organizations,Pathfinder International
+2008,0811092.txt,organizations,Chill Club
+2008,0811092.txt,organizations,City Pry School
+2008,0811092.txt,organizations,Malteser International
+2008,081111.txt,people,Andy Sewell
+2008,081111.txt,people,Dan Barouch
+2008,081111.txt,places,Britain
+2008,081111.txt,places,Boston
+2008,081111.txt,organizations,Beth Israel Deaconess Medical Centre
+2008,081111.txt,organizations,Reuters
+2008,081111.txt,organizations,Cardiff University
+2008,081111.txt,organizations,Harvard Medical School
+2008,081118.txt,people,Mr Linden
+2008,081118.txt,people,Waki
+2008,081118.txt,people,Barbier
+2008,081118.txt,people,OLIVER MATHENGE
+2008,081118.txt,people,Linden
+2008,081118.txt,people,Kriegler
+2008,081118.txt,people,Elisabeth Barbier
+2008,081118.txt,people,DAVID MUGONYI
+2008,081118.txt,organizations,European Development Days
+2008,081118.txt,organizations,Kenya Revenue Authority
+2008,081118.txt,organizations,Government
+2008,081118.txt,organizations,European Union
+2008,081118.txt,organizations,Waki Commission
+2008,081118.txt,organizations,EU
+2008,081118.txt,organizations,Grand Coalition Government
+2008,081119.txt,people,Asunta Wagura
+2008,081119.txt,organizations,Kenya Network of Women
+2008,0811191.txt,people,Kioko Nzau
+2008,0811191.txt,places,Nairobi
+2008,0811191.txt,places,P.O.
+2008,0811192.txt,people,David
+2008,0811192.txt,people,Kayole
+2008,0811192.txt,people,Irene Nyamu
+2008,0811192.txt,people,Njenga
+2008,0811192.txt,people,Brian
+2008,0811192.txt,people,Japheth Njenga
+2008,0811192.txt,people,Shauri Moyo
+2008,0811192.txt,people,Hassan
+2008,0811192.txt,people,Brian Weke
+2008,0811192.txt,people,MILLICENT MWOLOLO
+2008,0811192.txt,places,Nairobi
+2008,0811192.txt,places,Jericho
+2008,0811192.txt,places,Kibera
+2008,0811192.txt,places,Bahati
+2008,0811192.txt,places,Marsabit
+2008,0811192.txt,places,Eastlands
+2008,0811192.txt,organizations,Childline Kenya
+2008,0811192.txt,organizations,Child Helpline
+2008,0811192.txt,organizations,Child Rights Advisory Documentation
+2008,0811192.txt,organizations,Children’s Department
+2008,0811192.txt,organizations,BJ
+2008,0811192.txt,organizations,Shangilia Mtoto wa Afrika
+2008,081121.txt,people,Monica Kilonzo
+2008,081121.txt,people,Kilonzo
+2008,081121.txt,people,Kise
+2008,081121.txt,places,Nairobi
+2008,081121.txt,places,Kenya
+2008,081121.txt,organizations,Special Education
+2008,081122.txt,people,Njoki Ndung
+2008,081122.txt,places,Nairobi
+2008,081122.txt,places,Kenya
+2008,0811252.txt,people,Cherutich
+2008,0811252.txt,people,Peter Cherutich
+2008,0811252.txt,people,JOHN NGIRACHU
+2008,0811252.txt,people,James Gesami
+2008,0811252.txt,places,Kenya
+2008,0811252.txt,places,Nyanza
+2008,0811252.txt,organizations,Melinda Gates Foundation
+2008,0811252.txt,organizations,US Government
+2008,0811252.txt,organizations,Panafric Hotel
+2008,081126.txt,places,Anyang
+2008,081126.txt,organizations,Meru Central District Hospital
+2008,081126.txt,organizations,Githongo District Hospital
+2008,0811262.txt,people,PATRICK MUTHURIand CHARLES WANYORO
+2008,0811262.txt,places,Anyang
+2008,0811262.txt,organizations,Meru Central District Hospital
+2008,0811262.txt,organizations,Githongo District Hospital
+2008,0811271.txt,people,Nana Warinda
+2008,0811271.txt,people,Moi
+2008,0811271.txt,places,Nakuru
+2008,0811271.txt,organizations,NAKURU Beauty
+2008,0811271.txt,organizations,Waterbuck Hotel
+2008,0811271.txt,organizations,Nyayo Garden
+2008,081128.txt,people,Willis Akhwale
+2008,081128.txt,people,Kehya
+2008,081128.txt,people,MIKE MWANIKI
+2008,081128.txt,people,Mugo
+2008,081128.txt,places,Kenya
+2008,081128.txt,organizations,Government
+2008,081128.txt,organizations,Ministry of Health Official
+2008,081128.txt,organizations,m North Eastern
+2008,0811282.txt,people,Willis Akhwale
+2008,0811282.txt,people,Beth Mugo
+2008,0811282.txt,people,MIKE MWANIKI
+2008,0811282.txt,places,Kenya
+2008,0811282.txt,places,Nyanza
+2008,0811282.txt,places,North Eastern
+2008,0811282.txt,organizations,Government
+2008,0811282.txt,organizations,Public Health
+2008,0811282.txt,organizations,IDV
+2008,0811282.txt,organizations,Nyanza
+2008,0811282.txt,organizations,Kenya Aids Indicator Survey
+2008,081202.txt,people,Mr Siganga
+2008,081202.txt,people,Sheikh Dor
+2008,081202.txt,people,Waudo Siganga
+2008,081202.txt,places,Kenya
+2008,081202.txt,organizations,ARV
+2008,081202.txt,organizations,Coast Province
+2008,081202.txt,organizations,National Aids Control Council
+2008,081202.txt,organizations,Coast
+2008,081202.txt,organizations,Mombasa Municipal Stadium
+2008,081202.txt,organizations,Council of Imams and Preachers of Kenya
+2008,081203.txt,people,Kinuthia Mbugua
+2008,081203.txt,people,MACHARIA MWANGI
+2008,081203.txt,people,Mr Mbugua
+2008,081203.txt,places,Naivasha
+2008,081203.txt,organizations,Administration Police Training College
+2008,081203.txt,organizations,Administration Police
+2008,081207.txt,people,SAM WAMBUGU
+2008,081207.txt,places,Kenya
+2008,081207.txt,places,Indonesia
+2008,081207.txt,places,Uganda
+2008,081207.txt,places,South Africa
+2008,081207.txt,places,India
+2008,081207.txt,organizations,Research Triangle International
+2008,081207.txt,organizations,British Broadcasting Corporation
+2008,081207.txt,organizations,Wireless Reach Kenya Partnership
+2008,081207.txt,organizations,BBC Trust
+2008,081207.txt,organizations,PCM
+2008,081207.txt,organizations,BBC World Service Trust
+2008,081209.txt,places,Embu
+2008,081209.txt,organizations,St. marks Teachers
+2008,081209.txt,organizations,SILAS NTHIGA Nine Anglican Church of Kenya
+2008,081224.txt,people,Boniface Mouti
+2008,081224.txt,people,Muli Munyeke
+2008,081224.txt,people,Kay                                                   Rose N.
+2008,081224.txt,people,Kibwezi
+2008,081224.txt,people,Ayub Muhanji
+2008,081224.txt,people,Ngatho Bundi
+2008,081224.txt,people,Mwendwa G. Murianki
+2008,081224.txt,places,Kakamega
+2008,081224.txt,places,Nairobi
+2008,081224.txt,places,P.O.
+2008,081224.txt,places,Maina
+2008,081224.txt,places,Arusha
+2008,081224.txt,organizations,USA
+2008,081224.txt,organizations,Children’s Department
+2008,081224.txt,organizations,Igwe Cliff
+2008,081225.txt,people,Mr Kiamba
+2008,081225.txt,people,Kiamba
+2008,081225.txt,people,DOROTHY KWEYU
+2008,081225.txt,people,Veronica Nthenya
+2008,081225.txt,places,Mukuru
+2008,081225.txt,places,Kenya
+2008,081225.txt,places,Zambia
+2008,081225.txt,places,Horizon
+2008,081225.txt,places,Nairobi South B
+2008,081225.txt,organizations,J&J
+2008,081225.txt,organizations,Pepfar
+2008,081225.txt,organizations,Johnson & Johnson
+2008,081225.txt,organizations,Mukuru Women Empowerment and Community Health Initiative
 2009,09011202NC0112.txt,people,Ervan
 2009,09011202NC0112.txt,people,Barak
 2009,09011202NC0112.txt,people,Mr Hertl
