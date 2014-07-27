@@ -44,7 +44,7 @@ years.forEach(function(y) {
                     })
                 })
             }
-            delete(yc[c])
+            // delete(yc[c])
         })
     })
 
