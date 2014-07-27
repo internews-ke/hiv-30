@@ -31,6 +31,17 @@ set choice count limit > ok
 * test viz
 
 ------
+####LOG (7/26/14)
+* did 2007-2008 correct, moved files to hiv cluster
+* ran node process
+* moved all `output` .json files to hiv_30-cluster `data` folder
+* fixed intro bracket issue (need to wrap it in an hiv object):
+`{"name": "hiv",
+"children": [{
+  }
+]}`
+
+
 
 
 ####LOG (7/4/14)
