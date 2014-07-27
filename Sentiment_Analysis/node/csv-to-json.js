@@ -50,12 +50,12 @@ years.forEach(function(y) {
 
     var outFile = path.join(__dirname, 'output', 'hiv-' + y.name + '.json')
 
-    fs.writeFileSync(outFile, pp(y))
+    fs.writeFileSync(outFile, pp({ name:"hiv", children:[y] }))
     console.log('Saved to ' + outFile)
 
 })
 
 function pp(o) {
-    // return JSON.stringify(o)
-    return JSON.stringify(o, null, 2)
+    return JSON.stringify(o)
+    // return JSON.stringify(o, null, 2)
 }

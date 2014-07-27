@@ -52,7 +52,12 @@ set choice count limit > ok
 	* reformated script to run for dated files items: `ls *.txt | sed -e 's/\(..\)\(..\)\(..\)\(.\)/mv \1\2\3\4.txt \3\2\1\4/' | sh`
 * start node process (7/16/14)
 	* see "local process" above
-* moved all `output` .json files to 
+* moved all `output` .json files to hiv_30-cluster `data` folder
+* fixed intro bracket issue (need to wrap it in an hiv object):
+`{"name": "hiv",
+"children": [{
+  }
+]}`
 
 ####QUESTIONS
 * there was a folder of "corrected" files in the 1991 batch, why?
