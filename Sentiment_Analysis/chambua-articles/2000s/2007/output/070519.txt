@@ -1,0 +1,1 @@
+{"people":["Zeng Jinyan","Mr Hu"],"organizations":["NGOs","Reuters","Communist Party"],"places":[{"name":"Hong Kong","latitude":22.28552,"longitude":114.15769,"place_type":"City"},{"name":"Beijing","latitude":40.25,"longitude":116.5,"place_type":"Adm"},{"name":"BEIJING","latitude":40.25,"longitude":116.5,"place_type":"Adm"}]}

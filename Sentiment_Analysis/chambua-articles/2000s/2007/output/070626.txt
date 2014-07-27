@@ -1,0 +1,1 @@
+{"people":["Nzimbi"],"organizations":["Kenya Institute of Education","Kenya Episcopal Conference","All Saints Cathedral","Catholic Church","General Election","Nzimbi"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

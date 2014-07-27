@@ -1,0 +1,1 @@
+{"organizations":["Equal Reaper","Kenya Airways"],"places":[{"name":"Cameroon","latitude":6.0,"longitude":12.0,"place_type":"Country"},{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"}]}

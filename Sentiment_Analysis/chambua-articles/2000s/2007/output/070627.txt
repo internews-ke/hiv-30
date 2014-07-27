@@ -1,0 +1,1 @@
+{"people":["Oprah","Asunta Wagura","Oprah Winfrey"],"organizations":["Kenya Network of Women"]}

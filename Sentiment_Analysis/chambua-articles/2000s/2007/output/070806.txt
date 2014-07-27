@@ -1,0 +1,1 @@
+{"people":["Nyambura","Joshua","Peter","Josh\\","Kadogo","Richard","Asunta Wagura"],"organizations":["Kenya Network of Women"],"places":[{"name":"Joshua","latitude":34.13473,"longitude":-116.31307,"place_type":"City"}]}

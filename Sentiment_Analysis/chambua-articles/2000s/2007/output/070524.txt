@@ -1,0 +1,1 @@
+{"people":["Ms. Tshabala Msimang","Ms. Tshabalala- Msimang"],"organizations":["Reuters"],"places":[{"name":"Cape town","latitude":-33.92584,"longitude":18.42322,"place_type":"City"},{"name":"South Africa","latitude":-30.0,"longitude":26.0,"place_type":"Country"},{"name":"CAPETOWN","latitude":-21.50908,"longitude":26.99687,"place_type":"City"}]}

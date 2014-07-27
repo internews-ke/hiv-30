@@ -1,0 +1,1 @@
+{"organizations":["World Health Organisation","Reuters"],"places":[{"name":"LONDON","latitude":51.50853,"longitude":-0.12574,"place_type":"City"}]}

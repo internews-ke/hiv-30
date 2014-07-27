@@ -1,0 +1,1 @@
+{"people":["Mr. Bush","George W. Bush"],"organizations":["Nation Correspondent NEW YORK  Several","White House Rose"],"places":[{"name":"US","latitude":39.76,"longitude":-98.5,"place_type":"Country"}]}

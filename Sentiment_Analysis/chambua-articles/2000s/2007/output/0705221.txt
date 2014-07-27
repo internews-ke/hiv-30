@@ -1,0 +1,1 @@
+{"people":["Samwel Mburu","Dan Waweru","Ronald Otieno","Thomas Sigei"],"organizations":["Kericho Youth Center","Kericho District Aids Day Soccer"],"places":[]}

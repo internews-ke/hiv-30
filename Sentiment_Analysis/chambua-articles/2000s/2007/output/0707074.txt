@@ -1,0 +1,1 @@
+{"people":["Mr Piot","Piot","Rose Migiro","Margaret Chan","Migiro","Peter Piot"],"organizations":["ARV","Kenyatta International Conference Centre","Young Christian Association","UNAids","Young Women Christian Association","Joint United Programme","United Nations","Nations"],"places":[{"name":"Nairobi","latitude":-1.28333,"longitude":36.81667,"place_type":"City"}]}

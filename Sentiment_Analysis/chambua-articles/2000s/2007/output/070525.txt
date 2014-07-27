@@ -1,0 +1,1 @@
+{"places":[{"name":"Gujarat","latitude":23.0,"longitude":72.0,"place_type":"Adm"},{"name":"India","latitude":20.0,"longitude":77.0,"place_type":"Country"}]}

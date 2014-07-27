@@ -1,0 +1,1 @@
+{"organizations":["European Union","AFRICA NEWS Libya Court"],"places":[{"name":"United States","latitude":39.76,"longitude":-98.5,"place_type":"Country"},{"name":"Libya","latitude":25.0,"longitude":17.0,"place_type":"Country"},{"name":"TRIPOLI","latitude":32.87519,"longitude":13.18746,"place_type":"City"}]}

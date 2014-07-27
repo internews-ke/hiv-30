@@ -1,0 +1,1 @@
+{"organizations":["Reuters"],"places":[{"name":"New Delhi","latitude":28.63576,"longitude":77.22445,"place_type":"City"}]}
