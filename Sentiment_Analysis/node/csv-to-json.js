@@ -44,7 +44,7 @@ years.forEach(function(y) {
                     })
                 })
             }
-            // delete(yc[c])
+            delete(yc[c])
         })
     })
 
@@ -52,8 +52,12 @@ years.forEach(function(y) {
 
     fs.writeFileSync(outFile, pp({ name:"hiv", children:[y] }))
     console.log('Saved to ' + outFile)
-
 })
+
+var outFile = path.join(__dirname, 'output', 'hiv-all.json')
+
+fs.writeFileSync(outFile, pp({ name:"hiv", children: years }))
+console.log('Saved to ' + outFile)
 
 function pp(o) {
     return JSON.stringify(o)
