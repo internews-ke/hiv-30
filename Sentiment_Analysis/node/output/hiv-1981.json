@@ -1,1 +1,37 @@
-{"name":"hiv","children":[{"name":"1981","children":[{"name":"81070814DN.txt","children":[{"name":"people","children":[{"name":"Dr. James Curran"},{"name":"Dr. Curran"}]},{"name":"places","children":[{"name":"United States"},{"name":"California"},{"name":"US"},{"name":"New York"}]},{"name":"organizations","children":[{"name":"Kaposi Sarcoma"}]}]}]}]}
+{
+  "name": "hiv",
+  "children": [
+    {
+      "name": "1981",
+      "children": [
+        {
+          "name": "08-07-81",
+          "children": [
+            {
+              "name": "people",
+              "terms": [
+                "Dr. James Curran",
+                "Dr. Curran"
+              ]
+            },
+            {
+              "name": "places",
+              "terms": [
+                "United States",
+                "California",
+                "U.S.A.",
+                "New York"
+              ]
+            },
+            {
+              "name": "organizations",
+              "terms": [
+                "Kaposi Sarcoma"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

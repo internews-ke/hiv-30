@@ -22,7 +22,7 @@ rows.forEach(function(row) {
     var year = years[row.year] || { name: row.year, articles: {} }
     years[row.year] = year
 
-    var article = year.articles[row.file] || { name: row.file, people: [], places: [], organizations: [] }
+    var article = year.articles[row.file] || { name: fileNameToDate(row.file), people: [], places: [], organizations: [] }
     year.articles[row.file] = article
 
     article[row.cluster].push(row.value)
@@ -39,8 +39,8 @@ years.forEach(function(y) {
             if (yc[c].length) {
                 yc.children.push({
                     name: c,
-                    children: yc[c].map(function(d) {
-                        return { name: d }
+                    terms: yc[c].map(function(d) {
+                        return d
                     })
                 })
             }
@@ -60,6 +60,16 @@ fs.writeFileSync(outFile, pp({ name:"hiv", children: years }))
 console.log('Saved to ' + outFile)
 
 function pp(o) {
-    return JSON.stringify(o)
-    // return JSON.stringify(o, null, 2)
+    // return JSON.stringify(o)
+    return JSON.stringify(o, null, 2)
 }
+
+function fileNameToDate(f){
+    // 91080707DN.txt
+    // 1991  08 07
+    // console.log(f)
+    var y = f.slice(0,2)
+    var m = f.slice(2,4)
+    var d = f.slice(4,6)
+    return [d, m, y].join('-')
+};
